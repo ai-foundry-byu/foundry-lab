@@ -1,0 +1,214 @@
+---
+title: "Request for Proposals"
+author: "Scott Murff"
+date: "9/2/2026"
+format:
+  html: default
+  pdf: default
+---
+
+::: {.course-numbers-page}
+BYU AI Foundry · 2026–2027
+:::
+
+# Request for Proposals
+
+**BYU Marriott School of Business is seeking industry partners for the 2026 to 2027 AI Foundry
+program.**
+
+Sponsoring organizations bring a real, open-ended business problem. A faculty-guided team of
+BYU Marriott students spends the full academic year designing, prototyping, and testing an
+AI-enabled solution to it, and delivers a decision system the sponsor owns outright.
+
+[**Submit a Project →**](https://byu.capsource.app/)
+
+## Program Overview
+
+The AI Foundry is a year-long applied program running **September 2, 2026 through April 14,
+2027**. It sits inside the Marriott School's Strategic Management program and is cross-listed
+for MBA and senior undergraduate students (MBA 693R and STRAT 490R).
+
+Where BYU's engineering capstones build physical and embedded systems, the AI Foundry builds
+**business decision systems**: strategy frameworks, prioritization and scoring models,
+forecasting and predictive analytics, financial models, and the software that puts those in
+front of a decision maker.
+
+## About the Students
+
+Students are MBA candidates and senior undergraduates in Strategic Management at the BYU
+Marriott School of Business. Most have completed coursework in product management and applied
+AI before joining a Foundry team, and many bring prior industry or internship experience in
+consulting, finance, product, and analytics.
+
+**Strategy and business**
+
+- Corporate and business unit strategy
+- Business model design and evaluation
+- Portfolio management and resource allocation
+- Scenario planning and competitive intelligence
+- Market and industry analysis
+- Commercialization and go-to-market
+
+**Data science and AI**
+
+- Machine learning and predictive analytics
+- Forecasting and time series modeling
+- Applied LLM and agent development
+- Python, SQL, and modern AI tooling
+- Explainable model design
+- Data mining and statistical analysis
+
+**Financial and economic modeling**
+
+- Financial forecasting and revenue modeling
+- NPV, IRR, and payback analysis
+- Sensitivity analysis and Monte Carlo simulation
+- Unit economics and margin analysis
+- Capital allocation and cash flow modeling
+
+**Product and delivery**
+
+- Product discovery and customer research
+- Requirements definition and prioritization
+- Rapid prototyping and AI-assisted software development
+- Dashboard and decision tool design
+- Executive communication and synthesis
+
+The program is directed by Scott Murff, Associate Teaching Professor of Strategy, formerly a
+principal product manager and analytics consultant at McKinsey & Company.
+
+## Program Goals
+
+Over the year, student teams will:
+
+1. Translate an ambiguous business problem into a decision that can be made with evidence
+2. Design a repeatable framework with explicit criteria, thresholds, and business rules
+3. Build and validate AI and analytical models against real data
+4. Quantify uncertainty and show how recommendations change under alternative assumptions
+5. Deliver explainable outputs that a decision maker can act on and defend
+6. Communicate findings at an executive standard
+
+## Collaboration Format
+
+| Component | Details |
+|-----------|---------|
+| **Duration** | 8 months, 2 semesters, 32 weeks |
+| **Period** | September 2, 2026 – April 14, 2027 |
+| **Team size** | 4–6 students, one dedicated team per project |
+| **Student effort** | 8–12 hours per week, per student |
+| **Sponsor commitment** | ~1 hour per week |
+| **Modality** | Remote, with optional on-site visits |
+| **Faculty oversight** | Faculty director reviews all milestones independently |
+
+Each team carries a client lead who owns the relationship, builders who do the work, and a QC
+lead who signs off on everything before it reaches the sponsor.
+
+The engagement follows six phases: problem definition and scoping, framework design, model
+build and prototyping, validation and sensitivity testing, refinement and integration, and
+final delivery.
+
+## Deliverables
+
+Project-dependent, but typically include:
+
+- Strategy assessment and validation report
+- Decision framework with explicit criteria, thresholds, and business rules
+- Scoring and prioritization model
+- Predictive or forecasting model with documented performance
+- Scenario and sensitivity analysis
+- Optimization model under real capital and capacity constraints
+- Executive decision dashboard or prototype application
+- Explainable model output showing which assumptions drive each recommendation
+- Executive summary and final presentation
+- Full repository and handoff documentation
+
+Every deliverable carries an explainability requirement. If the team cannot walk the sponsor
+through why the model recommends what it recommends, it is not considered complete.
+
+## Ideal Project Types
+
+Strong fits include:
+
+- **Portfolio and resource allocation**: which products, markets, or investments deserve
+  scarce capital and management attention
+- **AI-enabled decision support**: turning a recurring judgment call into a repeatable,
+  evidence-based framework
+- **Forecasting and predictive analytics**: demand, revenue, price, churn, risk
+- **Market entry and commercialization**: where to play and how to win in a new category
+- **Build, buy, or partner evaluation**: structured evaluation of strategic options
+- **Business model evaluation**: pricing, channel, and unit economics analysis
+- **Product strategy and prototyping**: defining and building toward a new product direction
+- **Operational analytics**: decision systems for recurring operating choices
+
+The strongest projects share three traits: the answer is genuinely not known in advance, the
+decision recurs so a framework is worth more than a one-off analysis, and enough data exists
+for the team to work with.
+
+**Poor fits:** work that is already fully specified and just needs hands, staff augmentation on
+an existing backlog, production software engineering, projects requiring systems access that
+cannot be provisioned, and safety-, clinical-, or compliance-critical determinations.
+
+## Partner Expectations
+
+Sponsoring organizations agree to:
+
+- Define the challenge statement collaboratively with the team during the first six weeks
+- Assign a single point of contact with authority to answer scope questions
+- Hold a standing weekly call of 30 to 45 minutes
+- Provide data access early, and provision any necessary accounts
+- Answer decision requests raised in the weekly update within one week
+- Participate in four milestone reviews across the year
+- Complete a mid-year and an end-of-year team evaluation
+- Accept public recognition as a sponsor, unless anonymity is requested
+
+## Sponsorship
+
+**$22,000 per project.** The fee covers faculty oversight and direction, student team time
+across two semesters, software and API costs, data and tooling access, program administration,
+and the final delivery showcase.
+
+**Intellectual property:** sponsors retain full rights to all deliverables, documentation, code,
+models, and IP produced during the engagement.
+
+**Confidentiality:** every student signs the sponsor's NDA, or the Foundry's standard mutual
+NDA. Client data is confined to the approved project repository and approved tools, and local
+copies are deleted at the end of the engagement.
+
+## Key Dates
+
+| Milestone | Date |
+|-----------|------|
+| Project proposal deadline | July 31, 2026 |
+| Projects finalized and scoped | August 14, 2026 |
+| Student teams assigned | August 24, 2026 |
+| Project launch | September 2, 2026 |
+| M1: Problem definition and framework | October 16, 2026 |
+| M2: Working prototype | December 11, 2026 |
+| Mid-year sponsor evaluation due | December 11, 2026 |
+| M3: Validated model | February 19, 2027 |
+| M4: Final delivery and showcase | April 9, 2027 |
+| Program concludes | April 14, 2027 |
+
+## Capacity
+
+The Foundry runs a deliberately small number of engagements per year so each team can be
+staffed and supervised properly. Projects are accepted on a rolling basis until capacity is
+reached.
+
+## Submission Process
+
+1. Submit a project concept through the program page
+2. The program director reviews for fit and follows up within one week
+3. A 45-minute alignment call covers scope, timing, expectations, and administrative steps
+4. Scope is confirmed in writing along with sponsorship and IP terms
+5. Detailed scoping continues with the student team through Milestone 1 in October
+
+## Contact
+
+**Scott Murff**
+
+Director, AI Foundry · Program Director, Strategic Management
+
+Brigham Young University, Marriott School of Business
+
+scott.murff@byu.edu

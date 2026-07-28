@@ -1,0 +1,108 @@
+# Build Standards
+
+Milestones are graded against these standards. They are also what separates work a client pays
+for from work a client tolerates.
+
+## The Four Dimensions
+
+Every deliverable is scored on correctness, usefulness, explainability, and craft.
+
+### Correctness
+
+- Every number in a client-facing document traces to a source you can point to
+- Totals reconcile. If your revenue baseline is 2% off the client's actuals, you find out why
+  before you present it, not after they do
+- Assumptions are written down as assumptions, with the value used and the reason for it
+- If you do not know something, the deliverable says so. Fabricated precision is worse than an
+  honest range
+
+### Usefulness
+
+- The deliverable answers the question the client actually asked
+- A decision maker can act on it without a translation layer
+- Recommendations name what to do, not merely what is interesting
+- Scope creep is not usefulness. If the client's question changed, renegotiate it in writing
+
+### Explainability
+
+This is the standard the Foundry is built around, and it is where AI-assisted work most often
+fails.
+
+- For any model output, you can state which inputs drove it and by how much
+- Rankings come with sensitivity: what would have to change for the order to change
+- A model no one on the team can explain is not shippable, regardless of how good the output
+  looks
+- "The model said so" is never an answer to a client question
+
+### Craft
+
+- The repository is clean, has a README, and someone outside the team could run it
+- Documents are proofread. Charts are labeled. Slides have a point per slide
+- File naming is consistent and dated
+- No client data in personal accounts, personal repos, or unapproved tools
+
+## Repository Standards
+
+Every engagement has one private repository in the `ai-foundry-byu` GitHub organization, named
+`client-<slug>`.
+
+```
+client-<slug>/
+  README.md          What this is, how to run it, who to ask
+  data/              Never committed. Documented in README, stored per client agreement
+  analysis/          Notebooks and scripts, in order, that reproduce every number
+  model/             The model itself, with its assumptions in one place
+  deliverables/      What the client actually receives, versioned by milestone
+  docs/              Meeting notes, decision log, scope changes
+```
+
+Two rules that are not negotiable:
+
+1. **No secrets or client data in the repository.** Ever. Credentials live in the client's own
+   systems or an approved secret store.
+2. **Every number in a deliverable is reproducible** from something in `analysis/`. If you
+   cannot rerun it, you cannot defend it.
+
+## The Decision Log
+
+Keep `docs/decisions.md` current. One entry per material decision:
+
+```
+2026-10-09: Price erosion assumption
+Decision: Use 12% annual erosion for specialty, 18% for hospital, rather than a
+flat 15% across the portfolio.
+Why: Client's 2023-2025 actuals show materially different curves by channel.
+Who: Confirmed with Brian Guy on the Oct 8 call.
+Reversible: Yes. Sensitivity range 8-22% is built into the model.
+```
+
+This is the single highest-leverage habit in the course. It is what lets you answer "why did
+you assume that" six months later, and it is what makes handoff possible.
+
+## QC Gate
+
+Nothing goes to the client without the QC lead's sign-off. The QC lead checks:
+
+- [ ] Every number traces to a source
+- [ ] Totals reconcile against the client's own figures where those exist
+- [ ] Assumptions are stated, with values and reasons
+- [ ] Model outputs are explainable in plain language
+- [ ] Sensitivity is shown for anything presented as a ranking or a recommendation
+- [ ] No client data or secrets in the repository
+- [ ] Document is proofread, charts are labeled, filenames are clean
+
+A milestone that fails QC after it reaches the client costs the whole team craft points. Catch
+it internally.
+
+## Working with AI
+
+Use AI tools hard. They are why a team of five can deliver what used to take fifteen.
+
+- **Generate freely, verify always.** Treat every model output as a draft from a fast, capable,
+  occasionally confident-and-wrong analyst.
+- **Check citations and figures by hand.** Fabricated sources have ended real consulting
+  engagements.
+- **Keep client data out of unapproved tools.** See the confidentiality terms in the
+  [Syllabus](01-syllabus.qmd).
+- **Document your method.** Milestone documentation should state which tools you used, for
+  what, and how you validated the output. This is not a confession, it is methodology.

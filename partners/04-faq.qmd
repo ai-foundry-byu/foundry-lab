@@ -1,0 +1,116 @@
+# Frequently Asked Questions
+
+## Cost and Terms
+
+### What does it cost?
+
+$22,000 per project for the full academic year. This matches the BYU engineering capstone
+sponsorship fee.
+
+### What does the fee cover?
+
+Faculty oversight and direction, student team time across two semesters, software and API costs,
+data and tooling access, program administration, and the final delivery showcase.
+
+### When is payment due?
+
+Payment terms and vendor setup are handled through BYU. Contact the program director and we will
+connect you with the right administrative contact early, so vendor onboarding does not delay the
+project start.
+
+### Is there a formal agreement?
+
+Yes. Sponsorship is confirmed in writing before the project starts, covering scope, fee, IP,
+and confidentiality.
+
+## Intellectual Property and Confidentiality
+
+### Who owns the work?
+
+You do. Sponsors retain all deliverables and intellectual property, including code, models,
+documents, and analysis.
+
+### Will students sign an NDA?
+
+Yes. Every student on the team signs your NDA, or the Foundry's standard mutual NDA if you
+prefer. This happens before any data is shared.
+
+### How is our data handled?
+
+Client data stays in the approved project repository and approved tools. It does not go into
+students' personal accounts, personal cloud storage, or unapproved AI services. Students delete
+local copies at the end of the engagement. Data handling terms can be tightened to match your
+requirements.
+
+### Can students talk about the project publicly?
+
+Not without your written permission. That includes LinkedIn, portfolios, and job interviews.
+The default is that the engagement is confidential. Many sponsors do grant permission for a
+general description, which helps students and costs you nothing, but it is your call.
+
+### Do you use AI tools on our data?
+
+Yes, that is the point of the program, and it is governed. Students use approved tools only,
+under your data handling terms. If you have a specific list of permitted or prohibited AI
+services, tell us at kick-off and we will scope the toolchain to it.
+
+## Scope and Fit
+
+### What makes a strong project?
+
+An open-ended business question where the answer is not known in advance, where the decision
+recurs so a repeatable framework is worth more than a one-off analysis, and where enough data
+exists for the team to work with. See the [RFP](05-rfp.qmd) for detail.
+
+### What makes a weak project?
+
+A task that is already specified and just needs hands, work that requires proprietary systems
+access we cannot get, anything safety- or compliance-critical, or a question whose answer you
+already know and want validated.
+
+### Can the scope change mid-year?
+
+Yes, in writing. Changes get documented in the decision log and confirmed in the weekly update.
+What we manage against is quiet expansion, where questions are added without anything coming off
+the plan.
+
+### What if the project isn't going well?
+
+Contact the program director immediately. Most engagement problems are fixable in week 5. Early
+intervention is normal program operation, not an escalation.
+
+## Working Arrangements
+
+### How much of my time does this take?
+
+About an hour a week: a 30 to 45 minute standing call, plus reading the weekly update and
+answering the decisions it asks for. Plus four milestone reviews across the year.
+
+### Do we need to be local to Utah?
+
+No. Engagements run remote by default. On-site visits are welcome but not required.
+
+### Do we provide equipment or accounts?
+
+Students use their own machines. You may need to provision accounts for data or systems access,
+which we will scope at kick-off.
+
+### Can we hire the students?
+
+Yes, and many sponsors do. Recruiting access is one of the real benefits of sponsorship. Please
+route offers through the program director during the engagement so it does not disrupt the team.
+
+### Can we extend or run a second project?
+
+Yes. Follow-on engagements and paid summer extensions are both common. Extensions are optional
+and not part of the base program.
+
+## Who should I contact?
+
+**Scott Murff**
+
+Director, AI Foundry · Program Director, Strategic Management
+
+Brigham Young University, Marriott School of Business
+
+scott.murff@byu.edu

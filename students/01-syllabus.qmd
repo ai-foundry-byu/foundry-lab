@@ -1,0 +1,317 @@
+---
+title: "Syllabus"
+author: "Scott Murff"
+date: "9/2/2026"
+format:
+  html: default
+  pdf: default
+---
+
+::: {.course-numbers-page}
+MBA 693R · STRAT 490R
+:::
+
+*FALL 2026 – WINTER 2027*
+
+|                           |                            |
+|---------------------------|----------------------------|
+| **Instructor**            | Scott Murff                |
+| **Class Time**            | Fridays, 8:00–11:50 AM     |
+| **Class Location**        | 2140 TNRB                  |
+| **Office Hours**          | Fridays, 11:00 AM–12:00 PM |
+| **LMS**                   | Canvas                     |
+
+## Course Numbers
+
+This course is cross-listed under two course numbers. It is all the same class: everyone meets
+together Fridays 8:00 to 11:50 AM in 2140 TNRB, works on the same client teams, uses this site,
+and uses Canvas as the LMS. Register under whichever number fits your program.
+
+| Course | Section | Title | Credit Hours |
+|--------|---------|-------|--------------|
+| MBA 693R | 011 | Special Topics in Management | 3.0 |
+| STRAT 490R | 001 | Topics in Strategic Management | 3.0 |
+
+::: {.callout-note}
+**Canvas** is used only for submitting milestone deliverables and your final video reflection,
+and for reviewing grades. All other course content lives on this website.
+:::
+
+## What This Course Is
+
+You are on a delivery team for a paying client. The client has sponsored this project, retains
+the intellectual property, and expects professional work. Your grade reflects both the quality
+of what you ship and the professionalism with which you ship it.
+
+This is a two-semester course. You enroll each semester. Fall establishes the problem, the
+framework, and a working prototype. Winter hardens the build, validates it, and delivers.
+
+## Studio Time
+
+The Friday 8:00 to 11:50 AM block in 2140 TNRB is your team's standing work session:
+co-working, cross-team critique, client calls, and office hours with Professor Murff.
+
+**Required sessions:**
+
+| Date | Session |
+|------|---------|
+| September 4, 2026 | Kick-off, team formation, client introductions |
+| October 16, 2026 | Milestone 1 review (problem definition and framework) |
+| December 11, 2026 | Milestone 2 review (working prototype) |
+| February 19, 2027 | Milestone 3 review (validated model) |
+| April 9, 2027 | Final delivery and showcase |
+
+All other Fridays are optional but strongly encouraged. Teams that skip studio time
+consistently underperform.
+
+## Grading
+
+Grades are based on weekly update emails, four milestone deliverables, client evaluation,
+peer evaluation, and a video reflection.
+
+### Grade Components (500 points possible)
+
+| Component | Points | Weight |
+|-----------|--------|--------|
+| Weekly Update Emails | 140 pts | 28% |
+| Milestone Deliverables | 160 pts | 32% |
+| Client Evaluation | 100 pts | 20% |
+| Peer / Team Evaluation | 60 pts | 12% |
+| Video Reflection | 40 pts | 8% |
+| **Base Total** | **500 pts** | 100% |
+| Extra Credit (BYU Student Ratings) | 10 pts | +2% |
+
+### Weekly Update Emails (140 points)
+
+28 emails across two semesters, 5 points each.
+
+| Status | Points |
+|--------|--------|
+| On time (Saturday by 11:59 PM) | 5 pts |
+| Late (by Monday 12:00 PM noon) | 2 pts |
+| After Monday noon | 0 pts |
+
+See [Weekly Updates](03-weekly-updates.qmd) for format and expectations.
+
+### Milestone Deliverables (160 points)
+
+Four milestones, 40 points each. These are graded by the faculty director against the
+[Build Standards](04-build-standards.qmd), not by the client.
+
+| Milestone | Due | What is due |
+|-----------|-----|-------------|
+| M1: Problem definition and framework | October 16, 2026 | Written problem statement the client has signed off on, decision criteria, success measures |
+| M2: Working prototype | December 11, 2026 | Something that runs, on real or realistic data, with the logic documented |
+| M3: Validated model | February 19, 2027 | Sensitivity analysis, stated assumptions, explainable outputs, known limitations |
+| M4: Final delivery | April 9, 2027 | Executive summary, decision tool or dashboard, handoff documentation, repository |
+
+Each milestone is scored on four dimensions, 10 points each:
+
+| Dimension | What earns full marks |
+|-----------|----------------------|
+| **Correctness** | The analysis holds up. Numbers reconcile. Assumptions are stated and defensible. |
+| **Usefulness** | A decision maker could act on it. It answers the client's actual question. |
+| **Explainability** | Someone outside the team can follow why the model says what it says. |
+| **Craft** | Clean repository, readable code and documents, professional presentation. |
+
+### Client Evaluation (100 points)
+
+Your client point of contact evaluates the team twice: at mid-term for development only, and
+at the end of the year as an input to your grade. Five dimensions on a 1 to 7 scale. See
+[Evaluation](../partners/03-evaluation.qmd) for the exact questions.
+
+| Category | Max Points |
+|----------|------------|
+| Timeliness | 20 |
+| Communication | 20 |
+| Agency | 20 |
+| Technical Competency | 20 |
+| Contribution | 20 |
+| **Total** | **100** |
+
+| Client Score (1-7) | Points |
+|--------------------|--------|
+| 7 | 20 |
+| 6 | 17 |
+| 5 | 14 |
+| 4 | 11 |
+| 3 | 9 |
+| 2 | 6 |
+| 1 | 3 |
+
+The client scores the team. Individual adjustments come from peer evaluation.
+
+### Peer / Team Evaluation (60 points)
+
+Team delivery only works if the load is shared. Each teammate evaluates every other teammate
+at mid-term and at the end of the year on four dimensions, 1 to 7 scale.
+
+| Dimension | Question |
+|-----------|----------|
+| Reliability | They did what they said they would do, when they said they would |
+| Quality | Their work did not need to be redone |
+| Collaboration | They made the rest of the team more effective |
+| Load | They carried a fair share of the hard work |
+
+| Peer Score (1-7 average) | Points |
+|--------------------------|--------|
+| 7 | 15 |
+| 6 | 13 |
+| 5 | 11 |
+| 4 | 9 |
+| 3 | 7 |
+| 2 | 4 |
+| 1 | 2 |
+
+::: {.callout-warning}
+A student whose peer average falls below 3.0 at mid-term will meet with the program director.
+Sustained free-riding is grounds for removal from the team and a failing grade, regardless of
+what the client's team-level score says.
+:::
+
+### Video Reflection (40 points)
+
+After receiving client and peer feedback, record a 2 to 5 minute video reflection.
+
+**Due:** April 21, 2027
+
+**Submission:** Upload to YouTube (unlisted) or Loom and submit the link via Canvas.
+
+**Prompt:**
+
+1. **Strongest area:** Which category best reflects your strengths this year? Give an example.
+2. **Growth area:** Which category needs the most work? What got in the way?
+3. **Client feedback:** React to one specific thing the client wrote. Do you agree? What will you do with it?
+4. **Peer feedback:** What did your teammates tell you, and was it fair?
+5. **Next time:** If you restarted this project knowing what you know now, what would you do differently?
+
+Keep it conversational. I am looking for honest self-assessment, not polish.
+
+**Rubric:**
+
+| Criteria | Excellent (10) | Good (7) | Adequate (4) | Weak (0-2) |
+|----------|----------------|----------|--------------|------------|
+| **Self-awareness** | Accurately owns strengths and growth areas | Mostly accurate, somewhat surface | Vague or generic | Defensive or no insight |
+| **Engages feedback** | References specific client and peer comments | Acknowledges feedback generally | Mentions feedback in passing | Ignores or dismisses |
+| **Growth mindset** | Concrete plan for improvement | General intentions | Minimal forward-looking | No reflection on change |
+| **Clarity** | Organized, right length, professional | Minor issues | Rambling or too brief | Unprepared or inappropriate |
+
+### Extra Credit (10 points)
+
+Complete the BYU end-of-semester student ratings survey to earn 10 extra credit points.
+
+### Grading Scale
+
+| Grade | % | Points (of 500) |
+|-------|---|-----------------|
+| A | 93–100% | 465–500 |
+| A- | 90–92% | 450–464 |
+| B+ | 87–89% | 435–449 |
+| B | 83–86% | 415–434 |
+| B- | 80–82% | 400–414 |
+| C+ | 77–79% | 385–399 |
+| C | 73–76% | 365–384 |
+| C- | 70–72% | 350–364 |
+| D+ | 67–69% | 335–349 |
+| D | 63–66% | 315–334 |
+| D- | 60–62% | 300–314 |
+| E | Below 60% | Below 300 |
+
+## Credit Hours
+
+| Enrollment | Hours/Week | Credit Hours per Semester |
+|------------|------------|---------------------------|
+| Standard | 8–12 hours | 3.0 credits |
+
+Students enroll each semester for a total of 6.0 credit hours across the year.
+
+## Confidentiality and Client Data
+
+Foundry clients share confidential business information: financials, pipelines, customer data,
+and strategy. This is a condition of the work, and it carries obligations.
+
+- You will sign the client's NDA, or the Foundry's standard mutual NDA, before receiving data.
+- Client data stays in the approved project repository and approved tools. It does not go into
+  personal accounts, personal cloud storage, or unapproved AI services.
+- Nothing about the project goes on LinkedIn, in a portfolio, or in a job interview without
+  written client permission. Ask the program director first, every time.
+- Deliverables and intellectual property belong to the client, not to you and not to BYU.
+- When the project ends, you delete local copies of client data.
+
+A confidentiality breach is an Honor Code matter and will also end the engagement. Treat this
+as the professional obligation it is.
+
+## AI Use Policy
+
+You are expected to use AI tools aggressively. That is the point of the Foundry. The
+obligations that come with it:
+
+- **You own the output.** "The model produced it" is not a defense for a wrong number, a
+  fabricated citation, or an analysis you cannot explain.
+- **Every deliverable must be explainable.** If you cannot walk the client through why the
+  model recommends what it recommends, it is not done.
+- **Client data goes only into approved tools.** See the confidentiality section above.
+- **Disclose method, not apology.** Milestone documentation should say what tools and models
+  you used and how you validated the output.
+
+## Instructor Bio
+
+Scott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of
+Business, where he also serves as program director and teaches courses on business strategy,
+decision-making, and artificial intelligence. He brings over 15 years of experience at the
+intersection of business and technology, having worked as a consultant, product manager, and
+data scientist.
+
+Prior to joining BYU, Scott spent nearly seven years at McKinsey & Company in roles ranging
+from analytics specialist consultant to principal product manager, where he led product
+development and performance management initiatives for Fortune 500 clients. His earlier career
+includes building forecasting models as a VP at Zions Bancorporation and conducting regulatory
+research at the U.S. Office of the Comptroller of the Currency.
+
+Scott holds a Master's degree in Management Science & Engineering from Stanford University and
+a B.A. in Economics with a minor in Math, from BYU. He is passionate about helping students
+apply AI, analytics, and strategy to meaningful real-world problems with both rigor and purpose.
+
+## Getting Help
+
+- Use email or Teams to contact the TAs and Professor Murff
+- Attend office hours
+- Bring blockers to studio time. Do not sit on them for a week.
+
+## Mission and Aims
+
+The mission of Brigham Young University — founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints: is to assist individuals in their quest for perfection and eternal life. That assistance should provide a period of intensive learning in a stimulating setting where a commitment to excellence is expected and the full realization of human potential is pursued.
+
+BYU seeks to develop students of faith, intellect, and character who have the skills and the desire to continue learning and to serve others throughout their lives.
+
+A BYU education should be (1) spiritually strengthening, (2) intellectually enlarging, and (3) character building, leading to (4) lifelong learning and service.
+
+Building on the foundational Mission and Aims, the Marriott School of Business aspires to transform the world through Christlike leadership by developing leaders of faith, intellect, and character guided by the following 4 values:
+
+-   **Faith in Christ** - We value deep and abiding faith in Jesus Christ. Our faith gives us the capacity to envision a better future, the confidence to make that future happen, and the courage to act in the face of challenges.
+
+-   **Integrity in Action** - We value integrity and hold ourselves to the highest moral and ethical standards. Acting with integrity builds trust, strengthens character, and focuses our ambitions on things of eternal consequence.
+
+-   **Respect for All** - We value respect for all individuals as children of God and recognize the inherent worth, divine potential, and agency of each person. A climate of respect and belonging enhances our learning, facilitates collaboration, and encourages personal growth.
+
+-   **Excellence** - We value excellence in learning, teaching, research, management, and leadership. An expectation of excellence magnifies our influence and motivates us to continually improve.
+
+We evaluate our decisions and actions by the impact they will have on the academic experience, professional preparation, character development, emotional well-being, and spiritual growth of our students.
+
+## Honor Code
+
+In keeping with the principles of the BYU Honor Code, students are expected to be honest in all of their academic work. Academic honesty means, most fundamentally, that any work you present as your own must in fact be your own work and not that of another. Violations of this principle may result in a failing grade in the course and additional disciplinary action by the university. Students are also expected to adhere to the Dress and Grooming Standards. Adherence demonstrates respect for yourself and others and ensures an effective learning and working environment. It is the university's expectation, and every instructor's expectation in class, that each student will abide by all Honor Code standards. Please call the Honor Code Office at 422-2847 if you have questions about those standards.
+
+## Preventing & Responding to Sexual Misconduct
+
+The health and well-being of students is of paramount importance at Brigham Young University. If you or someone you know has experienced sexual harassment (including sexual violence), there are many resources available for assistance.
+
+In accordance with Title IX of the Education Amendments of 1972, BYU prohibits unlawful sex discrimination, including sexual harassment, against any participant in its education programs or activities. The university also prohibits sexual harassment by its personnel and students. Sexual harassment occurs when
+
+a person is subjected to unwelcome sexual speech or conduct so severe, pervasive, and offensive that it effectively denies their ability to access any BYU education program or activity; any aid, benefit, or service of BYU is conditioned on a person's participation in unwelcome sexual conduct; or a person suffers sexual assault, dating violence, domestic violence, or stalking on the basis of sex. University policy requires all faculty members to promptly report incidents of sexual harassment that come to their attention in any way, including through face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Incidents of sexual harassment should be reported to the Title IX Coordinator at t9coordinator@byu.edu or (801) 422-8692 or 1085 WSC. Reports may also be submitted online at https://titleix.byu.edu/report or 1-888-238-1062 (24-hours a day).
+
+BYU offers confidential resources for those affected by sexual harassment, including the university's Sexual Assault Survivor Advocate, as well as a number of non-confidential resources and services that may be helpful. Additional information about Title IX, the university's Sexual Harassment Policy, reporting requirements, and resources can be found at http://titleix.byu.edu or by contacting the university's Title IX Coordinator.
+
+## Student Disability
+
+Brigham Young University is committed to providing a working and learning atmosphere that reasonably accommodates qualified persons with disabilities. A disability is a physical or mental impairment that substantially limits one or more major life activities. Whether an impairment is substantially limiting depends on its nature and severity, its duration or expected duration, and its permanent or expected permanent or long-term impact. Examples include vision or hearing impairments, physical disabilities, chronic illnesses, emotional disorders (e.g., depression, anxiety), learning disorders, and attention disorders (e.g., ADHD). If you have a disability which impairs your ability to complete this course successfully, please contact the University Accessibility Center (UAC), 2170 WSC or 801-422-2767 to request a reasonable accommodation. The UAC can also assess students for learning, attention, and emotional concerns. If you feel you have been unlawfully discriminated against on the basis of disability, please contact the Equal Opportunity Office at 801-422-5895, eo_manager@byu.edu, or visit https://hrs.byu.edu/equal-opportunity for help.

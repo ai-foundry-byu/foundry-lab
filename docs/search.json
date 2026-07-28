@@ -1,0 +1,940 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI Foundry Lab",
+    "section": "",
+    "text": "Course Numbers\nThe BYU AI Foundry is a sponsored-project studio inside the BYU Marriott School of Business. Client organizations bring a real, open-ended business problem. A small team of high-performing students, guided by faculty, spends an academic year designing, prototyping, and testing an AI-enabled solution to it.\nThe Foundry is not an internship placement and not a research project. It is delivery work. Every engagement ends with something the client can use: a working prototype, a decision framework with the rules written down, a model whose outputs can be explained, and a recommendation the client’s leadership can act on.\nStudents typically complete MSB 341 - Product Management before joining a Foundry team, so they arrive with product and applied AI skills already built.\nThis course is cross-listed under two course numbers. It is all the same class: everyone meets together Fridays 8:00 to 11:50 AM in 2140 TNRB, works on the same client teams, uses this site, and is graded on the same rubric. Register under whichever number fits your program.\nMixed MBA and undergraduate teams are intentional. Client engagements benefit from the range, and it mirrors how real delivery teams are staffed.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#course-numbers",
+    "href": "index.html#course-numbers",
+    "title": "AI Foundry Lab",
+    "section": "",
+    "text": "Course\nSection\nTitle\nCredit Hours\n\n\n\n\nMBA 693R\n011\nSpecial Topics in Management\n3.0\n\n\nSTRAT 490R\n001\nTopics in Strategic Management\n3.0",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#program-at-a-glance",
+    "href": "index.html#program-at-a-glance",
+    "title": "AI Foundry Lab",
+    "section": "Program At a Glance",
+    "text": "Program At a Glance\n\n\n\nDuration\n8 months (2 semesters)\n\n\nPeriod\nSeptember 2, 2026 – April 14, 2027\n\n\nTeam size\n4–6 students per project\n\n\nStudent hours\n8–12 hours per week, per student\n\n\nClient commitment\n~1 hour per week\n\n\nSponsorship\n$22,000 per project\n\n\nLocation\nRemote, with optional on-site visits\n\n\nIP\nSponsor retains all deliverables and IP",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#what-makes-this-different-from-an-engineering-capstone",
+    "href": "index.html#what-makes-this-different-from-an-engineering-capstone",
+    "title": "AI Foundry Lab",
+    "section": "What Makes This Different from an Engineering Capstone",
+    "text": "What Makes This Different from an Engineering Capstone\nThe BYU engineering capstones build physical and embedded systems: CAD, prototypes, PCBs, firmware, security assessments. The AI Foundry builds business decision systems: strategy frameworks, prioritization and scoring models, forecasting and predictive analytics, financial models, and the software that makes those things usable by a decision maker.\nIf the question is “how do we build this thing,” that is engineering. If the question is “which things should we build, in what order, and how do we know,” that is the Foundry.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#im-a-student",
+    "href": "index.html#im-a-student",
+    "title": "AI Foundry Lab",
+    "section": "I’m a Student",
+    "text": "I’m a Student\n\nSyllabus: Grading, policies, and course information\nGetting Started: Onboarding checklist and expectations\nWeekly Updates: How to write your end-of-week progress emails\nBuild Standards: How Foundry work is expected to be built and shipped",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#im-a-client-partner",
+    "href": "index.html#im-a-client-partner",
+    "title": "AI Foundry Lab",
+    "section": "I’m a Client Partner",
+    "text": "I’m a Client Partner\nInterested in sponsoring a project? Submit a Project →\n\nProgram Overview: Structure, team, timeline, sponsorship\nWorking with the Team: Cadence, scoping, mentoring\nEvaluation: Mid-term and end-of-term feedback process\nFAQ: IP, data, confidentiality, cost, staffing\nRequest for Proposals: What we are looking for this cycle",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#key-dates",
+    "href": "index.html#key-dates",
+    "title": "AI Foundry Lab",
+    "section": "Key Dates",
+    "text": "Key Dates\n\n\n\nMilestone\nDate\n\n\n\n\nProject proposal deadline\nJuly 31, 2026\n\n\nProjects finalized and scoped\nAugust 14, 2026\n\n\nStudent teams assigned\nAugust 24, 2026\n\n\nProject launch\nSeptember 2, 2026\n\n\nMid-term client feedback due\nDecember 11, 2026\n\n\nFinal delivery and showcase\nApril 14, 2027\n\n\nStudent video reflection due\nApril 21, 2027",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "AI Foundry Lab",
+    "section": "Contact",
+    "text": "Contact\nScott Murff\nDirector, AI Foundry · Program Director, Strategic Management\nBrigham Young University, Marriott School of Business\nscott.murff@byu.edu",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html",
+    "href": "students/01-syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Course Numbers\nFALL 2026 – WINTER 2027\nThis course is cross-listed under two course numbers. It is all the same class: everyone meets together Fridays 8:00 to 11:50 AM in 2140 TNRB, works on the same client teams, uses this site, and uses Canvas as the LMS. Register under whichever number fits your program.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#course-numbers",
+    "href": "students/01-syllabus.html#course-numbers",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Course\nSection\nTitle\nCredit Hours\n\n\n\n\nMBA 693R\n011\nSpecial Topics in Management\n3.0\n\n\nSTRAT 490R\n001\nTopics in Strategic Management\n3.0\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nCanvas is used only for submitting milestone deliverables and your final video reflection, and for reviewing grades. All other course content lives on this website.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#what-this-course-is",
+    "href": "students/01-syllabus.html#what-this-course-is",
+    "title": "Syllabus",
+    "section": "What This Course Is",
+    "text": "What This Course Is\nYou are on a delivery team for a paying client. The client has sponsored this project, retains the intellectual property, and expects professional work. Your grade reflects both the quality of what you ship and the professionalism with which you ship it.\nThis is a two-semester course. You enroll each semester. Fall establishes the problem, the framework, and a working prototype. Winter hardens the build, validates it, and delivers.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#studio-time",
+    "href": "students/01-syllabus.html#studio-time",
+    "title": "Syllabus",
+    "section": "Studio Time",
+    "text": "Studio Time\nThe Friday 8:00 to 11:50 AM block in 2140 TNRB is your team’s standing work session: co-working, cross-team critique, client calls, and office hours with Professor Murff.\nRequired sessions:\n\n\n\n\n\n\n\nDate\nSession\n\n\n\n\nSeptember 4, 2026\nKick-off, team formation, client introductions\n\n\nOctober 16, 2026\nMilestone 1 review (problem definition and framework)\n\n\nDecember 11, 2026\nMilestone 2 review (working prototype)\n\n\nFebruary 19, 2027\nMilestone 3 review (validated model)\n\n\nApril 9, 2027\nFinal delivery and showcase\n\n\n\nAll other Fridays are optional but strongly encouraged. Teams that skip studio time consistently underperform.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#grading",
+    "href": "students/01-syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading\nGrades are based on weekly update emails, four milestone deliverables, client evaluation, peer evaluation, and a video reflection.\n\nGrade Components (500 points possible)\n\n\n\nComponent\nPoints\nWeight\n\n\n\n\nWeekly Update Emails\n140 pts\n28%\n\n\nMilestone Deliverables\n160 pts\n32%\n\n\nClient Evaluation\n100 pts\n20%\n\n\nPeer / Team Evaluation\n60 pts\n12%\n\n\nVideo Reflection\n40 pts\n8%\n\n\nBase Total\n500 pts\n100%\n\n\nExtra Credit (BYU Student Ratings)\n10 pts\n+2%\n\n\n\n\n\nWeekly Update Emails (140 points)\n28 emails across two semesters, 5 points each.\n\n\n\nStatus\nPoints\n\n\n\n\nOn time (Saturday by 11:59 PM)\n5 pts\n\n\nLate (by Monday 12:00 PM noon)\n2 pts\n\n\nAfter Monday noon\n0 pts\n\n\n\nSee Weekly Updates for format and expectations.\n\n\nMilestone Deliverables (160 points)\nFour milestones, 40 points each. These are graded by the faculty director against the Build Standards, not by the client.\n\n\n\n\n\n\n\n\nMilestone\nDue\nWhat is due\n\n\n\n\nM1: Problem definition and framework\nOctober 16, 2026\nWritten problem statement the client has signed off on, decision criteria, success measures\n\n\nM2: Working prototype\nDecember 11, 2026\nSomething that runs, on real or realistic data, with the logic documented\n\n\nM3: Validated model\nFebruary 19, 2027\nSensitivity analysis, stated assumptions, explainable outputs, known limitations\n\n\nM4: Final delivery\nApril 9, 2027\nExecutive summary, decision tool or dashboard, handoff documentation, repository\n\n\n\nEach milestone is scored on four dimensions, 10 points each:\n\n\n\n\n\n\n\nDimension\nWhat earns full marks\n\n\n\n\nCorrectness\nThe analysis holds up. Numbers reconcile. Assumptions are stated and defensible.\n\n\nUsefulness\nA decision maker could act on it. It answers the client’s actual question.\n\n\nExplainability\nSomeone outside the team can follow why the model says what it says.\n\n\nCraft\nClean repository, readable code and documents, professional presentation.\n\n\n\n\n\nClient Evaluation (100 points)\nYour client point of contact evaluates the team twice: at mid-term for development only, and at the end of the year as an input to your grade. Five dimensions on a 1 to 7 scale. See Evaluation for the exact questions.\n\n\n\nCategory\nMax Points\n\n\n\n\nTimeliness\n20\n\n\nCommunication\n20\n\n\nAgency\n20\n\n\nTechnical Competency\n20\n\n\nContribution\n20\n\n\nTotal\n100\n\n\n\n\n\n\nClient Score (1-7)\nPoints\n\n\n\n\n7\n20\n\n\n6\n17\n\n\n5\n14\n\n\n4\n11\n\n\n3\n9\n\n\n2\n6\n\n\n1\n3\n\n\n\nThe client scores the team. Individual adjustments come from peer evaluation.\n\n\nPeer / Team Evaluation (60 points)\nTeam delivery only works if the load is shared. Each teammate evaluates every other teammate at mid-term and at the end of the year on four dimensions, 1 to 7 scale.\n\n\n\n\n\n\n\nDimension\nQuestion\n\n\n\n\nReliability\nThey did what they said they would do, when they said they would\n\n\nQuality\nTheir work did not need to be redone\n\n\nCollaboration\nThey made the rest of the team more effective\n\n\nLoad\nThey carried a fair share of the hard work\n\n\n\n\n\n\nPeer Score (1-7 average)\nPoints\n\n\n\n\n7\n15\n\n\n6\n13\n\n\n5\n11\n\n\n4\n9\n\n\n3\n7\n\n\n2\n4\n\n\n1\n2\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nA student whose peer average falls below 3.0 at mid-term will meet with the program director. Sustained free-riding is grounds for removal from the team and a failing grade, regardless of what the client’s team-level score says.\n\n\n\n\nVideo Reflection (40 points)\nAfter receiving client and peer feedback, record a 2 to 5 minute video reflection.\nDue: April 21, 2027\nSubmission: Upload to YouTube (unlisted) or Loom and submit the link via Canvas.\nPrompt:\n\nStrongest area: Which category best reflects your strengths this year? Give an example.\nGrowth area: Which category needs the most work? What got in the way?\nClient feedback: React to one specific thing the client wrote. Do you agree? What will you do with it?\nPeer feedback: What did your teammates tell you, and was it fair?\nNext time: If you restarted this project knowing what you know now, what would you do differently?\n\nKeep it conversational. I am looking for honest self-assessment, not polish.\nRubric:\n\n\n\n\n\n\n\n\n\n\nCriteria\nExcellent (10)\nGood (7)\nAdequate (4)\nWeak (0-2)\n\n\n\n\nSelf-awareness\nAccurately owns strengths and growth areas\nMostly accurate, somewhat surface\nVague or generic\nDefensive or no insight\n\n\nEngages feedback\nReferences specific client and peer comments\nAcknowledges feedback generally\nMentions feedback in passing\nIgnores or dismisses\n\n\nGrowth mindset\nConcrete plan for improvement\nGeneral intentions\nMinimal forward-looking\nNo reflection on change\n\n\nClarity\nOrganized, right length, professional\nMinor issues\nRambling or too brief\nUnprepared or inappropriate\n\n\n\n\n\nExtra Credit (10 points)\nComplete the BYU end-of-semester student ratings survey to earn 10 extra credit points.\n\n\nGrading Scale\n\n\n\nGrade\n%\nPoints (of 500)\n\n\n\n\nA\n93–100%\n465–500\n\n\nA-\n90–92%\n450–464\n\n\nB+\n87–89%\n435–449\n\n\nB\n83–86%\n415–434\n\n\nB-\n80–82%\n400–414\n\n\nC+\n77–79%\n385–399\n\n\nC\n73–76%\n365–384\n\n\nC-\n70–72%\n350–364\n\n\nD+\n67–69%\n335–349\n\n\nD\n63–66%\n315–334\n\n\nD-\n60–62%\n300–314\n\n\nE\nBelow 60%\nBelow 300",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#credit-hours",
+    "href": "students/01-syllabus.html#credit-hours",
+    "title": "Syllabus",
+    "section": "Credit Hours",
+    "text": "Credit Hours\n\n\n\nEnrollment\nHours/Week\nCredit Hours per Semester\n\n\n\n\nStandard\n8–12 hours\n3.0 credits\n\n\n\nStudents enroll each semester for a total of 6.0 credit hours across the year.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#confidentiality-and-client-data",
+    "href": "students/01-syllabus.html#confidentiality-and-client-data",
+    "title": "Syllabus",
+    "section": "Confidentiality and Client Data",
+    "text": "Confidentiality and Client Data\nFoundry clients share confidential business information: financials, pipelines, customer data, and strategy. This is a condition of the work, and it carries obligations.\n\nYou will sign the client’s NDA, or the Foundry’s standard mutual NDA, before receiving data.\nClient data stays in the approved project repository and approved tools. It does not go into personal accounts, personal cloud storage, or unapproved AI services.\nNothing about the project goes on LinkedIn, in a portfolio, or in a job interview without written client permission. Ask the program director first, every time.\nDeliverables and intellectual property belong to the client, not to you and not to BYU.\nWhen the project ends, you delete local copies of client data.\n\nA confidentiality breach is an Honor Code matter and will also end the engagement. Treat this as the professional obligation it is.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#ai-use-policy",
+    "href": "students/01-syllabus.html#ai-use-policy",
+    "title": "Syllabus",
+    "section": "AI Use Policy",
+    "text": "AI Use Policy\nYou are expected to use AI tools aggressively. That is the point of the Foundry. The obligations that come with it:\n\nYou own the output. “The model produced it” is not a defense for a wrong number, a fabricated citation, or an analysis you cannot explain.\nEvery deliverable must be explainable. If you cannot walk the client through why the model recommends what it recommends, it is not done.\nClient data goes only into approved tools. See the confidentiality section above.\nDisclose method, not apology. Milestone documentation should say what tools and models you used and how you validated the output.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#instructor-bio",
+    "href": "students/01-syllabus.html#instructor-bio",
+    "title": "Syllabus",
+    "section": "Instructor Bio",
+    "text": "Instructor Bio\nScott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of Business, where he also serves as program director and teaches courses on business strategy, decision-making, and artificial intelligence. He brings over 15 years of experience at the intersection of business and technology, having worked as a consultant, product manager, and data scientist.\nPrior to joining BYU, Scott spent nearly seven years at McKinsey & Company in roles ranging from analytics specialist consultant to principal product manager, where he led product development and performance management initiatives for Fortune 500 clients. His earlier career includes building forecasting models as a VP at Zions Bancorporation and conducting regulatory research at the U.S. Office of the Comptroller of the Currency.\nScott holds a Master’s degree in Management Science & Engineering from Stanford University and a B.A. in Economics with a minor in Math, from BYU. He is passionate about helping students apply AI, analytics, and strategy to meaningful real-world problems with both rigor and purpose.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#getting-help",
+    "href": "students/01-syllabus.html#getting-help",
+    "title": "Syllabus",
+    "section": "Getting Help",
+    "text": "Getting Help\n\nUse email or Teams to contact the TAs and Professor Murff\nAttend office hours\nBring blockers to studio time. Do not sit on them for a week.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#mission-and-aims",
+    "href": "students/01-syllabus.html#mission-and-aims",
+    "title": "Syllabus",
+    "section": "Mission and Aims",
+    "text": "Mission and Aims\nThe mission of Brigham Young University — founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints: is to assist individuals in their quest for perfection and eternal life. That assistance should provide a period of intensive learning in a stimulating setting where a commitment to excellence is expected and the full realization of human potential is pursued.\nBYU seeks to develop students of faith, intellect, and character who have the skills and the desire to continue learning and to serve others throughout their lives.\nA BYU education should be (1) spiritually strengthening, (2) intellectually enlarging, and (3) character building, leading to (4) lifelong learning and service.\nBuilding on the foundational Mission and Aims, the Marriott School of Business aspires to transform the world through Christlike leadership by developing leaders of faith, intellect, and character guided by the following 4 values:\n\nFaith in Christ - We value deep and abiding faith in Jesus Christ. Our faith gives us the capacity to envision a better future, the confidence to make that future happen, and the courage to act in the face of challenges.\nIntegrity in Action - We value integrity and hold ourselves to the highest moral and ethical standards. Acting with integrity builds trust, strengthens character, and focuses our ambitions on things of eternal consequence.\nRespect for All - We value respect for all individuals as children of God and recognize the inherent worth, divine potential, and agency of each person. A climate of respect and belonging enhances our learning, facilitates collaboration, and encourages personal growth.\nExcellence - We value excellence in learning, teaching, research, management, and leadership. An expectation of excellence magnifies our influence and motivates us to continually improve.\n\nWe evaluate our decisions and actions by the impact they will have on the academic experience, professional preparation, character development, emotional well-being, and spiritual growth of our students.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#honor-code",
+    "href": "students/01-syllabus.html#honor-code",
+    "title": "Syllabus",
+    "section": "Honor Code",
+    "text": "Honor Code\nIn keeping with the principles of the BYU Honor Code, students are expected to be honest in all of their academic work. Academic honesty means, most fundamentally, that any work you present as your own must in fact be your own work and not that of another. Violations of this principle may result in a failing grade in the course and additional disciplinary action by the university. Students are also expected to adhere to the Dress and Grooming Standards. Adherence demonstrates respect for yourself and others and ensures an effective learning and working environment. It is the university’s expectation, and every instructor’s expectation in class, that each student will abide by all Honor Code standards. Please call the Honor Code Office at 422-2847 if you have questions about those standards.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#preventing-responding-to-sexual-misconduct",
+    "href": "students/01-syllabus.html#preventing-responding-to-sexual-misconduct",
+    "title": "Syllabus",
+    "section": "Preventing & Responding to Sexual Misconduct",
+    "text": "Preventing & Responding to Sexual Misconduct\nThe health and well-being of students is of paramount importance at Brigham Young University. If you or someone you know has experienced sexual harassment (including sexual violence), there are many resources available for assistance.\nIn accordance with Title IX of the Education Amendments of 1972, BYU prohibits unlawful sex discrimination, including sexual harassment, against any participant in its education programs or activities. The university also prohibits sexual harassment by its personnel and students. Sexual harassment occurs when\na person is subjected to unwelcome sexual speech or conduct so severe, pervasive, and offensive that it effectively denies their ability to access any BYU education program or activity; any aid, benefit, or service of BYU is conditioned on a person’s participation in unwelcome sexual conduct; or a person suffers sexual assault, dating violence, domestic violence, or stalking on the basis of sex. University policy requires all faculty members to promptly report incidents of sexual harassment that come to their attention in any way, including through face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Incidents of sexual harassment should be reported to the Title IX Coordinator at t9coordinator@byu.edu or (801) 422-8692 or 1085 WSC. Reports may also be submitted online at https://titleix.byu.edu/report or 1-888-238-1062 (24-hours a day).\nBYU offers confidential resources for those affected by sexual harassment, including the university’s Sexual Assault Survivor Advocate, as well as a number of non-confidential resources and services that may be helpful. Additional information about Title IX, the university’s Sexual Harassment Policy, reporting requirements, and resources can be found at http://titleix.byu.edu or by contacting the university’s Title IX Coordinator.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#student-disability",
+    "href": "students/01-syllabus.html#student-disability",
+    "title": "Syllabus",
+    "section": "Student Disability",
+    "text": "Student Disability\nBrigham Young University is committed to providing a working and learning atmosphere that reasonably accommodates qualified persons with disabilities. A disability is a physical or mental impairment that substantially limits one or more major life activities. Whether an impairment is substantially limiting depends on its nature and severity, its duration or expected duration, and its permanent or expected permanent or long-term impact. Examples include vision or hearing impairments, physical disabilities, chronic illnesses, emotional disorders (e.g., depression, anxiety), learning disorders, and attention disorders (e.g., ADHD). If you have a disability which impairs your ability to complete this course successfully, please contact the University Accessibility Center (UAC), 2170 WSC or 801-422-2767 to request a reasonable accommodation. The UAC can also assess students for learning, attention, and emotional concerns. If you feel you have been unlawfully discriminated against on the basis of disability, please contact the Equal Opportunity Office at 801-422-5895, eo_manager@byu.edu, or visit https://hrs.byu.edu/equal-opportunity for help.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/02-getting-started.html",
+    "href": "students/02-getting-started.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Before the Project Starts\nWelcome to the BYU AI Foundry. You are joining a delivery team with a paying client. This guide gets you productive in the first two weeks.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "students/02-getting-started.html#before-the-project-starts",
+    "href": "students/02-getting-started.html#before-the-project-starts",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Sign the client NDA or the Foundry standard mutual NDA\nAccept your GitHub invitation to the ai-foundry-byu organization\nConfirm your team, your role, and your QC lead\nSet up access to the project repository and approved tools\nRead the client’s proposal and any background material provided\nReview the Build Standards and the Program Overview",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "students/02-getting-started.html#first-two-weeks",
+    "href": "students/02-getting-started.html#first-two-weeks",
+    "title": "Getting Started",
+    "section": "First Two Weeks",
+    "text": "First Two Weeks\n\nAttend the kick-off with the client and confirm the point of contact\nWrite a one-page restatement of the problem in your own words and send it to the client\nAgree with the client on what “done” looks like and how success will be measured\nEstablish the standing weekly client call and the internal team cadence\nInventory the data you have, the data you need, and the data you are not going to get\nIdentify the three assumptions that, if wrong, break the whole project\n\n\n\n\n\n\n\nTip\n\n\n\nThe single most common failure in a Foundry project is building the right thing for the wrong question. Spend the first two weeks making sure the question is right. The client will appreciate the challenge more than the compliance.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "students/02-getting-started.html#team-roles",
+    "href": "students/02-getting-started.html#team-roles",
+    "title": "Getting Started",
+    "section": "Team Roles",
+    "text": "Team Roles\nEvery team has the same three roles. They rotate by milestone unless the team agrees otherwise.\n\n\n\n\n\n\n\nRole\nOwns\n\n\n\n\nClient lead\nThe relationship. Runs the weekly call, sends the update, owns scope conversations.\n\n\nBuilders\nThe work. Analysis, modeling, code, documents.\n\n\nQC lead\nThe standard. Nothing goes to the client without QC sign-off.\n\n\n\nThe QC lead role is not decorative. Client-facing work that contains an unreconciled number or an unexplainable model output is a QC failure, and it is graded as one.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "students/02-getting-started.html#key-dates",
+    "href": "students/02-getting-started.html#key-dates",
+    "title": "Getting Started",
+    "section": "Key Dates",
+    "text": "Key Dates\n\n\n\nMilestone\nDate\n\n\n\n\nProject launch\nSeptember 2, 2026\n\n\nM1: Problem definition and framework\nOctober 16, 2026\n\n\nM2: Working prototype\nDecember 11, 2026\n\n\nM3: Validated model\nFebruary 19, 2027\n\n\nM4: Final delivery and showcase\nApril 9, 2027\n\n\nWeekly updates due\nSaturday by 11:59 PM",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "students/02-getting-started.html#your-responsibilities",
+    "href": "students/02-getting-started.html#your-responsibilities",
+    "title": "Getting Started",
+    "section": "Your Responsibilities",
+    "text": "Your Responsibilities\n\nConfirm expectations and ask clarifying questions rather than guessing\nDeliver on schedule. A client who is surprised at a milestone has been failed earlier\nCome prepared to client calls with an agenda, progress, and specific asks\nRaise blockers within 48 hours. Not at the weekly call, and not at the milestone\nProtect client data per the confidentiality terms in the Syllabus\nSend end-of-week updates to the client point of contact, CC ai-foundry@byu.edu\nCarry your share. Your teammates grade you on this",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "students/02-getting-started.html#what-youll-be-working-on",
+    "href": "students/02-getting-started.html#what-youll-be-working-on",
+    "title": "Getting Started",
+    "section": "What You’ll Be Working On",
+    "text": "What You’ll Be Working On\nFoundry teams deliver business decision systems. Depending on the engagement, that includes:\n\nStrategy assessment and market or portfolio analysis\nDecision frameworks with explicit criteria and thresholds\nScoring and prioritization models\nForecasting and predictive analytics\nFinancial modeling, including NPV, sensitivity, and scenario analysis\nOptimization under real constraints\nDecision dashboards and prototype applications\nExecutive-ready synthesis and recommendations",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html",
+    "href": "students/03-weekly-updates.html",
+    "title": "Weekly Updates",
+    "section": "",
+    "text": "Deadline\nEvery team sends one end-of-week progress email. It keeps the client informed, creates a record of the engagement, and is worth 28% of your grade.\nSaturday by 11:59 PM\nThe end-of-week timing is intentional. It forces reflection on what actually got done, sets priorities before Monday, and surfaces blockers while there is still time to fix them.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#deadline",
+    "href": "students/03-weekly-updates.html#deadline",
+    "title": "Weekly Updates",
+    "section": "",
+    "text": "First weekly email due: September 5, 2026\nFinal weekly email due: April 10, 2027\nTotal weekly emails: 28 (14 per semester)",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#who-sends-it",
+    "href": "students/03-weekly-updates.html#who-sends-it",
+    "title": "Weekly Updates",
+    "section": "Who Sends It",
+    "text": "Who Sends It\nThe client lead sends one email on behalf of the team. Individual students do not each send their own. If the client lead is unavailable, the QC lead sends it. Missing an email is a team-level miss, and everyone takes the point deduction.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#recipients",
+    "href": "students/03-weekly-updates.html#recipients",
+    "title": "Weekly Updates",
+    "section": "Recipients",
+    "text": "Recipients\n\nTo: Client point of contact\nCC: ai-foundry@byu.edu, plus all team members",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#email-format",
+    "href": "students/03-weekly-updates.html#email-format",
+    "title": "Weekly Updates",
+    "section": "Email Format",
+    "text": "Email Format\n1. Accomplished this week [Required]\n\nCompleted work and deliverables, stated as outcomes rather than activities\nInclude the number, the finding, or the decision, not just “worked on the model”\n\n2. Priorities for next week [Required]\n\nWhat the team will do, realistically\nWho owns each item\n\n3. Decisions or input we need from you [Required, say “none” if none]\n\nAnything the client owes the team\nAny decision the team cannot make on the client’s behalf\n\n4. Blockers, risks, or dependencies [Omit if none]\n\nAnything that puts a milestone at risk\nFlag it the week you see it, not the week it hits",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#example-email",
+    "href": "students/03-weekly-updates.html#example-email",
+    "title": "Weekly Updates",
+    "section": "Example Email",
+    "text": "Example Email\nSubject: AI Foundry Weekly Update - [Client] - Week of Oct 5\n\nHi [Name],\n\nAccomplished this week:\n- Scored 42 of the 60 candidate products against the draft criteria. 11 clear\n  the NPV multiple threshold of 3.0x under base-case assumptions.\n- Reconciled the revenue baseline to your FY26 actuals. We were off by 2.3%\n  on specialty; the gap was a channel mapping issue, now corrected.\n- Drafted the sensitivity structure for price erosion and launch timing.\n\nPriorities for next week:\n- Finish scoring the remaining 18 products (Maria, Josh)\n- Run the first full sensitivity pass and identify which rankings are fragile (Ana)\n- Draft the M1 framework document for your review (Tyler)\n\nDecisions or input we need from you:\n- Confirm whether the 12% price erosion assumption should hold across all\n  therapeutic areas or vary by category. This changes the ranking materially.\n- We need read access to the 2024-2025 gross-to-net detail to validate margin.\n\nRisks:\n- If the gross-to-net data is not available by Oct 12, the M1 framework will\n  ship with modeled margin rather than actuals, and we will need to revisit it\n  in November.\n\nThanks,\n[Client lead name], on behalf of the [Client] Foundry team",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#what-makes-an-update-good",
+    "href": "students/03-weekly-updates.html#what-makes-an-update-good",
+    "title": "Weekly Updates",
+    "section": "What Makes an Update Good",
+    "text": "What Makes an Update Good\n\nLead with the number or the finding. “11 of 42 products clear the threshold” beats “continued portfolio scoring.”\nName owners. Unowned priorities do not get done.\nAsk for what you need explicitly. Clients cannot read minds, and a blocker you did not raise is your fault, not theirs.\nFlag risk early and unemotionally. A risk raised in week 4 is a conversation. The same risk surfaced in week 12 is a failure.\nNever pad. A short honest week is fine. A long week of activity with no outcomes is not.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#weekly-rhythm",
+    "href": "students/03-weekly-updates.html#weekly-rhythm",
+    "title": "Weekly Updates",
+    "section": "Weekly Rhythm",
+    "text": "Weekly Rhythm\n\n\n\n\n\n\n\nDay\nActivity\n\n\n\n\nMonday\nTeam stand-up, confirm week’s priorities and owners\n\n\nMidweek\nStanding client call, execute\n\n\nThursday\nQC lead reviews anything going to the client\n\n\nFriday\nStudio time in 284 TNRB, cross-team critique, office hours\n\n\nSaturday\nClient lead sends the weekly update by 11:59 PM",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/04-build-standards.html",
+    "href": "students/04-build-standards.html",
+    "title": "Build Standards",
+    "section": "",
+    "text": "The Four Dimensions\nMilestones are graded against these standards. They are also what separates work a client pays for from work a client tolerates.\nEvery deliverable is scored on correctness, usefulness, explainability, and craft.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Build Standards</span>"
+    ]
+  },
+  {
+    "objectID": "students/04-build-standards.html#the-four-dimensions",
+    "href": "students/04-build-standards.html#the-four-dimensions",
+    "title": "Build Standards",
+    "section": "",
+    "text": "Correctness\n\nEvery number in a client-facing document traces to a source you can point to\nTotals reconcile. If your revenue baseline is 2% off the client’s actuals, you find out why before you present it, not after they do\nAssumptions are written down as assumptions, with the value used and the reason for it\nIf you do not know something, the deliverable says so. Fabricated precision is worse than an honest range\n\n\n\nUsefulness\n\nThe deliverable answers the question the client actually asked\nA decision maker can act on it without a translation layer\nRecommendations name what to do, not merely what is interesting\nScope creep is not usefulness. If the client’s question changed, renegotiate it in writing\n\n\n\nExplainability\nThis is the standard the Foundry is built around, and it is where AI-assisted work most often fails.\n\nFor any model output, you can state which inputs drove it and by how much\nRankings come with sensitivity: what would have to change for the order to change\nA model no one on the team can explain is not shippable, regardless of how good the output looks\n“The model said so” is never an answer to a client question\n\n\n\nCraft\n\nThe repository is clean, has a README, and someone outside the team could run it\nDocuments are proofread. Charts are labeled. Slides have a point per slide\nFile naming is consistent and dated\nNo client data in personal accounts, personal repos, or unapproved tools",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Build Standards</span>"
+    ]
+  },
+  {
+    "objectID": "students/04-build-standards.html#repository-standards",
+    "href": "students/04-build-standards.html#repository-standards",
+    "title": "Build Standards",
+    "section": "Repository Standards",
+    "text": "Repository Standards\nEvery engagement has one private repository in the ai-foundry-byu GitHub organization, named client-&lt;slug&gt;.\nclient-&lt;slug&gt;/\n  README.md          What this is, how to run it, who to ask\n  data/              Never committed. Documented in README, stored per client agreement\n  analysis/          Notebooks and scripts, in order, that reproduce every number\n  model/             The model itself, with its assumptions in one place\n  deliverables/      What the client actually receives, versioned by milestone\n  docs/              Meeting notes, decision log, scope changes\nTwo rules that are not negotiable:\n\nNo secrets or client data in the repository. Ever. Credentials live in the client’s own systems or an approved secret store.\nEvery number in a deliverable is reproducible from something in analysis/. If you cannot rerun it, you cannot defend it.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Build Standards</span>"
+    ]
+  },
+  {
+    "objectID": "students/04-build-standards.html#the-decision-log",
+    "href": "students/04-build-standards.html#the-decision-log",
+    "title": "Build Standards",
+    "section": "The Decision Log",
+    "text": "The Decision Log\nKeep docs/decisions.md current. One entry per material decision:\n2026-10-09: Price erosion assumption\nDecision: Use 12% annual erosion for specialty, 18% for hospital, rather than a\nflat 15% across the portfolio.\nWhy: Client's 2023-2025 actuals show materially different curves by channel.\nWho: Confirmed with Brian Guy on the Oct 8 call.\nReversible: Yes. Sensitivity range 8-22% is built into the model.\nThis is the single highest-leverage habit in the course. It is what lets you answer “why did you assume that” six months later, and it is what makes handoff possible.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Build Standards</span>"
+    ]
+  },
+  {
+    "objectID": "students/04-build-standards.html#qc-gate",
+    "href": "students/04-build-standards.html#qc-gate",
+    "title": "Build Standards",
+    "section": "QC Gate",
+    "text": "QC Gate\nNothing goes to the client without the QC lead’s sign-off. The QC lead checks:\n\nEvery number traces to a source\nTotals reconcile against the client’s own figures where those exist\nAssumptions are stated, with values and reasons\nModel outputs are explainable in plain language\nSensitivity is shown for anything presented as a ranking or a recommendation\nNo client data or secrets in the repository\nDocument is proofread, charts are labeled, filenames are clean\n\nA milestone that fails QC after it reaches the client costs the whole team craft points. Catch it internally.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Build Standards</span>"
+    ]
+  },
+  {
+    "objectID": "students/04-build-standards.html#working-with-ai",
+    "href": "students/04-build-standards.html#working-with-ai",
+    "title": "Build Standards",
+    "section": "Working with AI",
+    "text": "Working with AI\nUse AI tools hard. They are why a team of five can deliver what used to take fifteen.\n\nGenerate freely, verify always. Treat every model output as a draft from a fast, capable, occasionally confident-and-wrong analyst.\nCheck citations and figures by hand. Fabricated sources have ended real consulting engagements.\nKeep client data out of unapproved tools. See the confidentiality terms in the Syllabus.\nDocument your method. Milestone documentation should state which tools you used, for what, and how you validated the output. This is not a confession, it is methodology.",
+    "crumbs": [
+      "For Students",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Build Standards</span>"
+    ]
+  },
+  {
+    "objectID": "partners/01-program-overview.html",
+    "href": "partners/01-program-overview.html",
+    "title": "Program Overview",
+    "section": "",
+    "text": "Engagement Structure\nThe BYU AI Foundry pairs a sponsoring organization with a faculty-guided team of BYU Marriott students for a full academic year. The team takes on one real, open-ended business problem and delivers an AI-enabled solution to it.\nSubmit a Project →",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "partners/01-program-overview.html#engagement-structure",
+    "href": "partners/01-program-overview.html#engagement-structure",
+    "title": "Program Overview",
+    "section": "",
+    "text": "Component\nDetails\n\n\n\n\nDuration\n8 months, 2 semesters\n\n\nPeriod\nSeptember 2, 2026 – April 14, 2027\n\n\nTeam size\n4–6 students per project\n\n\nStudent effort\n8–12 hours per week, per student\n\n\nSponsor commitment\n~1 hour per week\n\n\nLocation\nRemote, with optional on-site visits\n\n\nSponsorship fee\n$22,000 per project\n\n\nIntellectual property\nSponsor retains all deliverables and IP",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "partners/01-program-overview.html#academic-credit",
+    "href": "partners/01-program-overview.html#academic-credit",
+    "title": "Program Overview",
+    "section": "Academic Credit",
+    "text": "Academic Credit\nStudents enroll in the AI Foundry Lab, cross-listed as MBA 693R and STRAT 490R, for 3.0 credit hours per semester and 6.0 across the year. Teams mix MBA and senior undergraduate students by design.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "partners/01-program-overview.html#who-is-on-your-team",
+    "href": "partners/01-program-overview.html#who-is-on-your-team",
+    "title": "Program Overview",
+    "section": "Who Is on Your Team",
+    "text": "Who Is on Your Team\nEvery team carries three roles:\n\n\n\n\n\n\n\nRole\nResponsibility\n\n\n\n\nClient lead\nYour single point of contact. Runs the weekly call, sends the weekly update, owns scope conversations\n\n\nBuilders\nThe analysis, modeling, and software\n\n\nQC lead\nReviews everything before it reaches you. Owns the quality standard\n\n\n\nA faculty director oversees every engagement and reviews all four milestones independently of the client.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "partners/01-program-overview.html#the-year-in-four-milestones",
+    "href": "partners/01-program-overview.html#the-year-in-four-milestones",
+    "title": "Program Overview",
+    "section": "The Year in Four Milestones",
+    "text": "The Year in Four Milestones\n\n\n\n\n\n\n\n\nMilestone\nDate\nWhat you receive\n\n\n\n\nM1: Problem definition and framework\nOctober 16, 2026\nA written problem statement you sign off on, the decision criteria, and how success will be measured\n\n\nM2: Working prototype\nDecember 11, 2026\nSomething that runs, on real or realistic data, with the logic documented\n\n\nM3: Validated model\nFebruary 19, 2027\nSensitivity analysis, stated assumptions, explainable outputs, known limitations\n\n\nM4: Final delivery\nApril 9, 2027\nExecutive summary, decision tool or dashboard, handoff documentation, and the repository",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "partners/01-program-overview.html#what-sponsorship-covers",
+    "href": "partners/01-program-overview.html#what-sponsorship-covers",
+    "title": "Program Overview",
+    "section": "What Sponsorship Covers",
+    "text": "What Sponsorship Covers\nThe $22,000 fee covers faculty oversight and direction, student team time across two semesters, software and API costs, data and tooling access, program administration, and the final delivery showcase.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "partners/01-program-overview.html#what-we-deliver",
+    "href": "partners/01-program-overview.html#what-we-deliver",
+    "title": "Program Overview",
+    "section": "What We Deliver",
+    "text": "What We Deliver\nThe Foundry builds business decision systems. Typical deliverables:\n\nStrategy assessment and validation\nDecision frameworks with explicit criteria and thresholds\nScoring and prioritization models\nForecasting and predictive analytics\nFinancial models, including NPV, sensitivity, and scenario analysis\nOptimization under real capital, capacity, and resource constraints\nExecutive decision dashboards and prototype applications\nExecutive-ready synthesis and recommendations\n\nEvery deliverable carries an explainability requirement: your team can walk you through which assumptions drive each recommendation and what would have to change for the answer to change.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "partners/01-program-overview.html#what-we-do-not-do",
+    "href": "partners/01-program-overview.html#what-we-do-not-do",
+    "title": "Program Overview",
+    "section": "What We Do Not Do",
+    "text": "What We Do Not Do\nBeing clear about this saves everyone time.\n\nProduction software. We deliver working prototypes and models, not systems hardened for your production environment.\nStaff augmentation. This is not a way to get cheap analyst hours on your existing backlog.\nWork that is already scoped and specified. If you know exactly what you want built, hire a contractor. The Foundry is for open-ended problems where the answer is not known yet.\nRegulated or safety-critical deliverables. Nothing we produce should be relied on as a clinical, legal, financial, or regulatory determination without your own review.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "partners/01-program-overview.html#how-this-differs-from-the-engineering-capstone",
+    "href": "partners/01-program-overview.html#how-this-differs-from-the-engineering-capstone",
+    "title": "Program Overview",
+    "section": "How This Differs from the Engineering Capstone",
+    "text": "How This Differs from the Engineering Capstone\nBYU’s engineering capstone programs build physical and embedded systems: CAD, prototypes, PCBs, firmware, security assessments. The AI Foundry builds business decision systems.\nIf your question is “how do we build this thing,” that is an engineering capstone. If your question is “which things should we build, in what order, and how would we know,” that is the Foundry.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "partners/01-program-overview.html#contact",
+    "href": "partners/01-program-overview.html#contact",
+    "title": "Program Overview",
+    "section": "Contact",
+    "text": "Contact\nScott Murff\nDirector, AI Foundry · Program Director, Strategic Management\nBrigham Young University, Marriott School of Business\nscott.murff@byu.edu",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
+    ]
+  },
+  {
+    "objectID": "partners/02-working-with-the-team.html",
+    "href": "partners/02-working-with-the-team.html",
+    "title": "Working with the Team",
+    "section": "",
+    "text": "Your Responsibilities as a Sponsor\nThe engagements that go well share one trait: the sponsor treats the team like a delivery team, not like a class project. This guide covers how to do that in about an hour a week.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Working with the Team</span>"
+    ]
+  },
+  {
+    "objectID": "partners/02-working-with-the-team.html#your-responsibilities-as-a-sponsor",
+    "href": "partners/02-working-with-the-team.html#your-responsibilities-as-a-sponsor",
+    "title": "Working with the Team",
+    "section": "",
+    "text": "Name one point of contact with authority to answer scope questions\nHold a standing weekly call, 30 to 45 minutes, same time every week\nProvide data access early. Data delays are the single most common cause of a missed milestone\nAnswer decision requests within a week. The weekly update will list them explicitly\nAttend the four milestone reviews\nComplete the mid-term and end-of-term evaluations",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Working with the Team</span>"
+    ]
+  },
+  {
+    "objectID": "partners/02-working-with-the-team.html#before-the-project-starts",
+    "href": "partners/02-working-with-the-team.html#before-the-project-starts",
+    "title": "Working with the Team",
+    "section": "Before the Project Starts",
+    "text": "Before the Project Starts\n\nWrite down the decision you are actually trying to make. Not the analysis you want, the decision it feeds\nIdentify what data exists, where it lives, and who controls access\nDecide what is confidential and what NDA the team should sign\nName your point of contact and a backup\nPrepare a 30 minute background briefing for the kick-off",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Working with the Team</span>"
+    ]
+  },
+  {
+    "objectID": "partners/02-working-with-the-team.html#the-first-month-is-scoping",
+    "href": "partners/02-working-with-the-team.html#the-first-month-is-scoping",
+    "title": "Working with the Team",
+    "section": "The First Month Is Scoping",
+    "text": "The First Month Is Scoping\nExpect the team to push back on the problem statement. That is the design of the program, not a sign of confusion. A team that accepts a vague brief in September delivers a vague answer in April.\nBy M1 in mid-October you will have a written problem statement, agreed decision criteria, and a definition of success. You sign off on it. Everything after that is measured against it.\n\n\n\n\n\n\nTip\n\n\n\nThe most valuable hour you will spend on this project is the scoping conversation in week 3. Bring your real constraints: budget, capacity, political reality, what has already been tried. Teams that know the constraints solve the actual problem.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Working with the Team</span>"
+    ]
+  },
+  {
+    "objectID": "partners/02-working-with-the-team.html#weekly-cadence",
+    "href": "partners/02-working-with-the-team.html#weekly-cadence",
+    "title": "Working with the Team",
+    "section": "Weekly Cadence",
+    "text": "Weekly Cadence\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nStanding call\n30 to 45 minutes. Team presents progress, you answer open decisions\n\n\nSaturday\nClient lead sends the weekly written update\n\n\nAs needed\nTeam raises blockers within 48 hours of hitting them, not at the next call\n\n\n\nThe weekly update has a fixed format: what was accomplished, next week’s priorities with owners, decisions or input needed from you, and any risks. The third section is the one to read first.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Working with the Team</span>"
+    ]
+  },
+  {
+    "objectID": "partners/02-working-with-the-team.html#effective-sponsorship",
+    "href": "partners/02-working-with-the-team.html#effective-sponsorship",
+    "title": "Working with the Team",
+    "section": "Effective Sponsorship",
+    "text": "Effective Sponsorship\n\nBe specific. “This isn’t quite right” costs a week. “The margin assumption ignores our gross-to-net” costs an hour\nBe timely. Feedback at the milestone review is too late to change the milestone\nBalance. These are students doing professional work. Tell them what is working, then what is not\nPush on rigor, not on volume. Ask “what would have to be true for this to be wrong.” That question makes the work better than any request for more slides",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Working with the Team</span>"
+    ]
+  },
+  {
+    "objectID": "partners/02-working-with-the-team.html#scope-changes",
+    "href": "partners/02-working-with-the-team.html#scope-changes",
+    "title": "Working with the Team",
+    "section": "Scope Changes",
+    "text": "Scope Changes\nBusinesses change and scopes change with them. The rule is simply that changes are written down.\n\nRaise the change on the weekly call\nThe team documents it in the decision log and confirms it in the weekly update\nIf it materially changes the milestone plan, the faculty director is looped in\n\nWhat does not work is quiet expansion: a new question added each week without anything coming off the plan. The team is instructed to surface that pattern to the faculty director.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Working with the Team</span>"
+    ]
+  },
+  {
+    "objectID": "partners/02-working-with-the-team.html#if-something-is-not-working",
+    "href": "partners/02-working-with-the-team.html#if-something-is-not-working",
+    "title": "Working with the Team",
+    "section": "If Something Is Not Working",
+    "text": "If Something Is Not Working\nTell us early. Contact Scott Murff directly at scott.murff@byu.edu. Most problems are fixable in week 5 and unfixable in week 20. Early intervention is not an escalation, it is normal program operation.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Working with the Team</span>"
+    ]
+  },
+  {
+    "objectID": "partners/03-evaluation.html",
+    "href": "partners/03-evaluation.html",
+    "title": "Evaluation",
+    "section": "",
+    "text": "Feedback Survey\nSponsors complete a brief feedback survey twice: at mid-year for developmental purposes, and at the end of the year as an input into student grades.\nThe survey asks you to evaluate the team on five dimensions, each on a 1 to 7 scale:\nYou will also be able to comment on each dimension. Comments are shared with the students.\nYou evaluate the team, not individual students. Individual differentiation comes from confidential peer evaluation within the team, which is our job to administer, not yours.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "partners/03-evaluation.html#feedback-survey",
+    "href": "partners/03-evaluation.html#feedback-survey",
+    "title": "Evaluation",
+    "section": "",
+    "text": "Timeliness: Meeting deadlines and showing up prepared\nCommunication: Clarity and effectiveness in writing and in meetings\nHigh Agency: Taking initiative, solving problems proactively, working independently\nTechnical Competency: Skill in analysis, modeling, and building\nContribution: Consistently delivering work of real value\n\n\n\n\n\n\n\n\n\n\nSurvey\nDue Date\nPurpose\n\n\n\n\nMid-year\nDecember 11, 2026\nDevelopmental feedback only, no grade impact\n\n\nEnd-of-year\nApril 14, 2027\nFinal evaluation, input to grading",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "partners/03-evaluation.html#mid-year-feedback",
+    "href": "partners/03-evaluation.html#mid-year-feedback",
+    "title": "Evaluation",
+    "section": "Mid-Year Feedback",
+    "text": "Mid-Year Feedback\nThe mid-year survey gives the team a chance to understand where they stand with half the year left. It has no impact on grades. Its purpose is to let them course-correct while there is still time.\nAfter completing it, have a live conversation with the team. Schedule it within a week. This conversation is one of the most valuable parts of the program for students.\n\nMid-Year Conversation Guide\n\n\n\n\n\n\nTip\n\n\n\nMake it two-way. Ask the team for their feedback on the engagement and on what you could do differently as a sponsor. They will have opinions and will be reluctant to volunteer them.\n\n\n\nStrengths: What is going well? What should they keep doing?\nGrowth areas: Where do they need to be sharper by April?\nSupport: What can you do to help? Data access, introductions, faster decisions?\nScope check: Is the M1 problem statement still the right problem?\nAsk for feedback: How can you be a better sponsor?",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "partners/03-evaluation.html#end-of-year-feedback",
+    "href": "partners/03-evaluation.html#end-of-year-feedback",
+    "title": "Evaluation",
+    "section": "End-of-Year Feedback",
+    "text": "End-of-Year Feedback\nThe end-of-year survey is the final evaluation and a graded input. It is shared with students, so please discuss it verbally as part of a wrap-up conversation.\n\nWrap-Up Conversation Guide\n\nHighlights: What did they deliver that you will actually use?\nGrowth areas: What skills should they develop before their first job?\nCareer advice: What would help them succeed in this kind of work?\nWhat happens next: Will you act on the recommendation? Is there a follow-on engagement, an internship, or a hire here?\nAsk for their feedback: What could the Foundry do better?",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "partners/03-evaluation.html#student-feedback-on-the-engagement",
+    "href": "partners/03-evaluation.html#student-feedback-on-the-engagement",
+    "title": "Evaluation",
+    "section": "Student Feedback on the Engagement",
+    "text": "Student Feedback on the Engagement\nAt the end of the year we also ask students to evaluate the engagement: quality of mentorship, whether the work mattered, clarity of expectations, and access to data and decisions. We share the results with you. It is the most direct read you will get on how to sponsor better next time.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "partners/03-evaluation.html#questions",
+    "href": "partners/03-evaluation.html#questions",
+    "title": "Evaluation",
+    "section": "Questions?",
+    "text": "Questions?\nScott Murff\nscott.murff@byu.edu",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "partners/04-faq.html",
+    "href": "partners/04-faq.html",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "Cost and Terms",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
+    ]
+  },
+  {
+    "objectID": "partners/04-faq.html#cost-and-terms",
+    "href": "partners/04-faq.html#cost-and-terms",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "What does it cost?\n$22,000 per project for the full academic year. This matches the BYU engineering capstone sponsorship fee.\n\n\nWhat does the fee cover?\nFaculty oversight and direction, student team time across two semesters, software and API costs, data and tooling access, program administration, and the final delivery showcase.\n\n\nWhen is payment due?\nPayment terms and vendor setup are handled through BYU. Contact the program director and we will connect you with the right administrative contact early, so vendor onboarding does not delay the project start.\n\n\nIs there a formal agreement?\nYes. Sponsorship is confirmed in writing before the project starts, covering scope, fee, IP, and confidentiality.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
+    ]
+  },
+  {
+    "objectID": "partners/04-faq.html#intellectual-property-and-confidentiality",
+    "href": "partners/04-faq.html#intellectual-property-and-confidentiality",
+    "title": "Frequently Asked Questions",
+    "section": "Intellectual Property and Confidentiality",
+    "text": "Intellectual Property and Confidentiality\n\nWho owns the work?\nYou do. Sponsors retain all deliverables and intellectual property, including code, models, documents, and analysis.\n\n\nWill students sign an NDA?\nYes. Every student on the team signs your NDA, or the Foundry’s standard mutual NDA if you prefer. This happens before any data is shared.\n\n\nHow is our data handled?\nClient data stays in the approved project repository and approved tools. It does not go into students’ personal accounts, personal cloud storage, or unapproved AI services. Students delete local copies at the end of the engagement. Data handling terms can be tightened to match your requirements.\n\n\nCan students talk about the project publicly?\nNot without your written permission. That includes LinkedIn, portfolios, and job interviews. The default is that the engagement is confidential. Many sponsors do grant permission for a general description, which helps students and costs you nothing, but it is your call.\n\n\nDo you use AI tools on our data?\nYes, that is the point of the program, and it is governed. Students use approved tools only, under your data handling terms. If you have a specific list of permitted or prohibited AI services, tell us at kick-off and we will scope the toolchain to it.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
+    ]
+  },
+  {
+    "objectID": "partners/04-faq.html#scope-and-fit",
+    "href": "partners/04-faq.html#scope-and-fit",
+    "title": "Frequently Asked Questions",
+    "section": "Scope and Fit",
+    "text": "Scope and Fit\n\nWhat makes a strong project?\nAn open-ended business question where the answer is not known in advance, where the decision recurs so a repeatable framework is worth more than a one-off analysis, and where enough data exists for the team to work with. See the RFP for detail.\n\n\nWhat makes a weak project?\nA task that is already specified and just needs hands, work that requires proprietary systems access we cannot get, anything safety- or compliance-critical, or a question whose answer you already know and want validated.\n\n\nCan the scope change mid-year?\nYes, in writing. Changes get documented in the decision log and confirmed in the weekly update. What we manage against is quiet expansion, where questions are added without anything coming off the plan.\n\n\nWhat if the project isn’t going well?\nContact the program director immediately. Most engagement problems are fixable in week 5. Early intervention is normal program operation, not an escalation.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
+    ]
+  },
+  {
+    "objectID": "partners/04-faq.html#working-arrangements",
+    "href": "partners/04-faq.html#working-arrangements",
+    "title": "Frequently Asked Questions",
+    "section": "Working Arrangements",
+    "text": "Working Arrangements\n\nHow much of my time does this take?\nAbout an hour a week: a 30 to 45 minute standing call, plus reading the weekly update and answering the decisions it asks for. Plus four milestone reviews across the year.\n\n\nDo we need to be local to Utah?\nNo. Engagements run remote by default. On-site visits are welcome but not required.\n\n\nDo we provide equipment or accounts?\nStudents use their own machines. You may need to provision accounts for data or systems access, which we will scope at kick-off.\n\n\nCan we hire the students?\nYes, and many sponsors do. Recruiting access is one of the real benefits of sponsorship. Please route offers through the program director during the engagement so it does not disrupt the team.\n\n\nCan we extend or run a second project?\nYes. Follow-on engagements and paid summer extensions are both common. Extensions are optional and not part of the base program.",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
+    ]
+  },
+  {
+    "objectID": "partners/04-faq.html#who-should-i-contact",
+    "href": "partners/04-faq.html#who-should-i-contact",
+    "title": "Frequently Asked Questions",
+    "section": "Who should I contact?",
+    "text": "Who should I contact?\nScott Murff\nDirector, AI Foundry · Program Director, Strategic Management\nBrigham Young University, Marriott School of Business\nscott.murff@byu.edu",
+    "crumbs": [
+      "For Client Partners",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html",
+    "href": "partners/05-rfp.html",
+    "title": "Request for Proposals",
+    "section": "",
+    "text": "Request for Proposals\nBYU Marriott School of Business is seeking industry partners for the 2026 to 2027 AI Foundry program.\nSponsoring organizations bring a real, open-ended business problem. A faculty-guided team of BYU Marriott students spends the full academic year designing, prototyping, and testing an AI-enabled solution to it, and delivers a decision system the sponsor owns outright.\nSubmit a Project →",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#program-overview",
+    "href": "partners/05-rfp.html#program-overview",
+    "title": "Request for Proposals",
+    "section": "Program Overview",
+    "text": "Program Overview\nThe AI Foundry is a year-long applied program running September 2, 2026 through April 14, 2027. It sits inside the Marriott School’s Strategic Management program and is cross-listed for MBA and senior undergraduate students (MBA 693R and STRAT 490R).\nWhere BYU’s engineering capstones build physical and embedded systems, the AI Foundry builds business decision systems: strategy frameworks, prioritization and scoring models, forecasting and predictive analytics, financial models, and the software that puts those in front of a decision maker.",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#about-the-students",
+    "href": "partners/05-rfp.html#about-the-students",
+    "title": "Request for Proposals",
+    "section": "About the Students",
+    "text": "About the Students\nStudents are MBA candidates and senior undergraduates in Strategic Management at the BYU Marriott School of Business. Most have completed coursework in product management and applied AI before joining a Foundry team, and many bring prior industry or internship experience in consulting, finance, product, and analytics.\nStrategy and business\n\nCorporate and business unit strategy\nBusiness model design and evaluation\nPortfolio management and resource allocation\nScenario planning and competitive intelligence\nMarket and industry analysis\nCommercialization and go-to-market\n\nData science and AI\n\nMachine learning and predictive analytics\nForecasting and time series modeling\nApplied LLM and agent development\nPython, SQL, and modern AI tooling\nExplainable model design\nData mining and statistical analysis\n\nFinancial and economic modeling\n\nFinancial forecasting and revenue modeling\nNPV, IRR, and payback analysis\nSensitivity analysis and Monte Carlo simulation\nUnit economics and margin analysis\nCapital allocation and cash flow modeling\n\nProduct and delivery\n\nProduct discovery and customer research\nRequirements definition and prioritization\nRapid prototyping and AI-assisted software development\nDashboard and decision tool design\nExecutive communication and synthesis\n\nThe program is directed by Scott Murff, Associate Teaching Professor of Strategy, formerly a principal product manager and analytics consultant at McKinsey & Company.",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#program-goals",
+    "href": "partners/05-rfp.html#program-goals",
+    "title": "Request for Proposals",
+    "section": "Program Goals",
+    "text": "Program Goals\nOver the year, student teams will:\n\nTranslate an ambiguous business problem into a decision that can be made with evidence\nDesign a repeatable framework with explicit criteria, thresholds, and business rules\nBuild and validate AI and analytical models against real data\nQuantify uncertainty and show how recommendations change under alternative assumptions\nDeliver explainable outputs that a decision maker can act on and defend\nCommunicate findings at an executive standard",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#collaboration-format",
+    "href": "partners/05-rfp.html#collaboration-format",
+    "title": "Request for Proposals",
+    "section": "Collaboration Format",
+    "text": "Collaboration Format\n\n\n\n\n\n\n\nComponent\nDetails\n\n\n\n\nDuration\n8 months, 2 semesters, 32 weeks\n\n\nPeriod\nSeptember 2, 2026 – April 14, 2027\n\n\nTeam size\n4–6 students, one dedicated team per project\n\n\nStudent effort\n8–12 hours per week, per student\n\n\nSponsor commitment\n~1 hour per week\n\n\nModality\nRemote, with optional on-site visits\n\n\nFaculty oversight\nFaculty director reviews all milestones independently\n\n\n\nEach team carries a client lead who owns the relationship, builders who do the work, and a QC lead who signs off on everything before it reaches the sponsor.\nThe engagement follows six phases: problem definition and scoping, framework design, model build and prototyping, validation and sensitivity testing, refinement and integration, and final delivery.",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#deliverables",
+    "href": "partners/05-rfp.html#deliverables",
+    "title": "Request for Proposals",
+    "section": "Deliverables",
+    "text": "Deliverables\nProject-dependent, but typically include:\n\nStrategy assessment and validation report\nDecision framework with explicit criteria, thresholds, and business rules\nScoring and prioritization model\nPredictive or forecasting model with documented performance\nScenario and sensitivity analysis\nOptimization model under real capital and capacity constraints\nExecutive decision dashboard or prototype application\nExplainable model output showing which assumptions drive each recommendation\nExecutive summary and final presentation\nFull repository and handoff documentation\n\nEvery deliverable carries an explainability requirement. If the team cannot walk the sponsor through why the model recommends what it recommends, it is not considered complete.",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#ideal-project-types",
+    "href": "partners/05-rfp.html#ideal-project-types",
+    "title": "Request for Proposals",
+    "section": "Ideal Project Types",
+    "text": "Ideal Project Types\nStrong fits include:\n\nPortfolio and resource allocation: which products, markets, or investments deserve scarce capital and management attention\nAI-enabled decision support: turning a recurring judgment call into a repeatable, evidence-based framework\nForecasting and predictive analytics: demand, revenue, price, churn, risk\nMarket entry and commercialization: where to play and how to win in a new category\nBuild, buy, or partner evaluation: structured evaluation of strategic options\nBusiness model evaluation: pricing, channel, and unit economics analysis\nProduct strategy and prototyping: defining and building toward a new product direction\nOperational analytics: decision systems for recurring operating choices\n\nThe strongest projects share three traits: the answer is genuinely not known in advance, the decision recurs so a framework is worth more than a one-off analysis, and enough data exists for the team to work with.\nPoor fits: work that is already fully specified and just needs hands, staff augmentation on an existing backlog, production software engineering, projects requiring systems access that cannot be provisioned, and safety-, clinical-, or compliance-critical determinations.",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#partner-expectations",
+    "href": "partners/05-rfp.html#partner-expectations",
+    "title": "Request for Proposals",
+    "section": "Partner Expectations",
+    "text": "Partner Expectations\nSponsoring organizations agree to:\n\nDefine the challenge statement collaboratively with the team during the first six weeks\nAssign a single point of contact with authority to answer scope questions\nHold a standing weekly call of 30 to 45 minutes\nProvide data access early, and provision any necessary accounts\nAnswer decision requests raised in the weekly update within one week\nParticipate in four milestone reviews across the year\nComplete a mid-year and an end-of-year team evaluation\nAccept public recognition as a sponsor, unless anonymity is requested",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#sponsorship",
+    "href": "partners/05-rfp.html#sponsorship",
+    "title": "Request for Proposals",
+    "section": "Sponsorship",
+    "text": "Sponsorship\n$22,000 per project. The fee covers faculty oversight and direction, student team time across two semesters, software and API costs, data and tooling access, program administration, and the final delivery showcase.\nIntellectual property: sponsors retain full rights to all deliverables, documentation, code, models, and IP produced during the engagement.\nConfidentiality: every student signs the sponsor’s NDA, or the Foundry’s standard mutual NDA. Client data is confined to the approved project repository and approved tools, and local copies are deleted at the end of the engagement.",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#key-dates",
+    "href": "partners/05-rfp.html#key-dates",
+    "title": "Request for Proposals",
+    "section": "Key Dates",
+    "text": "Key Dates\n\n\n\nMilestone\nDate\n\n\n\n\nProject proposal deadline\nJuly 31, 2026\n\n\nProjects finalized and scoped\nAugust 14, 2026\n\n\nStudent teams assigned\nAugust 24, 2026\n\n\nProject launch\nSeptember 2, 2026\n\n\nM1: Problem definition and framework\nOctober 16, 2026\n\n\nM2: Working prototype\nDecember 11, 2026\n\n\nMid-year sponsor evaluation due\nDecember 11, 2026\n\n\nM3: Validated model\nFebruary 19, 2027\n\n\nM4: Final delivery and showcase\nApril 9, 2027\n\n\nProgram concludes\nApril 14, 2027",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#capacity",
+    "href": "partners/05-rfp.html#capacity",
+    "title": "Request for Proposals",
+    "section": "Capacity",
+    "text": "Capacity\nThe Foundry runs a deliberately small number of engagements per year so each team can be staffed and supervised properly. Projects are accepted on a rolling basis until capacity is reached.",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#submission-process",
+    "href": "partners/05-rfp.html#submission-process",
+    "title": "Request for Proposals",
+    "section": "Submission Process",
+    "text": "Submission Process\n\nSubmit a project concept through the program page\nThe program director reviews for fit and follows up within one week\nA 45-minute alignment call covers scope, timing, expectations, and administrative steps\nScope is confirmed in writing along with sponsorship and IP terms\nDetailed scoping continues with the student team through Milestone 1 in October",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  },
+  {
+    "objectID": "partners/05-rfp.html#contact",
+    "href": "partners/05-rfp.html#contact",
+    "title": "Request for Proposals",
+    "section": "Contact",
+    "text": "Contact\nScott Murff\nDirector, AI Foundry · Program Director, Strategic Management\nBrigham Young University, Marriott School of Business\nscott.murff@byu.edu",
+    "crumbs": [
+      "Sourcing",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
+    ]
+  }
+]

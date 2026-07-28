@@ -1,0 +1,75 @@
+# Getting Started
+
+Welcome to the BYU AI Foundry. You are joining a delivery team with a paying client. This
+guide gets you productive in the first two weeks.
+
+## Before the Project Starts
+
+- [ ] Sign the client NDA or the Foundry standard mutual NDA
+- [ ] Accept your GitHub invitation to the `ai-foundry-byu` organization
+- [ ] Confirm your team, your role, and your QC lead
+- [ ] Set up access to the project repository and approved tools
+- [ ] Read the client's proposal and any background material provided
+- [ ] Review the [Build Standards](04-build-standards.qmd) and the [Program Overview](../index.qmd)
+
+## First Two Weeks
+
+- [ ] Attend the kick-off with the client and confirm the point of contact
+- [ ] Write a one-page restatement of the problem in your own words and send it to the client
+- [ ] Agree with the client on what "done" looks like and how success will be measured
+- [ ] Establish the standing weekly client call and the internal team cadence
+- [ ] Inventory the data you have, the data you need, and the data you are not going to get
+- [ ] Identify the three assumptions that, if wrong, break the whole project
+
+::: {.callout-tip}
+The single most common failure in a Foundry project is building the right thing for the wrong
+question. Spend the first two weeks making sure the question is right. The client will
+appreciate the challenge more than the compliance.
+:::
+
+## Team Roles
+
+Every team has the same three roles. They rotate by milestone unless the team agrees otherwise.
+
+| Role | Owns |
+|------|------|
+| **Client lead** | The relationship. Runs the weekly call, sends the update, owns scope conversations. |
+| **Builders** | The work. Analysis, modeling, code, documents. |
+| **QC lead** | The standard. Nothing goes to the client without QC sign-off. |
+
+The QC lead role is not decorative. Client-facing work that contains an unreconciled number or
+an unexplainable model output is a QC failure, and it is graded as one.
+
+## Key Dates
+
+| Milestone | Date |
+|-----------|------|
+| Project launch | September 2, 2026 |
+| M1: Problem definition and framework | October 16, 2026 |
+| M2: Working prototype | December 11, 2026 |
+| M3: Validated model | February 19, 2027 |
+| M4: Final delivery and showcase | April 9, 2027 |
+| Weekly updates due | Saturday by 11:59 PM |
+
+## Your Responsibilities
+
+- **Confirm expectations** and ask clarifying questions rather than guessing
+- **Deliver on schedule.** A client who is surprised at a milestone has been failed earlier
+- **Come prepared** to client calls with an agenda, progress, and specific asks
+- **Raise blockers within 48 hours.** Not at the weekly call, and not at the milestone
+- **Protect client data** per the confidentiality terms in the [Syllabus](01-syllabus.qmd)
+- **Send end-of-week updates** to the client point of contact, CC ai-foundry@byu.edu
+- **Carry your share.** Your teammates grade you on this
+
+## What You'll Be Working On
+
+Foundry teams deliver business decision systems. Depending on the engagement, that includes:
+
+- Strategy assessment and market or portfolio analysis
+- Decision frameworks with explicit criteria and thresholds
+- Scoring and prioritization models
+- Forecasting and predictive analytics
+- Financial modeling, including NPV, sensitivity, and scenario analysis
+- Optimization under real constraints
+- Decision dashboards and prototype applications
+- Executive-ready synthesis and recommendations

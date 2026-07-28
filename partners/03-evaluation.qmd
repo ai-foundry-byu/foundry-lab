@@ -1,0 +1,72 @@
+# Evaluation
+
+Sponsors complete a brief feedback survey twice: at mid-year for developmental purposes, and at
+the end of the year as an input into student grades.
+
+## Feedback Survey
+
+The survey asks you to evaluate the team on five dimensions, each on a 1 to 7 scale:
+
+- **Timeliness**: Meeting deadlines and showing up prepared
+- **Communication**: Clarity and effectiveness in writing and in meetings
+- **High Agency**: Taking initiative, solving problems proactively, working independently
+- **Technical Competency**: Skill in analysis, modeling, and building
+- **Contribution**: Consistently delivering work of real value
+
+You will also be able to comment on each dimension. Comments are shared with the students.
+
+| Survey | Due Date | Purpose |
+|--------|----------|---------|
+| Mid-year | December 11, 2026 | Developmental feedback only, no grade impact |
+| End-of-year | April 14, 2027 | Final evaluation, input to grading |
+
+You evaluate the **team**, not individual students. Individual differentiation comes from
+confidential peer evaluation within the team, which is our job to administer, not yours.
+
+## Mid-Year Feedback
+
+The mid-year survey gives the team a chance to understand where they stand with half the year
+left. It has no impact on grades. Its purpose is to let them course-correct while there is still
+time.
+
+After completing it, **have a live conversation with the team.** Schedule it within a week. This
+conversation is one of the most valuable parts of the program for students.
+
+### Mid-Year Conversation Guide
+
+::: {.callout-tip}
+**Make it two-way.** Ask the team for their feedback on the engagement and on what you could do
+differently as a sponsor. They will have opinions and will be reluctant to volunteer them.
+:::
+
+1. **Strengths**: What is going well? What should they keep doing?
+2. **Growth areas**: Where do they need to be sharper by April?
+3. **Support**: What can you do to help? Data access, introductions, faster decisions?
+4. **Scope check**: Is the M1 problem statement still the right problem?
+5. **Ask for feedback**: How can you be a better sponsor?
+
+## End-of-Year Feedback
+
+The end-of-year survey is the final evaluation and a graded input. It is shared with students,
+so please discuss it verbally as part of a wrap-up conversation.
+
+### Wrap-Up Conversation Guide
+
+1. **Highlights**: What did they deliver that you will actually use?
+2. **Growth areas**: What skills should they develop before their first job?
+3. **Career advice**: What would help them succeed in this kind of work?
+4. **What happens next**: Will you act on the recommendation? Is there a follow-on engagement,
+   an internship, or a hire here?
+5. **Ask for their feedback**: What could the Foundry do better?
+
+## Student Feedback on the Engagement
+
+At the end of the year we also ask students to evaluate the engagement: quality of mentorship,
+whether the work mattered, clarity of expectations, and access to data and decisions. We share
+the results with you. It is the most direct read you will get on how to sponsor better next time.
+
+## Questions?
+
+**Scott Murff**
+
+scott.murff@byu.edu

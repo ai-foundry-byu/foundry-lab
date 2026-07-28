@@ -1,0 +1,1392 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Scott Murff">
+<meta name="dcterms.date" content="2026-09-02">
+
+<title>Syllabus – AI Foundry Lab</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../students/02-getting-started.html" rel="next">
+<link href="../index.html" rel="prev">
+<link href="../images/favicon.svg" rel="icon" type="image/svg+xml">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-27c261d06b905028a18691de25d09dde.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+</head><body class="nav-sidebar floating quarto-light"><header class="book-header-banner">
+  <a href="https://byu-aifoundry.com" target="_blank">
+    <img src="images/strat-logo.png" alt="BYU AI Foundry - Marriott School of Business">
+  </a>
+</header>
+
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5TPMPSE4HZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5TPMPSE4HZ');
+</script>
+
+<!-- Sidebar title: add cross-listed course numbers -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var title = document.querySelector('.sidebar-title');
+    if (!title) return;
+
+    if (!document.querySelector('.sidebar-course-numbers')) {
+      var nums = document.createElement('div');
+      nums.className = 'sidebar-course-numbers';
+      nums.textContent = 'MBA 693R · STRAT 490R';
+      title.insertAdjacentElement('afterend', nums);
+    }
+  });
+</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+
+
+
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../students/01-syllabus.html">For Students</a></li><li class="breadcrumb-item"><a href="../students/01-syllabus.html"><span class="chapter-title">Syllabus</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../index.html" class="sidebar-logo-link">
+      </a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">AI Foundry Lab</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Program Overview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">For Students</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/01-syllabus.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Syllabus</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/02-getting-started.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Getting Started</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/03-weekly-updates.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Weekly Updates</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/04-build-standards.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Build Standards</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">For Client Partners</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../partners/01-program-overview.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Program Overview</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../partners/02-working-with-the-team.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Working with the Team</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../partners/03-evaluation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Evaluation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../partners/04-faq.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Frequently Asked Questions</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Sourcing</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../partners/05-rfp.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Request for Proposals</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#course-numbers" id="toc-course-numbers" class="nav-link active" data-scroll-target="#course-numbers">Course Numbers</a></li>
+  <li><a href="#what-this-course-is" id="toc-what-this-course-is" class="nav-link" data-scroll-target="#what-this-course-is">What This Course Is</a></li>
+  <li><a href="#studio-time" id="toc-studio-time" class="nav-link" data-scroll-target="#studio-time">Studio Time</a></li>
+  <li><a href="#grading" id="toc-grading" class="nav-link" data-scroll-target="#grading">Grading</a>
+  <ul class="collapse">
+  <li><a href="#grade-components-500-points-possible" id="toc-grade-components-500-points-possible" class="nav-link" data-scroll-target="#grade-components-500-points-possible">Grade Components (500 points possible)</a></li>
+  <li><a href="#weekly-update-emails-140-points" id="toc-weekly-update-emails-140-points" class="nav-link" data-scroll-target="#weekly-update-emails-140-points">Weekly Update Emails (140 points)</a></li>
+  <li><a href="#milestone-deliverables-160-points" id="toc-milestone-deliverables-160-points" class="nav-link" data-scroll-target="#milestone-deliverables-160-points">Milestone Deliverables (160 points)</a></li>
+  <li><a href="#client-evaluation-100-points" id="toc-client-evaluation-100-points" class="nav-link" data-scroll-target="#client-evaluation-100-points">Client Evaluation (100 points)</a></li>
+  <li><a href="#peer-team-evaluation-60-points" id="toc-peer-team-evaluation-60-points" class="nav-link" data-scroll-target="#peer-team-evaluation-60-points">Peer / Team Evaluation (60 points)</a></li>
+  <li><a href="#video-reflection-40-points" id="toc-video-reflection-40-points" class="nav-link" data-scroll-target="#video-reflection-40-points">Video Reflection (40 points)</a></li>
+  <li><a href="#extra-credit-10-points" id="toc-extra-credit-10-points" class="nav-link" data-scroll-target="#extra-credit-10-points">Extra Credit (10 points)</a></li>
+  <li><a href="#grading-scale" id="toc-grading-scale" class="nav-link" data-scroll-target="#grading-scale">Grading Scale</a></li>
+  </ul></li>
+  <li><a href="#credit-hours" id="toc-credit-hours" class="nav-link" data-scroll-target="#credit-hours">Credit Hours</a></li>
+  <li><a href="#confidentiality-and-client-data" id="toc-confidentiality-and-client-data" class="nav-link" data-scroll-target="#confidentiality-and-client-data">Confidentiality and Client Data</a></li>
+  <li><a href="#ai-use-policy" id="toc-ai-use-policy" class="nav-link" data-scroll-target="#ai-use-policy">AI Use Policy</a></li>
+  <li><a href="#instructor-bio" id="toc-instructor-bio" class="nav-link" data-scroll-target="#instructor-bio">Instructor Bio</a></li>
+  <li><a href="#getting-help" id="toc-getting-help" class="nav-link" data-scroll-target="#getting-help">Getting Help</a></li>
+  <li><a href="#mission-and-aims" id="toc-mission-and-aims" class="nav-link" data-scroll-target="#mission-and-aims">Mission and Aims</a></li>
+  <li><a href="#honor-code" id="toc-honor-code" class="nav-link" data-scroll-target="#honor-code">Honor Code</a></li>
+  <li><a href="#preventing-responding-to-sexual-misconduct" id="toc-preventing-responding-to-sexual-misconduct" class="nav-link" data-scroll-target="#preventing-responding-to-sexual-misconduct">Preventing &amp; Responding to Sexual Misconduct</a></li>
+  <li><a href="#student-disability" id="toc-student-disability" class="nav-link" data-scroll-target="#student-disability">Student Disability</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../students/01-syllabus.html">For Students</a></li><li class="breadcrumb-item"><a href="../students/01-syllabus.html"><span class="chapter-title">Syllabus</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">Syllabus</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Scott Murff </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">September 2, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="course-numbers-page">
+<p>MBA 693R · STRAT 490R</p>
+</div>
+<p><em>FALL 2026 – WINTER 2027</em></p>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td><strong>Instructor</strong></td>
+<td>Scott Murff</td>
+</tr>
+<tr class="even">
+<td><strong>Class Time</strong></td>
+<td>Fridays, 8:00–11:50 AM</td>
+</tr>
+<tr class="odd">
+<td><strong>Class Location</strong></td>
+<td>2140 TNRB</td>
+</tr>
+<tr class="even">
+<td><strong>Office Hours</strong></td>
+<td>Fridays, 11:00 AM–12:00 PM</td>
+</tr>
+<tr class="odd">
+<td><strong>LMS</strong></td>
+<td>Canvas</td>
+</tr>
+</tbody>
+</table>
+<section id="course-numbers" class="level2">
+<h2 class="anchored" data-anchor-id="course-numbers">Course Numbers</h2>
+<p>This course is cross-listed under two course numbers. It is all the same class: everyone meets together Fridays 8:00 to 11:50 AM in 2140 TNRB, works on the same client teams, uses this site, and uses Canvas as the LMS. Register under whichever number fits your program.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Course</th>
+<th>Section</th>
+<th>Title</th>
+<th>Credit Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>MBA 693R</td>
+<td>011</td>
+<td>Special Topics in Management</td>
+<td>3.0</td>
+</tr>
+<tr class="even">
+<td>STRAT 490R</td>
+<td>001</td>
+<td>Topics in Strategic Management</td>
+<td>3.0</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Canvas</strong> is used only for submitting milestone deliverables and your final video reflection, and for reviewing grades. All other course content lives on this website.</p>
+</div>
+</div>
+</section>
+<section id="what-this-course-is" class="level2">
+<h2 class="anchored" data-anchor-id="what-this-course-is">What This Course Is</h2>
+<p>You are on a delivery team for a paying client. The client has sponsored this project, retains the intellectual property, and expects professional work. Your grade reflects both the quality of what you ship and the professionalism with which you ship it.</p>
+<p>This is a two-semester course. You enroll each semester. Fall establishes the problem, the framework, and a working prototype. Winter hardens the build, validates it, and delivers.</p>
+</section>
+<section id="studio-time" class="level2">
+<h2 class="anchored" data-anchor-id="studio-time">Studio Time</h2>
+<p>The Friday 8:00 to 11:50 AM block in 2140 TNRB is your team’s standing work session: co-working, cross-team critique, client calls, and office hours with Professor Murff.</p>
+<p><strong>Required sessions:</strong></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Session</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>September 4, 2026</td>
+<td>Kick-off, team formation, client introductions</td>
+</tr>
+<tr class="even">
+<td>October 16, 2026</td>
+<td>Milestone 1 review (problem definition and framework)</td>
+</tr>
+<tr class="odd">
+<td>December 11, 2026</td>
+<td>Milestone 2 review (working prototype)</td>
+</tr>
+<tr class="even">
+<td>February 19, 2027</td>
+<td>Milestone 3 review (validated model)</td>
+</tr>
+<tr class="odd">
+<td>April 9, 2027</td>
+<td>Final delivery and showcase</td>
+</tr>
+</tbody>
+</table>
+<p>All other Fridays are optional but strongly encouraged. Teams that skip studio time consistently underperform.</p>
+</section>
+<section id="grading" class="level2">
+<h2 class="anchored" data-anchor-id="grading">Grading</h2>
+<p>Grades are based on weekly update emails, four milestone deliverables, client evaluation, peer evaluation, and a video reflection.</p>
+<section id="grade-components-500-points-possible" class="level3">
+<h3 class="anchored" data-anchor-id="grade-components-500-points-possible">Grade Components (500 points possible)</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Component</th>
+<th>Points</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Weekly Update Emails</td>
+<td>140 pts</td>
+<td>28%</td>
+</tr>
+<tr class="even">
+<td>Milestone Deliverables</td>
+<td>160 pts</td>
+<td>32%</td>
+</tr>
+<tr class="odd">
+<td>Client Evaluation</td>
+<td>100 pts</td>
+<td>20%</td>
+</tr>
+<tr class="even">
+<td>Peer / Team Evaluation</td>
+<td>60 pts</td>
+<td>12%</td>
+</tr>
+<tr class="odd">
+<td>Video Reflection</td>
+<td>40 pts</td>
+<td>8%</td>
+</tr>
+<tr class="even">
+<td><strong>Base Total</strong></td>
+<td><strong>500 pts</strong></td>
+<td>100%</td>
+</tr>
+<tr class="odd">
+<td>Extra Credit (BYU Student Ratings)</td>
+<td>10 pts</td>
+<td>+2%</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="weekly-update-emails-140-points" class="level3">
+<h3 class="anchored" data-anchor-id="weekly-update-emails-140-points">Weekly Update Emails (140 points)</h3>
+<p>28 emails across two semesters, 5 points each.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Status</th>
+<th>Points</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>On time (Saturday by 11:59 PM)</td>
+<td>5 pts</td>
+</tr>
+<tr class="even">
+<td>Late (by Monday 12:00 PM noon)</td>
+<td>2 pts</td>
+</tr>
+<tr class="odd">
+<td>After Monday noon</td>
+<td>0 pts</td>
+</tr>
+</tbody>
+</table>
+<p>See <a href="../students/03-weekly-updates.html">Weekly Updates</a> for format and expectations.</p>
+</section>
+<section id="milestone-deliverables-160-points" class="level3">
+<h3 class="anchored" data-anchor-id="milestone-deliverables-160-points">Milestone Deliverables (160 points)</h3>
+<p>Four milestones, 40 points each. These are graded by the faculty director against the <a href="../students/04-build-standards.html">Build Standards</a>, not by the client.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 37%">
+<col style="width: 17%">
+<col style="width: 44%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Milestone</th>
+<th>Due</th>
+<th>What is due</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>M1: Problem definition and framework</td>
+<td>October 16, 2026</td>
+<td>Written problem statement the client has signed off on, decision criteria, success measures</td>
+</tr>
+<tr class="even">
+<td>M2: Working prototype</td>
+<td>December 11, 2026</td>
+<td>Something that runs, on real or realistic data, with the logic documented</td>
+</tr>
+<tr class="odd">
+<td>M3: Validated model</td>
+<td>February 19, 2027</td>
+<td>Sensitivity analysis, stated assumptions, explainable outputs, known limitations</td>
+</tr>
+<tr class="even">
+<td>M4: Final delivery</td>
+<td>April 9, 2027</td>
+<td>Executive summary, decision tool or dashboard, handoff documentation, repository</td>
+</tr>
+</tbody>
+</table>
+<p>Each milestone is scored on four dimensions, 10 points each:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 66%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimension</th>
+<th>What earns full marks</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Correctness</strong></td>
+<td>The analysis holds up. Numbers reconcile. Assumptions are stated and defensible.</td>
+</tr>
+<tr class="even">
+<td><strong>Usefulness</strong></td>
+<td>A decision maker could act on it. It answers the client’s actual question.</td>
+</tr>
+<tr class="odd">
+<td><strong>Explainability</strong></td>
+<td>Someone outside the team can follow why the model says what it says.</td>
+</tr>
+<tr class="even">
+<td><strong>Craft</strong></td>
+<td>Clean repository, readable code and documents, professional presentation.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="client-evaluation-100-points" class="level3">
+<h3 class="anchored" data-anchor-id="client-evaluation-100-points">Client Evaluation (100 points)</h3>
+<p>Your client point of contact evaluates the team twice: at mid-term for development only, and at the end of the year as an input to your grade. Five dimensions on a 1 to 7 scale. See <a href="../partners/03-evaluation.html">Evaluation</a> for the exact questions.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Category</th>
+<th>Max Points</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Timeliness</td>
+<td>20</td>
+</tr>
+<tr class="even">
+<td>Communication</td>
+<td>20</td>
+</tr>
+<tr class="odd">
+<td>Agency</td>
+<td>20</td>
+</tr>
+<tr class="even">
+<td>Technical Competency</td>
+<td>20</td>
+</tr>
+<tr class="odd">
+<td>Contribution</td>
+<td>20</td>
+</tr>
+<tr class="even">
+<td><strong>Total</strong></td>
+<td><strong>100</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Client Score (1-7)</th>
+<th>Points</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>7</td>
+<td>20</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>17</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>14</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>11</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>9</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>6</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<p>The client scores the team. Individual adjustments come from peer evaluation.</p>
+</section>
+<section id="peer-team-evaluation-60-points" class="level3">
+<h3 class="anchored" data-anchor-id="peer-team-evaluation-60-points">Peer / Team Evaluation (60 points)</h3>
+<p>Team delivery only works if the load is shared. Each teammate evaluates every other teammate at mid-term and at the end of the year on four dimensions, 1 to 7 scale.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 52%">
+<col style="width: 47%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimension</th>
+<th>Question</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Reliability</td>
+<td>They did what they said they would do, when they said they would</td>
+</tr>
+<tr class="even">
+<td>Quality</td>
+<td>Their work did not need to be redone</td>
+</tr>
+<tr class="odd">
+<td>Collaboration</td>
+<td>They made the rest of the team more effective</td>
+</tr>
+<tr class="even">
+<td>Load</td>
+<td>They carried a fair share of the hard work</td>
+</tr>
+</tbody>
+</table>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Peer Score (1-7 average)</th>
+<th>Points</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>7</td>
+<td>15</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>13</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>11</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>9</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>7</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Warning
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A student whose peer average falls below 3.0 at mid-term will meet with the program director. Sustained free-riding is grounds for removal from the team and a failing grade, regardless of what the client’s team-level score says.</p>
+</div>
+</div>
+</section>
+<section id="video-reflection-40-points" class="level3">
+<h3 class="anchored" data-anchor-id="video-reflection-40-points">Video Reflection (40 points)</h3>
+<p>After receiving client and peer feedback, record a 2 to 5 minute video reflection.</p>
+<p><strong>Due:</strong> April 21, 2027</p>
+<p><strong>Submission:</strong> Upload to YouTube (unlisted) or Loom and submit the link via Canvas.</p>
+<p><strong>Prompt:</strong></p>
+<ol type="1">
+<li><strong>Strongest area:</strong> Which category best reflects your strengths this year? Give an example.</li>
+<li><strong>Growth area:</strong> Which category needs the most work? What got in the way?</li>
+<li><strong>Client feedback:</strong> React to one specific thing the client wrote. Do you agree? What will you do with it?</li>
+<li><strong>Peer feedback:</strong> What did your teammates tell you, and was it fair?</li>
+<li><strong>Next time:</strong> If you restarted this project knowing what you know now, what would you do differently?</li>
+</ol>
+<p>Keep it conversational. I am looking for honest self-assessment, not polish.</p>
+<p><strong>Rubric:</strong></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 25%">
+<col style="width: 16%">
+<col style="width: 22%">
+<col style="width: 19%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criteria</th>
+<th>Excellent (10)</th>
+<th>Good (7)</th>
+<th>Adequate (4)</th>
+<th>Weak (0-2)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Self-awareness</strong></td>
+<td>Accurately owns strengths and growth areas</td>
+<td>Mostly accurate, somewhat surface</td>
+<td>Vague or generic</td>
+<td>Defensive or no insight</td>
+</tr>
+<tr class="even">
+<td><strong>Engages feedback</strong></td>
+<td>References specific client and peer comments</td>
+<td>Acknowledges feedback generally</td>
+<td>Mentions feedback in passing</td>
+<td>Ignores or dismisses</td>
+</tr>
+<tr class="odd">
+<td><strong>Growth mindset</strong></td>
+<td>Concrete plan for improvement</td>
+<td>General intentions</td>
+<td>Minimal forward-looking</td>
+<td>No reflection on change</td>
+</tr>
+<tr class="even">
+<td><strong>Clarity</strong></td>
+<td>Organized, right length, professional</td>
+<td>Minor issues</td>
+<td>Rambling or too brief</td>
+<td>Unprepared or inappropriate</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="extra-credit-10-points" class="level3">
+<h3 class="anchored" data-anchor-id="extra-credit-10-points">Extra Credit (10 points)</h3>
+<p>Complete the BYU end-of-semester student ratings survey to earn 10 extra credit points.</p>
+</section>
+<section id="grading-scale" class="level3">
+<h3 class="anchored" data-anchor-id="grading-scale">Grading Scale</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Grade</th>
+<th>%</th>
+<th>Points (of 500)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A</td>
+<td>93–100%</td>
+<td>465–500</td>
+</tr>
+<tr class="even">
+<td>A-</td>
+<td>90–92%</td>
+<td>450–464</td>
+</tr>
+<tr class="odd">
+<td>B+</td>
+<td>87–89%</td>
+<td>435–449</td>
+</tr>
+<tr class="even">
+<td>B</td>
+<td>83–86%</td>
+<td>415–434</td>
+</tr>
+<tr class="odd">
+<td>B-</td>
+<td>80–82%</td>
+<td>400–414</td>
+</tr>
+<tr class="even">
+<td>C+</td>
+<td>77–79%</td>
+<td>385–399</td>
+</tr>
+<tr class="odd">
+<td>C</td>
+<td>73–76%</td>
+<td>365–384</td>
+</tr>
+<tr class="even">
+<td>C-</td>
+<td>70–72%</td>
+<td>350–364</td>
+</tr>
+<tr class="odd">
+<td>D+</td>
+<td>67–69%</td>
+<td>335–349</td>
+</tr>
+<tr class="even">
+<td>D</td>
+<td>63–66%</td>
+<td>315–334</td>
+</tr>
+<tr class="odd">
+<td>D-</td>
+<td>60–62%</td>
+<td>300–314</td>
+</tr>
+<tr class="even">
+<td>E</td>
+<td>Below 60%</td>
+<td>Below 300</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="credit-hours" class="level2">
+<h2 class="anchored" data-anchor-id="credit-hours">Credit Hours</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Enrollment</th>
+<th>Hours/Week</th>
+<th>Credit Hours per Semester</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Standard</td>
+<td>8–12 hours</td>
+<td>3.0 credits</td>
+</tr>
+</tbody>
+</table>
+<p>Students enroll each semester for a total of 6.0 credit hours across the year.</p>
+</section>
+<section id="confidentiality-and-client-data" class="level2">
+<h2 class="anchored" data-anchor-id="confidentiality-and-client-data">Confidentiality and Client Data</h2>
+<p>Foundry clients share confidential business information: financials, pipelines, customer data, and strategy. This is a condition of the work, and it carries obligations.</p>
+<ul>
+<li>You will sign the client’s NDA, or the Foundry’s standard mutual NDA, before receiving data.</li>
+<li>Client data stays in the approved project repository and approved tools. It does not go into personal accounts, personal cloud storage, or unapproved AI services.</li>
+<li>Nothing about the project goes on LinkedIn, in a portfolio, or in a job interview without written client permission. Ask the program director first, every time.</li>
+<li>Deliverables and intellectual property belong to the client, not to you and not to BYU.</li>
+<li>When the project ends, you delete local copies of client data.</li>
+</ul>
+<p>A confidentiality breach is an Honor Code matter and will also end the engagement. Treat this as the professional obligation it is.</p>
+</section>
+<section id="ai-use-policy" class="level2">
+<h2 class="anchored" data-anchor-id="ai-use-policy">AI Use Policy</h2>
+<p>You are expected to use AI tools aggressively. That is the point of the Foundry. The obligations that come with it:</p>
+<ul>
+<li><strong>You own the output.</strong> “The model produced it” is not a defense for a wrong number, a fabricated citation, or an analysis you cannot explain.</li>
+<li><strong>Every deliverable must be explainable.</strong> If you cannot walk the client through why the model recommends what it recommends, it is not done.</li>
+<li><strong>Client data goes only into approved tools.</strong> See the confidentiality section above.</li>
+<li><strong>Disclose method, not apology.</strong> Milestone documentation should say what tools and models you used and how you validated the output.</li>
+</ul>
+</section>
+<section id="instructor-bio" class="level2">
+<h2 class="anchored" data-anchor-id="instructor-bio">Instructor Bio</h2>
+<p>Scott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of Business, where he also serves as program director and teaches courses on business strategy, decision-making, and artificial intelligence. He brings over 15 years of experience at the intersection of business and technology, having worked as a consultant, product manager, and data scientist.</p>
+<p>Prior to joining BYU, Scott spent nearly seven years at McKinsey &amp; Company in roles ranging from analytics specialist consultant to principal product manager, where he led product development and performance management initiatives for Fortune 500 clients. His earlier career includes building forecasting models as a VP at Zions Bancorporation and conducting regulatory research at the U.S. Office of the Comptroller of the Currency.</p>
+<p>Scott holds a Master’s degree in Management Science &amp; Engineering from Stanford University and a B.A. in Economics with a minor in Math, from BYU. He is passionate about helping students apply AI, analytics, and strategy to meaningful real-world problems with both rigor and purpose.</p>
+</section>
+<section id="getting-help" class="level2">
+<h2 class="anchored" data-anchor-id="getting-help">Getting Help</h2>
+<ul>
+<li>Use email or Teams to contact the TAs and Professor Murff</li>
+<li>Attend office hours</li>
+<li>Bring blockers to studio time. Do not sit on them for a week.</li>
+</ul>
+</section>
+<section id="mission-and-aims" class="level2">
+<h2 class="anchored" data-anchor-id="mission-and-aims">Mission and Aims</h2>
+<p>The mission of Brigham Young University — founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints: is to assist individuals in their quest for perfection and eternal life. That assistance should provide a period of intensive learning in a stimulating setting where a commitment to excellence is expected and the full realization of human potential is pursued.</p>
+<p>BYU seeks to develop students of faith, intellect, and character who have the skills and the desire to continue learning and to serve others throughout their lives.</p>
+<p>A BYU education should be (1) spiritually strengthening, (2) intellectually enlarging, and (3) character building, leading to (4) lifelong learning and service.</p>
+<p>Building on the foundational Mission and Aims, the Marriott School of Business aspires to transform the world through Christlike leadership by developing leaders of faith, intellect, and character guided by the following 4 values:</p>
+<ul>
+<li><p><strong>Faith in Christ</strong> - We value deep and abiding faith in Jesus Christ. Our faith gives us the capacity to envision a better future, the confidence to make that future happen, and the courage to act in the face of challenges.</p></li>
+<li><p><strong>Integrity in Action</strong> - We value integrity and hold ourselves to the highest moral and ethical standards. Acting with integrity builds trust, strengthens character, and focuses our ambitions on things of eternal consequence.</p></li>
+<li><p><strong>Respect for All</strong> - We value respect for all individuals as children of God and recognize the inherent worth, divine potential, and agency of each person. A climate of respect and belonging enhances our learning, facilitates collaboration, and encourages personal growth.</p></li>
+<li><p><strong>Excellence</strong> - We value excellence in learning, teaching, research, management, and leadership. An expectation of excellence magnifies our influence and motivates us to continually improve.</p></li>
+</ul>
+<p>We evaluate our decisions and actions by the impact they will have on the academic experience, professional preparation, character development, emotional well-being, and spiritual growth of our students.</p>
+</section>
+<section id="honor-code" class="level2">
+<h2 class="anchored" data-anchor-id="honor-code">Honor Code</h2>
+<p>In keeping with the principles of the BYU Honor Code, students are expected to be honest in all of their academic work. Academic honesty means, most fundamentally, that any work you present as your own must in fact be your own work and not that of another. Violations of this principle may result in a failing grade in the course and additional disciplinary action by the university. Students are also expected to adhere to the Dress and Grooming Standards. Adherence demonstrates respect for yourself and others and ensures an effective learning and working environment. It is the university’s expectation, and every instructor’s expectation in class, that each student will abide by all Honor Code standards. Please call the Honor Code Office at 422-2847 if you have questions about those standards.</p>
+</section>
+<section id="preventing-responding-to-sexual-misconduct" class="level2">
+<h2 class="anchored" data-anchor-id="preventing-responding-to-sexual-misconduct">Preventing &amp; Responding to Sexual Misconduct</h2>
+<p>The health and well-being of students is of paramount importance at Brigham Young University. If you or someone you know has experienced sexual harassment (including sexual violence), there are many resources available for assistance.</p>
+<p>In accordance with Title IX of the Education Amendments of 1972, BYU prohibits unlawful sex discrimination, including sexual harassment, against any participant in its education programs or activities. The university also prohibits sexual harassment by its personnel and students. Sexual harassment occurs when</p>
+<p>a person is subjected to unwelcome sexual speech or conduct so severe, pervasive, and offensive that it effectively denies their ability to access any BYU education program or activity; any aid, benefit, or service of BYU is conditioned on a person’s participation in unwelcome sexual conduct; or a person suffers sexual assault, dating violence, domestic violence, or stalking on the basis of sex. University policy requires all faculty members to promptly report incidents of sexual harassment that come to their attention in any way, including through face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Incidents of sexual harassment should be reported to the Title IX Coordinator at t9coordinator@byu.edu or (801) 422-8692 or 1085 WSC. Reports may also be submitted online at https://titleix.byu.edu/report or 1-888-238-1062 (24-hours a day).</p>
+<p>BYU offers confidential resources for those affected by sexual harassment, including the university’s Sexual Assault Survivor Advocate, as well as a number of non-confidential resources and services that may be helpful. Additional information about Title IX, the university’s Sexual Harassment Policy, reporting requirements, and resources can be found at http://titleix.byu.edu or by contacting the university’s Title IX Coordinator.</p>
+</section>
+<section id="student-disability" class="level2">
+<h2 class="anchored" data-anchor-id="student-disability">Student Disability</h2>
+<p>Brigham Young University is committed to providing a working and learning atmosphere that reasonably accommodates qualified persons with disabilities. A disability is a physical or mental impairment that substantially limits one or more major life activities. Whether an impairment is substantially limiting depends on its nature and severity, its duration or expected duration, and its permanent or expected permanent or long-term impact. Examples include vision or hearing impairments, physical disabilities, chronic illnesses, emotional disorders (e.g., depression, anxiety), learning disorders, and attention disorders (e.g., ADHD). If you have a disability which impairs your ability to complete this course successfully, please contact the University Accessibility Center (UAC), 2170 WSC or 801-422-2767 to request a reasonable accommodation. The UAC can also assess students for learning, attention, and emotional concerns. If you feel you have been unlawfully discriminated against on the basis of disability, please contact the Equal Opportunity Office at 801-422-5895, eo_manager@byu.edu, or visit https://hrs.byu.edu/equal-opportunity for help.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<footer class="book-footer">
+  <div class="footer-content">
+    <div class="footer-text">
+      <a href="https://www.scottmurff.org" target="_blank">© Scott Murff</a>
+    </div>
+    <div class="footer-icons">
+      <a href="https://www.linkedin.com/in/scottdmurff" target="_blank" title="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="https://github.com/sdmurff" target="_blank" title="GitHub">
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+  </div>
+</footer>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../index.html" class="pagination-link" aria-label="Program Overview">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Program Overview</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../students/02-getting-started.html" class="pagination-link" aria-label="Getting Started">
+        <span class="nav-page-text"><span class="chapter-title">Getting Started</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

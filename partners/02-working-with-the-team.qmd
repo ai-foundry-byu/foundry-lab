@@ -1,0 +1,76 @@
+# Working with the Team
+
+The engagements that go well share one trait: the sponsor treats the team like a delivery team,
+not like a class project. This guide covers how to do that in about an hour a week.
+
+## Your Responsibilities as a Sponsor
+
+- **Name one point of contact** with authority to answer scope questions
+- **Hold a standing weekly call**, 30 to 45 minutes, same time every week
+- **Provide data access early.** Data delays are the single most common cause of a missed
+  milestone
+- **Answer decision requests within a week.** The weekly update will list them explicitly
+- **Attend the four milestone reviews**
+- **Complete the mid-term and end-of-term evaluations**
+
+## Before the Project Starts
+
+1. Write down the decision you are actually trying to make. Not the analysis you want, the
+   decision it feeds
+2. Identify what data exists, where it lives, and who controls access
+3. Decide what is confidential and what NDA the team should sign
+4. Name your point of contact and a backup
+5. Prepare a 30 minute background briefing for the kick-off
+
+## The First Month Is Scoping
+
+Expect the team to push back on the problem statement. That is the design of the program, not
+a sign of confusion. A team that accepts a vague brief in September delivers a vague answer in
+April.
+
+By M1 in mid-October you will have a written problem statement, agreed decision criteria, and a
+definition of success. You sign off on it. Everything after that is measured against it.
+
+::: {.callout-tip}
+**The most valuable hour you will spend on this project is the scoping conversation in week 3.**
+Bring your real constraints: budget, capacity, political reality, what has already been tried.
+Teams that know the constraints solve the actual problem.
+:::
+
+## Weekly Cadence
+
+| When | What |
+|------|------|
+| **Standing call** | 30 to 45 minutes. Team presents progress, you answer open decisions |
+| **Saturday** | Client lead sends the weekly written update |
+| **As needed** | Team raises blockers within 48 hours of hitting them, not at the next call |
+
+The weekly update has a fixed format: what was accomplished, next week's priorities with owners,
+decisions or input needed from you, and any risks. The third section is the one to read first.
+
+## Effective Sponsorship
+
+- **Be specific.** "This isn't quite right" costs a week. "The margin assumption ignores our
+  gross-to-net" costs an hour
+- **Be timely.** Feedback at the milestone review is too late to change the milestone
+- **Balance.** These are students doing professional work. Tell them what is working, then what
+  is not
+- **Push on rigor, not on volume.** Ask "what would have to be true for this to be wrong."
+  That question makes the work better than any request for more slides
+
+## Scope Changes
+
+Businesses change and scopes change with them. The rule is simply that changes are written down.
+
+- Raise the change on the weekly call
+- The team documents it in the decision log and confirms it in the weekly update
+- If it materially changes the milestone plan, the faculty director is looped in
+
+What does not work is quiet expansion: a new question added each week without anything coming
+off the plan. The team is instructed to surface that pattern to the faculty director.
+
+## If Something Is Not Working
+
+Tell us early. Contact Scott Murff directly at scott.murff@byu.edu. Most problems are fixable in
+week 5 and unfixable in week 20. Early intervention is not an escalation, it is normal program
+operation.

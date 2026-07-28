@@ -1,0 +1,101 @@
+# Program Overview
+
+The **BYU AI Foundry** pairs a sponsoring organization with a faculty-guided team of BYU
+Marriott students for a full academic year. The team takes on one real, open-ended business
+problem and delivers an AI-enabled solution to it.
+
+[**Submit a Project →**](https://byu.capsource.app/)
+
+## Engagement Structure
+
+| Component | Details |
+|-----------|---------|
+| **Duration** | 8 months, 2 semesters |
+| **Period** | September 2, 2026 – April 14, 2027 |
+| **Team size** | 4–6 students per project |
+| **Student effort** | 8–12 hours per week, per student |
+| **Sponsor commitment** | ~1 hour per week |
+| **Location** | Remote, with optional on-site visits |
+| **Sponsorship fee** | $22,000 per project |
+| **Intellectual property** | Sponsor retains all deliverables and IP |
+
+## Academic Credit
+
+Students enroll in the AI Foundry Lab, cross-listed as **MBA 693R** and **STRAT 490R**, for
+3.0 credit hours per semester and 6.0 across the year. Teams mix MBA and senior undergraduate
+students by design.
+
+## Who Is on Your Team
+
+Every team carries three roles:
+
+| Role | Responsibility |
+|------|----------------|
+| **Client lead** | Your single point of contact. Runs the weekly call, sends the weekly update, owns scope conversations |
+| **Builders** | The analysis, modeling, and software |
+| **QC lead** | Reviews everything before it reaches you. Owns the quality standard |
+
+A faculty director oversees every engagement and reviews all four milestones independently of
+the client.
+
+## The Year in Four Milestones
+
+| Milestone | Date | What you receive |
+|-----------|------|------------------|
+| **M1: Problem definition and framework** | October 16, 2026 | A written problem statement you sign off on, the decision criteria, and how success will be measured |
+| **M2: Working prototype** | December 11, 2026 | Something that runs, on real or realistic data, with the logic documented |
+| **M3: Validated model** | February 19, 2027 | Sensitivity analysis, stated assumptions, explainable outputs, known limitations |
+| **M4: Final delivery** | April 9, 2027 | Executive summary, decision tool or dashboard, handoff documentation, and the repository |
+
+## What Sponsorship Covers
+
+The $22,000 fee covers faculty oversight and direction, student team time across two semesters,
+software and API costs, data and tooling access, program administration, and the final delivery
+showcase.
+
+## What We Deliver
+
+The Foundry builds business decision systems. Typical deliverables:
+
+- Strategy assessment and validation
+- Decision frameworks with explicit criteria and thresholds
+- Scoring and prioritization models
+- Forecasting and predictive analytics
+- Financial models, including NPV, sensitivity, and scenario analysis
+- Optimization under real capital, capacity, and resource constraints
+- Executive decision dashboards and prototype applications
+- Executive-ready synthesis and recommendations
+
+Every deliverable carries an explainability requirement: your team can walk you through which
+assumptions drive each recommendation and what would have to change for the answer to change.
+
+## What We Do Not Do
+
+Being clear about this saves everyone time.
+
+- **Production software.** We deliver working prototypes and models, not systems hardened for
+  your production environment.
+- **Staff augmentation.** This is not a way to get cheap analyst hours on your existing backlog.
+- **Work that is already scoped and specified.** If you know exactly what you want built, hire a
+  contractor. The Foundry is for open-ended problems where the answer is not known yet.
+- **Regulated or safety-critical deliverables.** Nothing we produce should be relied on as a
+  clinical, legal, financial, or regulatory determination without your own review.
+
+## How This Differs from the Engineering Capstone
+
+BYU's engineering capstone programs build physical and embedded systems: CAD, prototypes, PCBs,
+firmware, security assessments. The AI Foundry builds business decision systems.
+
+If your question is "how do we build this thing," that is an engineering capstone. If your
+question is "which things should we build, in what order, and how would we know," that is the
+Foundry.
+
+## Contact
+
+**Scott Murff**
+
+Director, AI Foundry · Program Director, Strategic Management
+
+Brigham Young University, Marriott School of Business
+
+scott.murff@byu.edu

@@ -1,0 +1,102 @@
+# Weekly Updates
+
+Every team sends one end-of-week progress email. It keeps the client informed, creates a
+record of the engagement, and is worth 28% of your grade.
+
+## Deadline
+
+**Saturday by 11:59 PM**
+
+- First weekly email due: **September 5, 2026**
+- Final weekly email due: **April 10, 2027**
+- Total weekly emails: **28** (14 per semester)
+
+The end-of-week timing is intentional. It forces reflection on what actually got done, sets
+priorities before Monday, and surfaces blockers while there is still time to fix them.
+
+## Who Sends It
+
+The **client lead** sends one email on behalf of the team. Individual students do not each
+send their own. If the client lead is unavailable, the QC lead sends it. Missing an email is a
+team-level miss, and everyone takes the point deduction.
+
+## Recipients
+
+- **To:** Client point of contact
+- **CC:** ai-foundry@byu.edu, plus all team members
+
+## Email Format
+
+**1. Accomplished this week [Required]**
+
+- Completed work and deliverables, stated as outcomes rather than activities
+- Include the number, the finding, or the decision, not just "worked on the model"
+
+**2. Priorities for next week [Required]**
+
+- What the team will do, realistically
+- Who owns each item
+
+**3. Decisions or input we need from you [Required, say "none" if none]**
+
+- Anything the client owes the team
+- Any decision the team cannot make on the client's behalf
+
+**4. Blockers, risks, or dependencies [Omit if none]**
+
+- Anything that puts a milestone at risk
+- Flag it the week you see it, not the week it hits
+
+## Example Email
+
+```
+Subject: AI Foundry Weekly Update - [Client] - Week of Oct 5
+
+Hi [Name],
+
+Accomplished this week:
+- Scored 42 of the 60 candidate products against the draft criteria. 11 clear
+  the NPV multiple threshold of 3.0x under base-case assumptions.
+- Reconciled the revenue baseline to your FY26 actuals. We were off by 2.3%
+  on specialty; the gap was a channel mapping issue, now corrected.
+- Drafted the sensitivity structure for price erosion and launch timing.
+
+Priorities for next week:
+- Finish scoring the remaining 18 products (Maria, Josh)
+- Run the first full sensitivity pass and identify which rankings are fragile (Ana)
+- Draft the M1 framework document for your review (Tyler)
+
+Decisions or input we need from you:
+- Confirm whether the 12% price erosion assumption should hold across all
+  therapeutic areas or vary by category. This changes the ranking materially.
+- We need read access to the 2024-2025 gross-to-net detail to validate margin.
+
+Risks:
+- If the gross-to-net data is not available by Oct 12, the M1 framework will
+  ship with modeled margin rather than actuals, and we will need to revisit it
+  in November.
+
+Thanks,
+[Client lead name], on behalf of the [Client] Foundry team
+```
+
+## What Makes an Update Good
+
+- **Lead with the number or the finding.** "11 of 42 products clear the threshold" beats
+  "continued portfolio scoring."
+- **Name owners.** Unowned priorities do not get done.
+- **Ask for what you need explicitly.** Clients cannot read minds, and a blocker you did not
+  raise is your fault, not theirs.
+- **Flag risk early and unemotionally.** A risk raised in week 4 is a conversation. The same
+  risk surfaced in week 12 is a failure.
+- **Never pad.** A short honest week is fine. A long week of activity with no outcomes is not.
+
+## Weekly Rhythm
+
+| Day | Activity |
+|-----|----------|
+| **Monday** | Team stand-up, confirm week's priorities and owners |
+| **Midweek** | Standing client call, execute |
+| **Thursday** | QC lead reviews anything going to the client |
+| **Friday** | Studio time in 284 TNRB, cross-team critique, office hours |
+| **Saturday** | Client lead sends the weekly update by 11:59 PM |
