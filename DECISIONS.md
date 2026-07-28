@@ -28,7 +28,7 @@ or to CapSource.
 | 8 | **Program email** | ai-foundry@byu.edu | Invented. APM Lab uses strategy-program@byu.edu | Weekly updates CC this address. If it does not exist, the archive does not exist |
 | 9 | **Milestone dates** | Oct 16, Dec 11, Feb 19, Apr 9 | Fridays spaced across the two semesters | Check against BYU academic calendar and finals weeks |
 | 10 | **LMS** | Canvas | Product Management uses Canvas, APM Lab uses LearningSuite | Just confirm which |
-| 11 | **Site URL** | `ai-foundry-byu.github.io/foundry-lab` | Repo not created yet. `_header.html` uses a relative logo path so it works either way | Update the banner link if the site lives under byu-aifoundry.com |
+| 11 | **Site URL** | `ai-foundry-byu.github.io/foundry-lab` | Repo not created yet. `_header.html` uses a relative logo path so it works either way | Banner links to `aifoundry.byu.edu`, the official domain as of 2026-07-28 |
 | 12 | **Intake form** | Points to `byu.capsource.app` | If CapSource builds your program page, that becomes the real submission path | Placeholder until Jordan builds it |
 
 ## Deliberate choices worth reviewing
