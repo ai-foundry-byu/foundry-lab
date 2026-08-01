@@ -54,10 +54,17 @@ Styles for both classes live at the bottom of `styles.css`.
 
 ## Program Context
 
-- **Duration**: 8 months, September 2, 2026 to April 14, 2027
-- **Teams**: 4 to 6 students, roles are client lead, builders, QC lead
-- **Sponsorship**: $22,000 per project, sponsor retains all IP
-- **Milestones**: M1 framework (Oct 16), M2 prototype (Dec 11), M3 validated model (Feb 19), M4 delivery (Apr 9)
+- **Positioning**: an AI-native product studio and consultancy. We ship production software, we
+  do not deliver reports. Source of truth is the one-pager, `~/Desktop/AI-Foundry.pdf`
+- **Three offerings**: full-stack applications; AI integration and orchestration; AI enablement
+  and training
+- **Three phases**: 01 Audit and discovery, 02 Build, 03 Transfer. Fixed fee, each buyable alone
+- **Team**: 15 MBAs and roughly 15 undergraduate builders in mixed teams. Per-engagement roles
+  are client lead, builders, QC lead
+- **Intake**: rolling. No application deadline, no fixed milestone calendar. Phase dates are set
+  per engagement at kick-off. Do not reintroduce fixed dates into partner-facing pages
+- **Scott's title**: Faculty Advisor
+- **Contact**: aifoundry.byu.edu, aifoundry@byu.edu
 - **Key student deliverable**: weekly client update, sent Saturday by 11:59 PM by the client lead
 
 ## Open Decisions

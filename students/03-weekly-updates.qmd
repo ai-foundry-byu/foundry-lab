@@ -23,7 +23,7 @@ team-level miss, and everyone takes the point deduction.
 ## Recipients
 
 - **To:** Client point of contact
-- **CC:** ai-foundry@byu.edu, plus all team members
+- **CC:** aifoundry@byu.edu, plus all team members
 
 ## Email Format
 
@@ -64,7 +64,7 @@ Accomplished this week:
 Priorities for next week:
 - Finish scoring the remaining 18 products (Maria, Josh)
 - Run the first full sensitivity pass and identify which rankings are fragile (Ana)
-- Draft the M1 framework document for your review (Tyler)
+- Draft the discovery findings document for your review (Tyler)
 
 Decisions or input we need from you:
 - Confirm whether the 12% price erosion assumption should hold across all
@@ -72,9 +72,9 @@ Decisions or input we need from you:
 - We need read access to the 2024-2025 gross-to-net detail to validate margin.
 
 Risks:
-- If the gross-to-net data is not available by Oct 12, the M1 framework will
-  ship with modeled margin rather than actuals, and we will need to revisit it
-  in November.
+- If the gross-to-net data is not available in the next week, discovery will
+  land with modeled margin rather than actuals, and we will need to revisit the
+  build estimate afterward.
 
 Thanks,
 [Client lead name], on behalf of the [Client] Foundry team

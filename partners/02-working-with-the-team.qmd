@@ -28,8 +28,9 @@ Expect the team to push back on the problem statement. That is the design of the
 a sign of confusion. A team that accepts a vague brief in September delivers a vague answer in
 April.
 
-By M1 in mid-October you will have a written problem statement, agreed decision criteria, and a
-definition of success. You sign off on it. Everything after that is measured against it.
+By the end of discovery you will have a written problem statement, a concrete list of what is
+worth building, and an estimate and sequence. You sign off on it. Everything after that is
+measured against it, and it is the basis on which the build phase is scoped.
 
 ::: {.callout-tip}
 **The most valuable hour you will spend on this project is the scoping conversation in week 3.**
@@ -64,10 +65,10 @@ Businesses change and scopes change with them. The rule is simply that changes a
 
 - Raise the change on the weekly call
 - The team documents it in the decision log and confirms it in the weekly update
-- If it materially changes the milestone plan, the faculty director is looped in
+- If it materially changes the milestone plan, the faculty advisor is looped in
 
 What does not work is quiet expansion: a new question added each week without anything coming
-off the plan. The team is instructed to surface that pattern to the faculty director.
+off the plan. The team is instructed to surface that pattern to the faculty advisor.
 
 ## If Something Is Not Working
 

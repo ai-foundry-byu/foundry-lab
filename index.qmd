@@ -11,19 +11,19 @@ format:
 MBA 693R · STRAT 490R
 :::
 
-The **BYU AI Foundry** is a sponsored-project studio inside the BYU Marriott School of
-Business. Client organizations bring a real, open-ended business problem. A small team of
-high-performing students, guided by faculty, spends an academic year designing, prototyping,
-and testing an AI-enabled solution to it.
+The **BYU AI Foundry** is an AI-native product studio and consultancy, and an official program
+of the BYU Marriott School of Business. We build AI products. One team works out what is worth
+building and then ships it, because those are no longer two jobs.
 
-The Foundry is not an internship placement and not a research project. It is delivery work.
-Every engagement ends with something the client can use: a working prototype, a decision
-framework with the rules written down, a model whose outputs can be explained, and a
-recommendation the client's leadership can act on.
+This site is the course and partner handbook for the Foundry's delivery work. Students carry
+academic credit through the AI Foundry Lab while working on real client engagements.
+
+The Foundry is not an internship placement and not a research project. Every engagement ends
+with software running in the client's hands.
 
 Students typically complete
 [MSB 341 - Product Management](https://byu-strategy.github.io/product-management/)
-before joining a Foundry team, so they arrive with product and applied AI skills already built.
+before joining a delivery team, so they arrive with product and applied AI skills already built.
 
 ## Course Numbers
 
@@ -36,31 +36,42 @@ and is graded on the same rubric. Register under whichever number fits your prog
 | MBA 693R | 011 | Special Topics in Management | 3.0 |
 | STRAT 490R | 001 | Topics in Strategic Management | 3.0 |
 
-Mixed MBA and undergraduate teams are intentional. Client engagements benefit from the range,
-and it mirrors how real delivery teams are staffed.
+Mixed MBA and undergraduate teams are intentional. The MBAs bring the business judgment, the
+undergraduate builders bring engineering depth, and on a Foundry team those are the same job.
+
+## What We Do
+
+Three offerings. Engagements usually combine them.
+
+| Offering | What it is |
+|---|---|
+| **Full-stack applications** | Net-new web and mobile applications, built end to end and shipped to production. B2C, B2B, and internal tools |
+| **AI integration and orchestration** | AI wired into systems the client already runs. Agents and copilots over their data, automations across Slack and Notion, document processing and routing |
+| **AI enablement and training** | Setting the client's team up to build this way themselves, on the same tooling we use. Co-working, then handoff |
+
+## How Engagements Run
+
+**Find the problem, build the thing, hand it over.** Fixed fee, run as a sequence rather than a
+menu.
+
+| | Phase | What we deliver |
+|---|---|---|
+| **01** | Audit and discovery | An AI-specific audit that points at specific things to build, with an estimate and a sequence |
+| **02** | Build | Production code, integrated with the client's systems, running in their environment |
+| **03** | Transfer | Co-working throughout the build, then handoff. The capability stays in-house |
 
 ## Program At a Glance
 
 | | |
 |---|---|
-| **Duration** | 8 months (2 semesters) |
-| **Period** | September 2, 2026 – April 14, 2027 |
-| **Team size** | 4–6 students per project |
+| **What** | An official program of the BYU Marriott School of Business |
+| **Faculty advisor** | Scott Murff, former McKinsey & Company |
+| **Team** | 15 MBAs and roughly 15 undergraduate builders, in mixed teams |
+| **Engagement model** | Fixed fee, scoped per phase |
+| **Intake** | Rolling, limited by bench capacity |
 | **Student hours** | 8–12 hours per week, per student |
 | **Client commitment** | ~1 hour per week |
-| **Sponsorship** | $22,000 per project |
-| **Location** | Remote, with optional on-site visits |
-| **IP** | Sponsor retains all deliverables and IP |
-
-## What Makes This Different from an Engineering Capstone
-
-The BYU engineering capstones build physical and embedded systems: CAD, prototypes, PCBs,
-firmware, security assessments. The AI Foundry builds **business decision systems**: strategy
-frameworks, prioritization and scoring models, forecasting and predictive analytics, financial
-models, and the software that makes those things usable by a decision maker.
-
-If the question is "how do we build this thing," that is engineering. If the question is
-"which things should we build, in what order, and how do we know," that is the Foundry.
+| **IP** | Client retains all deliverables and IP |
 
 ## I'm a Student
 
@@ -71,32 +82,26 @@ If the question is "how do we build this thing," that is engineering. If the que
 
 ## I'm a Client Partner
 
-Interested in sponsoring a project? [**Submit a Project →**](https://byu.capsource.app/)
+Interested in an engagement? [**Start with a discovery audit →**](mailto:aifoundry@byu.edu)
 
-- [Program Overview](partners/01-program-overview.qmd): Structure, team, timeline, sponsorship
-- [Working with the Team](partners/02-working-with-the-team.qmd): Cadence, scoping, mentoring
-- [Evaluation](partners/03-evaluation.qmd): Mid-term and end-of-term feedback process
-- [FAQ](partners/04-faq.qmd): IP, data, confidentiality, cost, staffing
+- [Program Overview](partners/01-program-overview.qmd): Offerings, phases, team, terms
+- [Working with the Team](partners/02-working-with-the-team.qmd): Cadence, scoping, scope changes
+- [Evaluation](partners/03-evaluation.qmd): Mid-year and end-of-year feedback process
+- [FAQ](partners/04-faq.qmd): IP, data, confidentiality, cost, hiring
 - [Request for Proposals](partners/05-rfp.qmd): What we are looking for this cycle
 
-## Key Dates
+## Intake
 
-| Milestone | Date |
-|-----------|------|
-| Project proposal deadline | July 31, 2026 |
-| Projects finalized and scoped | August 14, 2026 |
-| Student teams assigned | August 24, 2026 |
-| Project launch | September 2, 2026 |
-| Mid-term client feedback due | December 11, 2026 |
-| Final delivery and showcase | April 14, 2027 |
-| Student video reflection due | April 21, 2027 |
+Engagements are accepted on a **rolling basis**. There is no application deadline and no single
+annual intake. Teams are staffed as engagements are confirmed, limited by bench capacity.
+
+Course dates that do apply to students, including required studio sessions and the final
+reflection, are in the [Syllabus](students/01-syllabus.qmd).
 
 ## Contact
 
-**Scott Murff**
+**AI Foundry**, BYU Marriott School of Business
 
-Director, AI Foundry · Program Director, Strategic Management
+[aifoundry.byu.edu](https://aifoundry.byu.edu) · aifoundry@byu.edu
 
-Brigham Young University, Marriott School of Business
-
-scott.murff@byu.edu
+**Scott Murff**, Faculty Advisor · scott.murff@byu.edu

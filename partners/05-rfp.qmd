@@ -8,207 +8,175 @@ format:
 ---
 
 ::: {.course-numbers-page}
-BYU AI Foundry · 2026–2027
+BYU AI FOUNDRY · 2026–2027
 :::
 
 # Request for Proposals
 
-**BYU Marriott School of Business is seeking industry partners for the 2026 to 2027 AI Foundry
-program.**
+**An AI-native product studio and consultancy at the BYU Marriott School of Business.**
 
-Sponsoring organizations bring a real, open-ended business problem. A faculty-guided team of
-BYU Marriott students spends the full academic year designing, prototyping, and testing an
-AI-enabled solution to it, and delivers a decision system the sponsor owns outright.
+We build AI products. One team works out what is worth building and then ships it, because
+those are no longer two jobs.
 
-[**Submit a Project →**](https://byu.capsource.app/)
+The AI Foundry is an official program of the BYU Marriott School of Business. We are seeking
+industry partners for 2026 to 2027 engagements.
 
-## Program Overview
+[**Start with a discovery audit →**](mailto:aifoundry@byu.edu)
 
-The AI Foundry is a year-long applied program running **September 2, 2026 through April 14,
-2027**. It sits inside the Marriott School's Strategic Management program and is cross-listed
-for MBA and senior undergraduate students (MBA 693R and STRAT 490R).
+## What We Do
 
-Where BYU's engineering capstones build physical and embedded systems, the AI Foundry builds
-**business decision systems**: strategy frameworks, prioritization and scoring models,
-forecasting and predictive analytics, financial models, and the software that puts those in
-front of a decision maker.
+Three offerings. Engagements usually combine them. Most clients start with one and add the
+others as the work proves out.
 
-## About the Students
+### Full-stack applications
 
-Students are MBA candidates and senior undergraduates in Strategic Management at the BYU
-Marriott School of Business. Most have completed coursework in product management and applied
-AI before joining a Foundry team, and many bring prior industry or internship experience in
-consulting, finance, product, and analytics.
+Net-new web and mobile applications, built end to end on a modern stack and shipped to
+production. Any language the job calls for.
 
-**Strategy and business**
+- Customer-facing products (B2C)
+- Products you sell to other businesses (B2B)
+- Internal tools and line-of-business systems
 
-- Corporate and business unit strategy
-- Business model design and evaluation
-- Portfolio management and resource allocation
-- Scenario planning and competitive intelligence
-- Market and industry analysis
-- Commercialization and go-to-market
+### AI integration and orchestration
 
-**Data science and AI**
+AI wired into the systems you already run, rather than a standalone prototype that never
+reaches anyone's daily work.
 
-- Machine learning and predictive analytics
-- Forecasting and time series modeling
-- Applied LLM and agent development
-- Python, SQL, and modern AI tooling
-- Explainable model design
-- Data mining and statistical analysis
+- Agents and copilots that work against your data
+- Automations across Slack, Notion, and your existing stack
+- Document processing, extraction, routing, and summarization
 
-**Financial and economic modeling**
+### AI enablement and training
 
-- Financial forecasting and revenue modeling
-- NPV, IRR, and payback analysis
-- Sensitivity analysis and Monte Carlo simulation
-- Unit economics and margin analysis
-- Capital allocation and cash flow modeling
+We set your team up to build this way themselves, using the same tooling we use on the
+engagement.
 
-**Product and delivery**
+- Claude Code, Codex, and frontier agent tooling
+- Agentic workflow and automation setup
+- Co-working alongside your staff, then handoff
 
-- Product discovery and customer research
-- Requirements definition and prioritization
-- Rapid prototyping and AI-assisted software development
-- Dashboard and decision tool design
-- Executive communication and synthesis
+## How Engagements Run
 
-The program is directed by Scott Murff, Associate Teaching Professor of Strategy, formerly a
-principal product manager and analytics consultant at McKinsey & Company.
+**Find the problem, build the thing, hand it over.**
 
-## Program Goals
+Fixed fee, run as a sequence rather than a menu. Each phase can be bought on its own, and the
+first one is designed to be a low-commitment way to start.
 
-Over the year, student teams will:
+| | Phase | What happens |
+|---|---|---|
+| **01** | **Audit and discovery** | An AI-specific audit of your business. We find where AI actually helps you: which products are worth building, which workflows are worth automating. The output points at specific things to build, with an estimate and a sequence. |
+| **02** | **Build** | We build and ship working software. Not a report, not a prototype. Production code, integrated with your systems, running in your environment. |
+| **03** | **Transfer** | We co-work with your people throughout the build and hand off ownership at the end. The capability stays in-house after we go. |
 
-1. Translate an ambiguous business problem into a decision that can be made with evidence
-2. Design a repeatable framework with explicit criteria, thresholds, and business rules
-3. Build and validate AI and analytical models against real data
-4. Quantify uncertainty and show how recommendations change under alternative assumptions
-5. Deliver explainable outputs that a decision maker can act on and defend
-6. Communicate findings at an executive standard
+## What Makes This Different
 
-## Collaboration Format
+**We ship, not advise.** A strategy firm rarely leaves a working product behind. Every
+engagement ends with software running in your hands. That is the line between us and a
+traditional consultancy, and it is deliberate.
 
-| Component | Details |
-|-----------|---------|
-| **Duration** | 8 months, 2 semesters, 32 weeks |
-| **Period** | September 2, 2026 – April 14, 2027 |
-| **Team size** | 4–6 students, one dedicated team per project |
-| **Student effort** | 8–12 hours per week, per student |
-| **Sponsor commitment** | ~1 hour per week |
-| **Modality** | Remote, with optional on-site visits |
-| **Faculty oversight** | Faculty director reviews all milestones independently |
+**Strategy and engineering in one team.** The people deciding what to build are the people
+building it. Nothing is lost in a handoff between a strategy team and a delivery vendor,
+because there is no handoff.
 
-Each team carries a client lead who owns the relationship, builders who do the work, and a QC
-lead who signs off on everything before it reaches the sponsor.
+**MBB-caliber thinking, AI-accelerated pricing.** Led by an ex-McKinsey faculty advisor,
+delivered by a bench of MBAs and undergraduate engineers. The work meets a top-tier consulting
+standard at a fraction of top-tier rates.
 
-The engagement follows six phases: problem definition and scoping, framework design, model
-build and prototyping, validation and sensitivity testing, refinement and integration, and
-final delivery.
+**We are built on the tooling we sell.** We run on frontier agent tooling internally. When we
+set up your team, we are teaching the workflow we use every day, not one we read about.
 
-## Deliverables
+## Who We Are
 
-Project-dependent, but typically include:
+| | |
+|---|---|
+| **What** | An official program of the BYU Marriott School of Business |
+| **Faculty advisor** | Scott Murff, former McKinsey & Company |
+| **Team** | 15 MBAs and roughly 15 undergraduate builders, in mixed teams |
+| **Engagement model** | Fixed fee, scoped per phase |
 
-- Strategy assessment and validation report
-- Decision framework with explicit criteria, thresholds, and business rules
-- Scoring and prioritization model
-- Predictive or forecasting model with documented performance
-- Scenario and sensitivity analysis
-- Optimization model under real capital and capacity constraints
-- Executive decision dashboard or prototype application
-- Explainable model output showing which assumptions drive each recommendation
-- Executive summary and final presentation
-- Full repository and handoff documentation
+The MBA bench covers product, deals, marketing, finance, design, AI tooling, product evaluation
+and QC, and education. Undergraduate builders come from the Marriott School's strategy and
+applied AI coursework and are staffed onto delivery teams alongside the MBAs.
 
-Every deliverable carries an explainability requirement. If the team cannot walk the sponsor
-through why the model recommends what it recommends, it is not considered complete.
+Students carry academic credit through the AI Foundry Lab, cross-listed as MBA 693R and
+STRAT 490R. Every engagement has faculty oversight, and product evaluation and QC is a named
+function inside the Foundry rather than an afterthought.
 
-## Ideal Project Types
+## What Makes a Strong Project
 
-Strong fits include:
+The best fits share three traits: there is a real business problem behind it, the answer is not
+already fully specified, and there is something to ship at the end.
 
-- **Portfolio and resource allocation**: which products, markets, or investments deserve
-  scarce capital and management attention
-- **AI-enabled decision support**: turning a recurring judgment call into a repeatable,
-  evidence-based framework
-- **Forecasting and predictive analytics**: demand, revenue, price, churn, risk
-- **Market entry and commercialization**: where to play and how to win in a new category
-- **Build, buy, or partner evaluation**: structured evaluation of strategic options
-- **Business model evaluation**: pricing, channel, and unit economics analysis
-- **Product strategy and prototyping**: defining and building toward a new product direction
-- **Operational analytics**: decision systems for recurring operating choices
+Strong fits:
 
-The strongest projects share three traits: the answer is genuinely not known in advance, the
-decision recurs so a framework is worth more than a one-off analysis, and enough data exists
-for the team to work with.
+- **A product you want built.** Net-new web or mobile application, B2C, B2B, or internal
+- **A workflow that should be automated.** Document handling, routing, triage, summarization,
+  reporting
+- **An agent or copilot over your own data.** Something your team would actually open daily
+- **AI wired into systems you already run.** Not a standalone demo
+- **An AI audit.** You suspect AI helps somewhere but do not know where, and want a concrete,
+  sequenced list of what to build
+- **Enablement.** Your team needs to learn to build this way, with your real codebase
 
-**Poor fits:** work that is already fully specified and just needs hands, staff augmentation on
-an existing backlog, production software engineering, projects requiring systems access that
-cannot be provisioned, and safety-, clinical-, or compliance-critical determinations.
+Poor fits:
+
+- Pure research with no artifact at the end
+- Work that requires systems access that cannot be provisioned
+- Safety-, clinical-, or compliance-critical determinations
+- Staff augmentation on an existing backlog
+
+::: {.callout-note}
+**Not sure if you have a project?** That is what the discovery audit is for. It is scoped
+small, fixed fee, and it ends with a concrete list of what to build and what it would take.
+:::
 
 ## Partner Expectations
 
-Sponsoring organizations agree to:
-
-- Define the challenge statement collaboratively with the team during the first six weeks
 - Assign a single point of contact with authority to answer scope questions
 - Hold a standing weekly call of 30 to 45 minutes
-- Provide data access early, and provision any necessary accounts
+- Provide data and systems access early, and provision any necessary accounts
 - Answer decision requests raised in the weekly update within one week
-- Participate in four milestone reviews across the year
-- Complete a mid-year and an end-of-year team evaluation
-- Accept public recognition as a sponsor, unless anonymity is requested
+- Participate in phase reviews
+- Accept public recognition as a partner, unless anonymity is requested
 
-## Sponsorship
+Expect roughly an hour a week from your point of contact.
 
-**$22,000 per project.** The fee covers faculty oversight and direction, student team time
-across two semesters, software and API costs, data and tooling access, program administration,
-and the final delivery showcase.
+## Commercial Terms
 
-**Intellectual property:** sponsors retain full rights to all deliverables, documentation, code,
-models, and IP produced during the engagement.
+**Fixed fee, scoped per phase.** Discovery is scoped small and deliberately low-commitment.
+Build and transfer are scoped to the work once discovery has defined it. Each phase can be
+bought on its own.
 
-**Confidentiality:** every student signs the sponsor's NDA, or the Foundry's standard mutual
-NDA. Client data is confined to the approved project repository and approved tools, and local
-copies are deleted at the end of the engagement.
+**Intellectual property:** partners retain full rights to all deliverables, code, models, and
+documentation produced during the engagement.
 
-## Key Dates
+**Confidentiality:** every student signs the partner's NDA, or the Foundry's standard mutual
+NDA, before receiving data. Client data is confined to the approved project repository and
+approved tools, and local copies are deleted at the end of the engagement.
 
-| Milestone | Date |
-|-----------|------|
-| Project proposal deadline | July 31, 2026 |
-| Projects finalized and scoped | August 14, 2026 |
-| Student teams assigned | August 24, 2026 |
-| Project launch | September 2, 2026 |
-| M1: Problem definition and framework | October 16, 2026 |
-| M2: Working prototype | December 11, 2026 |
-| Mid-year sponsor evaluation due | December 11, 2026 |
-| M3: Validated model | February 19, 2027 |
-| M4: Final delivery and showcase | April 9, 2027 |
-| Program concludes | April 14, 2027 |
+## Timing and Capacity
 
-## Capacity
+**We accept projects on a rolling basis.** There is no application deadline and no single
+annual intake. Phase boundaries are set per engagement rather than against a university
+calendar, and a discovery audit can start on a short cycle.
 
-The Foundry runs a deliberately small number of engagements per year so each team can be
-staffed and supervised properly. Projects are accepted on a rolling basis until capacity is
-reached.
+The practical constraint is bench capacity, not the calendar. We run a deliberately limited
+number of concurrent engagements so every team is staffed and supervised properly. When the
+bench is full, new engagements queue for the next opening. Tell us your timing and we will tell
+you honestly when we could start.
 
-## Submission Process
+## How to Start
 
-1. Submit a project concept through the program page
-2. The program director reviews for fit and follows up within one week
-3. A 45-minute alignment call covers scope, timing, expectations, and administrative steps
-4. Scope is confirmed in writing along with sponsorship and IP terms
-5. Detailed scoping continues with the student team through Milestone 1 in October
+1. Send us the problem, or tell us you are not sure yet and want an audit
+2. We review for fit and follow up within one week
+3. A 45-minute scoping call covers the problem, timing, and phase structure
+4. Discovery is scoped and confirmed in writing, with fee, IP, and confidentiality terms
+5. Discovery output determines whether and how build and transfer are scoped
 
 ## Contact
 
-**Scott Murff**
+**AI Foundry**, BYU Marriott School of Business
 
-Director, AI Foundry · Program Director, Strategic Management
+[aifoundry.byu.edu](https://aifoundry.byu.edu) · aifoundry@byu.edu
 
-Brigham Young University, Marriott School of Business
-
-scott.murff@byu.edu
+**Scott Murff**, Faculty Advisor · scott.murff@byu.edu

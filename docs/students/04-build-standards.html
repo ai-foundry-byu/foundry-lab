@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 </head><body class="nav-sidebar floating quarto-light"><header class="book-header-banner">
-  <a href="https://byu-aifoundry.com" target="_blank">
+  <a href="https://aifoundry.byu.edu" target="_blank">
     <img src="images/strat-logo.png" alt="BYU AI Foundry - Marriott School of Business">
   </a>
 </header>
@@ -278,6 +278,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="correctness" class="level3">
 <h3 class="anchored" data-anchor-id="correctness">Correctness</h3>
 <ul>
+<li>Code does what it claims. If it is shipped, it has been run against something real</li>
 <li>Every number in a client-facing document traces to a source you can point to</li>
 <li>Totals reconcile. If your revenue baseline is 2% off the client’s actuals, you find out why before you present it, not after they do</li>
 <li>Assumptions are written down as assumptions, with the value used and the reason for it</li>
@@ -287,9 +288,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="usefulness" class="level3">
 <h3 class="anchored" data-anchor-id="usefulness">Usefulness</h3>
 <ul>
-<li>The deliverable answers the question the client actually asked</li>
-<li>A decision maker can act on it without a translation layer</li>
-<li>Recommendations name what to do, not merely what is interesting</li>
+<li>Someone at the client would actually open it. A tool nobody uses is a failed deliverable</li>
+<li>It solves the problem the client actually has, integrated with the systems they actually run</li>
+<li>Discovery output names specific things to build, with an estimate and a sequence, not themes</li>
 <li>Scope creep is not usefulness. If the client’s question changed, renegotiate it in writing</li>
 </ul>
 </section>
@@ -307,8 +308,9 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="craft">Craft</h3>
 <ul>
 <li>The repository is clean, has a README, and someone outside the team could run it</li>
+<li>Tests exist where breakage would be expensive. Not everywhere, but not nowhere</li>
+<li>Deployment is documented and repeatable, not a thing one person knows how to do</li>
 <li>Documents are proofread. Charts are labeled. Slides have a point per slide</li>
-<li>File naming is consistent and dated</li>
 <li>No client data in personal accounts, personal repos, or unapproved tools</li>
 </ul>
 </section>
@@ -317,12 +319,13 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="repository-standards">Repository Standards</h2>
 <p>Every engagement has one private repository in the <code>ai-foundry-byu</code> GitHub organization, named <code>client-&lt;slug&gt;</code>.</p>
 <pre><code>client-&lt;slug&gt;/
-  README.md          What this is, how to run it, who to ask
-  data/              Never committed. Documented in README, stored per client agreement
+  README.md          What this is, how to run it, how to deploy it, who to ask
+  discovery/         The audit: findings, what to build, estimates, sequence
+  app/               The application. Whatever stack the job calls for
+  integrations/      Connections into the client's systems
   analysis/          Notebooks and scripts, in order, that reproduce every number
-  model/             The model itself, with its assumptions in one place
   deliverables/      What the client actually receives, versioned by milestone
-  docs/              Meeting notes, decision log, scope changes</code></pre>
+  docs/              Handoff docs, meeting notes, decision log, scope changes</code></pre>
 <p>Two rules that are not negotiable:</p>
 <ol type="1">
 <li><strong>No secrets or client data in the repository.</strong> Ever. Credentials live in the client’s own systems or an approved secret store.</li>
@@ -344,11 +347,11 @@ Reversible: Yes. Sensitivity range 8-22% is built into the model.</code></pre>
 <h2 class="anchored" data-anchor-id="qc-gate">QC Gate</h2>
 <p>Nothing goes to the client without the QC lead’s sign-off. The QC lead checks:</p>
 <ul class="task-list">
-<li><label><input type="checkbox">Every number traces to a source</label></li>
-<li><label><input type="checkbox">Totals reconcile against the client’s own figures where those exist</label></li>
+<li><label><input type="checkbox">It runs. Someone other than the author has run it from a clean checkout</label></li>
+<li><label><input type="checkbox">Every number traces to a source, and totals reconcile against the client’s own figures</label></li>
 <li><label><input type="checkbox">Assumptions are stated, with values and reasons</label></li>
 <li><label><input type="checkbox">Model outputs are explainable in plain language</label></li>
-<li><label><input type="checkbox">Sensitivity is shown for anything presented as a ranking or a recommendation</label></li>
+<li><label><input type="checkbox">Deployment steps are written down and have been followed once by someone else</label></li>
 <li><label><input type="checkbox">No client data or secrets in the repository</label></li>
 <li><label><input type="checkbox">Document is proofread, charts are labeled, filenames are clean</label></li>
 </ul>

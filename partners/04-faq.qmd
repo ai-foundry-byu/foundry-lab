@@ -4,30 +4,40 @@
 
 ### What does it cost?
 
-$22,000 per project for the full academic year. This matches the BYU engineering capstone
-sponsorship fee.
+Fixed fee, scoped per phase. Discovery is scoped small and deliberately low-commitment. Build
+and transfer are scoped to the work once discovery has defined it. Each phase can be bought on
+its own.
+
+We quote a fixed number before a phase starts. There are no hourly rates and no open-ended
+engagements.
+
+### Why phase it rather than quote the whole thing?
+
+Because before discovery, neither of us knows what should be built. Quoting a full build up
+front means one of us is guessing, and the client absorbs the error either way. Discovery ends
+with a concrete list of what to build and an estimate, and you decide from there whether to
+continue.
 
 ### What does the fee cover?
 
-Faculty oversight and direction, student team time across two semesters, software and API costs,
-data and tooling access, program administration, and the final delivery showcase.
+Faculty oversight, the delivery team's time, software and API costs, tooling and infrastructure
+for the engagement, and program administration.
 
 ### When is payment due?
 
-Payment terms and vendor setup are handled through BYU. Contact the program director and we will
-connect you with the right administrative contact early, so vendor onboarding does not delay the
-project start.
+Payment terms and vendor setup are handled through BYU. Contact us and we will connect you with
+the right administrative contact early, so vendor onboarding does not delay the start.
 
 ### Is there a formal agreement?
 
-Yes. Sponsorship is confirmed in writing before the project starts, covering scope, fee, IP,
-and confidentiality.
+Yes. Each phase is confirmed in writing before it starts, covering scope, fee, IP, and
+confidentiality.
 
 ## Intellectual Property and Confidentiality
 
 ### Who owns the work?
 
-You do. Sponsors retain all deliverables and intellectual property, including code, models,
+You do. Clients retain all deliverables and intellectual property, including code, models,
 documents, and analysis.
 
 ### Will students sign an NDA?
@@ -45,46 +55,63 @@ requirements.
 ### Can students talk about the project publicly?
 
 Not without your written permission. That includes LinkedIn, portfolios, and job interviews.
-The default is that the engagement is confidential. Many sponsors do grant permission for a
+The default is that the engagement is confidential. Many clients do grant permission for a
 general description, which helps students and costs you nothing, but it is your call.
 
 ### Do you use AI tools on our data?
 
-Yes, that is the point of the program, and it is governed. Students use approved tools only,
-under your data handling terms. If you have a specific list of permitted or prohibited AI
-services, tell us at kick-off and we will scope the toolchain to it.
+Yes, and it is governed. We are an AI-native studio; frontier agent tooling is how the work
+gets done. Students use approved tools only, under your data handling terms. If you have a
+specific list of permitted or prohibited AI services, tell us at scoping and we will fit the
+toolchain to it.
 
 ## Scope and Fit
 
 ### What makes a strong project?
 
-An open-ended business question where the answer is not known in advance, where the decision
-recurs so a repeatable framework is worth more than a one-off analysis, and where enough data
-exists for the team to work with. See the [RFP](05-rfp.qmd) for detail.
+Something with a real business problem behind it, where the answer is not already fully
+specified, and where there is something to ship at the end. A product you want built, a
+workflow that should be automated, an agent over your own data, AI wired into systems you
+already run, or enablement for your own team.
 
-### What makes a weak project?
+### What if we do not know what we need?
 
-A task that is already specified and just needs hands, work that requires proprietary systems
-access we cannot get, anything safety- or compliance-critical, or a question whose answer you
-already know and want validated.
+That is what the discovery audit is for. It is scoped small, fixed fee, and it ends with a
+concrete list of what to build and what it would take. Most clients start there.
 
-### Can the scope change mid-year?
+### Do you deliver production software or a prototype?
+
+Production software. Working code, integrated with your systems, running in your environment.
+Leaving a working product behind is the line between us and a traditional consultancy.
+
+### What is a poor fit?
+
+Pure research with no artifact at the end, work requiring systems access that cannot be
+provisioned, safety-, clinical-, or compliance-critical determinations, and staff augmentation
+on an existing backlog.
+
+### Can the scope change mid-engagement?
 
 Yes, in writing. Changes get documented in the decision log and confirmed in the weekly update.
 What we manage against is quiet expansion, where questions are added without anything coming off
 the plan.
 
-### What if the project isn't going well?
+### What if the engagement isn't going well?
 
-Contact the program director immediately. Most engagement problems are fixable in week 5. Early
-intervention is normal program operation, not an escalation.
+Contact the faculty advisor immediately. Most problems are fixable early and expensive later.
+Early intervention is normal program operation, not an escalation.
 
 ## Working Arrangements
+
+### When can we start?
+
+We accept projects on a rolling basis. There is no application deadline. Tell us your timing and
+we will tell you honestly when the bench has room.
 
 ### How much of my time does this take?
 
 About an hour a week: a 30 to 45 minute standing call, plus reading the weekly update and
-answering the decisions it asks for. Plus four milestone reviews across the year.
+answering the decisions it asks for. Plus phase reviews.
 
 ### Do we need to be local to Utah?
 
@@ -92,25 +119,28 @@ No. Engagements run remote by default. On-site visits are welcome but not requir
 
 ### Do we provide equipment or accounts?
 
-Students use their own machines. You may need to provision accounts for data or systems access,
-which we will scope at kick-off.
+Students use their own machines. You will need to provision accounts for data or systems access,
+which we scope at the start.
+
+### Who maintains the software after handoff?
+
+You do, and transfer is designed for exactly that. We co-work with your people throughout the
+build and hand off ownership at the end, so the capability stays in-house after we go.
 
 ### Can we hire the students?
 
-Yes, and many sponsors do. Recruiting access is one of the real benefits of sponsorship. Please
-route offers through the program director during the engagement so it does not disrupt the team.
+Yes, and many clients do. Recruiting access is one of the real benefits of working with us.
+Please route offers through the faculty advisor during the engagement so it does not disrupt the
+team.
 
-### Can we extend or run a second project?
+### Can we run a second engagement?
 
-Yes. Follow-on engagements and paid summer extensions are both common. Extensions are optional
-and not part of the base program.
+Yes. Most clients start with one offering and add the others as the work proves out.
 
-## Who should I contact?
+## Contact
 
-**Scott Murff**
+**AI Foundry**, BYU Marriott School of Business
 
-Director, AI Foundry · Program Director, Strategic Management
+[aifoundry.byu.edu](https://aifoundry.byu.edu) · aifoundry@byu.edu
 
-Brigham Young University, Marriott School of Business
-
-scott.murff@byu.edu
+**Scott Murff**, Faculty Advisor · scott.murff@byu.edu

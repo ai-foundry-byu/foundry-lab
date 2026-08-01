@@ -17,8 +17,8 @@ You will also be able to comment on each dimension. Comments are shared with the
 
 | Survey | Due Date | Purpose |
 |--------|----------|---------|
-| Mid-year | December 11, 2026 | Developmental feedback only, no grade impact |
-| End-of-year | April 14, 2027 | Final evaluation, input to grading |
+| Mid-engagement | Midpoint of your engagement | Developmental feedback only, no grade impact |
+| End-of-engagement | At handoff, or end of the academic year | Final evaluation, input to grading |
 
 You evaluate the **team**, not individual students. Individual differentiation comes from
 confidential peer evaluation within the team, which is our job to administer, not yours.
@@ -42,7 +42,7 @@ differently as a sponsor. They will have opinions and will be reluctant to volun
 1. **Strengths**: What is going well? What should they keep doing?
 2. **Growth areas**: Where do they need to be sharper by April?
 3. **Support**: What can you do to help? Data access, introductions, faster decisions?
-4. **Scope check**: Is the M1 problem statement still the right problem?
+4. **Scope check**: Is the problem discovery identified still the right problem?
 5. **Ask for feedback**: How can you be a better sponsor?
 
 ## End-of-Year Feedback

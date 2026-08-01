@@ -42,14 +42,17 @@ an unexplainable model output is a QC failure, and it is graded as one.
 
 ## Key Dates
 
-| Milestone | Date |
+| Milestone | When |
 |-----------|------|
-| Project launch | September 2, 2026 |
-| M1: Problem definition and framework | October 16, 2026 |
-| M2: Working prototype | December 11, 2026 |
-| M3: Validated model | February 19, 2027 |
-| M4: Final delivery and showcase | April 9, 2027 |
+| Engagement kick-off | Set per engagement, rolling |
+| D: Discovery | Set at kick-off |
+| B1: Working build | Set at kick-off |
+| B2: Shipped | Set at kick-off |
+| T: Transfer | Set at kick-off |
 | Weekly updates due | Saturday by 11:59 PM |
+
+Engagements are accepted on a rolling basis, so your team's dates come from your kick-off, not
+from a course-wide calendar.
 
 ## Your Responsibilities
 
@@ -58,18 +61,21 @@ an unexplainable model output is a QC failure, and it is graded as one.
 - **Come prepared** to client calls with an agenda, progress, and specific asks
 - **Raise blockers within 48 hours.** Not at the weekly call, and not at the milestone
 - **Protect client data** per the confidentiality terms in the [Syllabus](01-syllabus.qmd)
-- **Send end-of-week updates** to the client point of contact, CC ai-foundry@byu.edu
+- **Send end-of-week updates** to the client point of contact, CC aifoundry@byu.edu
 - **Carry your share.** Your teammates grade you on this
 
 ## What You'll Be Working On
 
-Foundry teams deliver business decision systems. Depending on the engagement, that includes:
+Foundry teams ship software. Depending on the engagement, that includes:
 
-- Strategy assessment and market or portfolio analysis
-- Decision frameworks with explicit criteria and thresholds
-- Scoring and prioritization models
-- Forecasting and predictive analytics
-- Financial modeling, including NPV, sensitivity, and scenario analysis
-- Optimization under real constraints
-- Decision dashboards and prototype applications
-- Executive-ready synthesis and recommendations
+- **Full-stack applications.** Net-new web and mobile products, B2C, B2B, or internal tools,
+  built end to end and deployed to production
+- **AI integration and orchestration.** Agents and copilots over the client's own data,
+  automations across Slack, Notion, and their existing stack, document processing, extraction,
+  routing, and summarization
+- **AI enablement.** Setting the client's own team up on frontier agent tooling, co-working
+  alongside their staff, then handing off
+
+Discovery work comes first and is real analysis: where AI actually helps this business, what is
+worth building, what is worth automating. But discovery exists to point at something to build.
+The engagement ends with software running in the client's hands, not with a deck.

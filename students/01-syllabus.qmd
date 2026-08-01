@@ -39,12 +39,17 @@ and for reviewing grades. All other course content lives on this website.
 
 ## What This Course Is
 
-You are on a delivery team for a paying client. The client has sponsored this project, retains
-the intellectual property, and expects professional work. Your grade reflects both the quality
-of what you ship and the professionalism with which you ship it.
+The AI Foundry is an AI-native product studio and consultancy. You are on a delivery team for a
+paying client. The client is paying a fixed fee, retains the intellectual property, and expects
+professional work. Your grade reflects both the quality of what you ship and the professionalism
+with which you ship it.
 
-This is a two-semester course. You enroll each semester. Fall establishes the problem, the
-framework, and a working prototype. Winter hardens the build, validates it, and delivers.
+We ship, not advise. Discovery work is real and comes first, but it exists to point at something
+to build. Every engagement ends with software running in the client's hands, not with a deck.
+
+This is a two-semester course. You enroll each semester. Engagements are accepted on a rolling
+basis, so your team's phase boundaries come from your kick-off rather than from a course-wide
+calendar.
 
 ## Studio Time
 
@@ -53,13 +58,16 @@ co-working, cross-team critique, client calls, and office hours with Professor M
 
 **Required sessions:**
 
-| Date | Session |
-|------|---------|
-| September 4, 2026 | Kick-off, team formation, client introductions |
-| October 16, 2026 | Milestone 1 review (problem definition and framework) |
-| December 11, 2026 | Milestone 2 review (working prototype) |
-| February 19, 2027 | Milestone 3 review (validated model) |
-| April 9, 2027 | Final delivery and showcase |
+| Session | When |
+|---------|------|
+| Kick-off, team formation, client introductions | First studio of fall semester |
+| Phase review: discovery | Set per engagement |
+| Phase review: build | Set per engagement |
+| Phase review: transfer and handoff | Set per engagement |
+| End-of-year showcase | Final studio of winter semester |
+
+Engagements start on a rolling basis, so phase reviews are scheduled per team rather than on a
+single course calendar. Your team's review dates are set at kick-off and posted in Canvas.
 
 All other Fridays are optional but strongly encouraged. Teams that skip studio time
 consistently underperform.
@@ -95,24 +103,28 @@ See [Weekly Updates](03-weekly-updates.qmd) for format and expectations.
 
 ### Milestone Deliverables (160 points)
 
-Four milestones, 40 points each. These are graded by the faculty director against the
+Four milestones, 40 points each. These are graded by the faculty advisor against the
 [Build Standards](04-build-standards.qmd), not by the client.
 
-| Milestone | Due | What is due |
-|-----------|-----|-------------|
-| M1: Problem definition and framework | October 16, 2026 | Written problem statement the client has signed off on, decision criteria, success measures |
-| M2: Working prototype | December 11, 2026 | Something that runs, on real or realistic data, with the logic documented |
-| M3: Validated model | February 19, 2027 | Sensitivity analysis, stated assumptions, explainable outputs, known limitations |
-| M4: Final delivery | April 9, 2027 | Executive summary, decision tool or dashboard, handoff documentation, repository |
+| Milestone | What is due |
+|-----------|-------------|
+| **D: Discovery** | An AI-specific audit of the client's business. Where AI actually helps them, what is worth building, what is worth automating, with an estimate and a sequence. Client signs off. |
+| **B1: Working build** | Software that runs, integrated with the client's systems or a realistic stand-in, with the architecture documented |
+| **B2: Shipped** | Production code running in the client's environment. Tested, deployed, monitored |
+| **T: Transfer** | Handoff documentation, a walkthrough with the client's own people, and a repository they can run without us |
+
+Milestone due dates are set per engagement at kick-off and posted in Canvas. Teams on a
+discovery-only engagement complete D and a scaled transfer; teams on a full engagement complete
+all four.
 
 Each milestone is scored on four dimensions, 10 points each:
 
 | Dimension | What earns full marks |
 |-----------|----------------------|
-| **Correctness** | The analysis holds up. Numbers reconcile. Assumptions are stated and defensible. |
-| **Usefulness** | A decision maker could act on it. It answers the client's actual question. |
-| **Explainability** | Someone outside the team can follow why the model says what it says. |
-| **Craft** | Clean repository, readable code and documents, professional presentation. |
+| **Correctness** | It works. Analysis reconciles, code does what it claims, assumptions are stated and defensible. |
+| **Usefulness** | Someone at the client would actually use it. It solves the problem they have. |
+| **Explainability** | Someone outside the team can follow how it works and why it does what it does. |
+| **Craft** | Clean repository, readable code, tests where they matter, documents proofread, professional presentation. |
 
 ### Client Evaluation (100 points)
 
@@ -164,7 +176,7 @@ at mid-term and at the end of the year on four dimensions, 1 to 7 scale.
 | 1 | 2 |
 
 ::: {.callout-warning}
-A student whose peer average falls below 3.0 at mid-term will meet with the program director.
+A student whose peer average falls below 3.0 at mid-term will meet with the faculty advisor.
 Sustained free-riding is grounds for removal from the team and a failing grade, regardless of
 what the client's team-level score says.
 :::
@@ -173,7 +185,7 @@ what the client's team-level score says.
 
 After receiving client and peer feedback, record a 2 to 5 minute video reflection.
 
-**Due:** April 21, 2027
+**Due:** One week after end-of-year feedback is released
 
 **Submission:** Upload to YouTube (unlisted) or Loom and submit the link via Canvas.
 
@@ -234,7 +246,7 @@ and strategy. This is a condition of the work, and it carries obligations.
 - Client data stays in the approved project repository and approved tools. It does not go into
   personal accounts, personal cloud storage, or unapproved AI services.
 - Nothing about the project goes on LinkedIn, in a portfolio, or in a job interview without
-  written client permission. Ask the program director first, every time.
+  written client permission. Ask the faculty advisor first, every time.
 - Deliverables and intellectual property belong to the client, not to you and not to BYU.
 - When the project ends, you delete local copies of client data.
 
@@ -257,7 +269,7 @@ obligations that come with it:
 ## Instructor Bio
 
 Scott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of
-Business, where he also serves as program director and teaches courses on business strategy,
+Business, where he also serves as faculty advisor and teaches courses on business strategy,
 decision-making, and artificial intelligence. He brings over 15 years of experience at the
 intersection of business and technology, having worked as a consultant, product manager, and
 data scientist.

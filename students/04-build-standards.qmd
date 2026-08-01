@@ -9,6 +9,7 @@ Every deliverable is scored on correctness, usefulness, explainability, and craf
 
 ### Correctness
 
+- Code does what it claims. If it is shipped, it has been run against something real
 - Every number in a client-facing document traces to a source you can point to
 - Totals reconcile. If your revenue baseline is 2% off the client's actuals, you find out why
   before you present it, not after they do
@@ -18,9 +19,9 @@ Every deliverable is scored on correctness, usefulness, explainability, and craf
 
 ### Usefulness
 
-- The deliverable answers the question the client actually asked
-- A decision maker can act on it without a translation layer
-- Recommendations name what to do, not merely what is interesting
+- Someone at the client would actually open it. A tool nobody uses is a failed deliverable
+- It solves the problem the client actually has, integrated with the systems they actually run
+- Discovery output names specific things to build, with an estimate and a sequence, not themes
 - Scope creep is not usefulness. If the client's question changed, renegotiate it in writing
 
 ### Explainability
@@ -37,8 +38,9 @@ fails.
 ### Craft
 
 - The repository is clean, has a README, and someone outside the team could run it
+- Tests exist where breakage would be expensive. Not everywhere, but not nowhere
+- Deployment is documented and repeatable, not a thing one person knows how to do
 - Documents are proofread. Charts are labeled. Slides have a point per slide
-- File naming is consistent and dated
 - No client data in personal accounts, personal repos, or unapproved tools
 
 ## Repository Standards
@@ -48,12 +50,13 @@ Every engagement has one private repository in the `ai-foundry-byu` GitHub organ
 
 ```
 client-<slug>/
-  README.md          What this is, how to run it, who to ask
-  data/              Never committed. Documented in README, stored per client agreement
+  README.md          What this is, how to run it, how to deploy it, who to ask
+  discovery/         The audit: findings, what to build, estimates, sequence
+  app/               The application. Whatever stack the job calls for
+  integrations/      Connections into the client's systems
   analysis/          Notebooks and scripts, in order, that reproduce every number
-  model/             The model itself, with its assumptions in one place
   deliverables/      What the client actually receives, versioned by milestone
-  docs/              Meeting notes, decision log, scope changes
+  docs/              Handoff docs, meeting notes, decision log, scope changes
 ```
 
 Two rules that are not negotiable:
@@ -83,11 +86,11 @@ you assume that" six months later, and it is what makes handoff possible.
 
 Nothing goes to the client without the QC lead's sign-off. The QC lead checks:
 
-- [ ] Every number traces to a source
-- [ ] Totals reconcile against the client's own figures where those exist
+- [ ] It runs. Someone other than the author has run it from a clean checkout
+- [ ] Every number traces to a source, and totals reconcile against the client's own figures
 - [ ] Assumptions are stated, with values and reasons
 - [ ] Model outputs are explainable in plain language
-- [ ] Sensitivity is shown for anything presented as a ranking or a recommendation
+- [ ] Deployment steps are written down and have been followed once by someone else
 - [ ] No client data or secrets in the repository
 - [ ] Document is proofread, charts are labeled, filenames are clean
 

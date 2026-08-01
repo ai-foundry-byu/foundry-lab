@@ -1,101 +1,115 @@
 # Program Overview
 
-The **BYU AI Foundry** pairs a sponsoring organization with a faculty-guided team of BYU
-Marriott students for a full academic year. The team takes on one real, open-ended business
-problem and delivers an AI-enabled solution to it.
+The **BYU AI Foundry** is an AI-native product studio and consultancy, and an official program
+of the BYU Marriott School of Business. We build AI products. One team works out what is worth
+building and then ships it, because those are no longer two jobs.
 
-[**Submit a Project →**](https://byu.capsource.app/)
+[**Start with a discovery audit →**](mailto:aifoundry@byu.edu)
 
-## Engagement Structure
+## Three Offerings
 
-| Component | Details |
-|-----------|---------|
-| **Duration** | 8 months, 2 semesters |
-| **Period** | September 2, 2026 – April 14, 2027 |
-| **Team size** | 4–6 students per project |
-| **Student effort** | 8–12 hours per week, per student |
-| **Sponsor commitment** | ~1 hour per week |
-| **Location** | Remote, with optional on-site visits |
-| **Sponsorship fee** | $22,000 per project |
-| **Intellectual property** | Sponsor retains all deliverables and IP |
+Engagements usually combine them. Most clients start with one and add the others as the work
+proves out.
 
-## Academic Credit
+**Full-stack applications.** Net-new web and mobile applications, built end to end on a modern
+stack and shipped to production. Any language the job calls for. Customer-facing products,
+products you sell to other businesses, and internal line-of-business tools.
 
-Students enroll in the AI Foundry Lab, cross-listed as **MBA 693R** and **STRAT 490R**, for
-3.0 credit hours per semester and 6.0 across the year. Teams mix MBA and senior undergraduate
-students by design.
+**AI integration and orchestration.** AI wired into the systems you already run, rather than a
+standalone prototype that never reaches anyone's daily work. Agents and copilots that work
+against your data, automations across Slack, Notion, and your existing stack, and document
+processing, extraction, routing, and summarization.
+
+**AI enablement and training.** We set your team up to build this way themselves, using the
+same tooling we use on the engagement. Claude Code, Codex, and frontier agent tooling, agentic
+workflow and automation setup, and co-working alongside your staff before handoff.
+
+## Three Phases
+
+**Find the problem, build the thing, hand it over.** Fixed fee, run as a sequence rather than a
+menu. Each phase can be bought on its own, and the first is designed to be a low-commitment way
+to start.
+
+| | Phase | What happens |
+|---|---|---|
+| **01** | **Audit and discovery** | An AI-specific audit of your business. We find where AI actually helps you: which products are worth building, which workflows are worth automating. The output points at specific things to build, with an estimate and a sequence. |
+| **02** | **Build** | We build and ship working software. Not a report, not a prototype. Production code, integrated with your systems, running in your environment. |
+| **03** | **Transfer** | We co-work with your people throughout the build and hand off ownership at the end. The capability stays in-house after we go. |
+
+## What Makes This Different
+
+**We ship, not advise.** A strategy firm rarely leaves a working product behind. Every
+engagement ends with software running in your hands. That is the line between us and a
+traditional consultancy, and it is deliberate.
+
+**Strategy and engineering in one team.** The people deciding what to build are the people
+building it. Nothing is lost in a handoff between a strategy team and a delivery vendor,
+because there is no handoff.
+
+**MBB-caliber thinking, AI-accelerated pricing.** Led by an ex-McKinsey faculty advisor,
+delivered by a bench of MBAs and undergraduate engineers. The work meets a top-tier consulting
+standard at a fraction of top-tier rates.
+
+**We are built on the tooling we sell.** We run on frontier agent tooling internally. When we
+set up your team, we are teaching the workflow we use every day, not one we read about.
+
+## Who We Are
+
+| | |
+|---|---|
+| **What** | An official program of the BYU Marriott School of Business |
+| **Faculty advisor** | Scott Murff, former McKinsey & Company |
+| **Team** | 15 MBAs and roughly 15 undergraduate builders, in mixed teams |
+| **Engagement model** | Fixed fee, scoped per phase |
 
 ## Who Is on Your Team
 
-Every team carries three roles:
+Each engagement is staffed with a mixed team drawn from the MBA bench and the undergraduate
+builders. Every team carries three roles:
 
 | Role | Responsibility |
 |------|----------------|
 | **Client lead** | Your single point of contact. Runs the weekly call, sends the weekly update, owns scope conversations |
-| **Builders** | The analysis, modeling, and software |
+| **Builders** | The engineering. Application code, integrations, models, and deployment |
 | **QC lead** | Reviews everything before it reaches you. Owns the quality standard |
 
-A faculty director oversees every engagement and reviews all four milestones independently of
-the client.
+Product evaluation and QC is a standing function inside the Foundry, not something invented per
+project. A faculty advisor oversees every engagement.
 
-## The Year in Four Milestones
+## Academic Credit
 
-| Milestone | Date | What you receive |
-|-----------|------|------------------|
-| **M1: Problem definition and framework** | October 16, 2026 | A written problem statement you sign off on, the decision criteria, and how success will be measured |
-| **M2: Working prototype** | December 11, 2026 | Something that runs, on real or realistic data, with the logic documented |
-| **M3: Validated model** | February 19, 2027 | Sensitivity analysis, stated assumptions, explainable outputs, known limitations |
-| **M4: Final delivery** | April 9, 2027 | Executive summary, decision tool or dashboard, handoff documentation, and the repository |
+Students enroll in the AI Foundry Lab, cross-listed as **MBA 693R** and **STRAT 490R**, for 3.0
+credit hours per semester and 6.0 across the year. Academic credit is how the bench is staffed;
+it does not change what you receive or the terms you receive it under.
 
-## What Sponsorship Covers
+## Commercial Terms
 
-The $22,000 fee covers faculty oversight and direction, student team time across two semesters,
-software and API costs, data and tooling access, program administration, and the final delivery
-showcase.
+**Fixed fee, scoped per phase.** Discovery is scoped small and deliberately low-commitment.
+Build and transfer are scoped to the work once discovery has defined it.
 
-## What We Deliver
+**Intellectual property.** You retain full rights to all deliverables, code, models, and
+documentation.
 
-The Foundry builds business decision systems. Typical deliverables:
+**Confidentiality.** Every student signs your NDA, or the Foundry's standard mutual NDA, before
+receiving data.
 
-- Strategy assessment and validation
-- Decision frameworks with explicit criteria and thresholds
-- Scoring and prioritization models
-- Forecasting and predictive analytics
-- Financial models, including NPV, sensitivity, and scenario analysis
-- Optimization under real capital, capacity, and resource constraints
-- Executive decision dashboards and prototype applications
-- Executive-ready synthesis and recommendations
+## Timing
 
-Every deliverable carries an explainability requirement: your team can walk you through which
-assumptions drive each recommendation and what would have to change for the answer to change.
+We accept projects on a **rolling basis**. There is no application deadline. Phase boundaries
+are set per engagement, and a discovery audit can start on a short cycle. The constraint is
+bench capacity, so when the bench is full new engagements queue for the next opening.
 
 ## What We Do Not Do
 
-Being clear about this saves everyone time.
-
-- **Production software.** We deliver working prototypes and models, not systems hardened for
-  your production environment.
-- **Staff augmentation.** This is not a way to get cheap analyst hours on your existing backlog.
-- **Work that is already scoped and specified.** If you know exactly what you want built, hire a
-  contractor. The Foundry is for open-ended problems where the answer is not known yet.
-- **Regulated or safety-critical deliverables.** Nothing we produce should be relied on as a
-  clinical, legal, financial, or regulatory determination without your own review.
-
-## How This Differs from the Engineering Capstone
-
-BYU's engineering capstone programs build physical and embedded systems: CAD, prototypes, PCBs,
-firmware, security assessments. The AI Foundry builds business decision systems.
-
-If your question is "how do we build this thing," that is an engineering capstone. If your
-question is "which things should we build, in what order, and how would we know," that is the
-Foundry.
+- Pure research with no artifact at the end
+- Work requiring systems access that cannot be provisioned
+- Safety-, clinical-, or compliance-critical determinations
+- Staff augmentation on an existing backlog
 
 ## Contact
 
-**Scott Murff**
+**AI Foundry**, BYU Marriott School of Business
 
-Director, AI Foundry · Program Director, Strategic Management
+[aifoundry.byu.edu](https://aifoundry.byu.edu) · aifoundry@byu.edu
 
-Brigham Young University, Marriott School of Business
-
-scott.murff@byu.edu
+**Scott Murff**, Faculty Advisor · scott.murff@byu.edu
