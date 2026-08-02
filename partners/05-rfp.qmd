@@ -59,8 +59,7 @@ engagement.
 
 **Find the problem, build the thing, hand it over.**
 
-Fixed fee, run as a sequence rather than a menu. Each phase can be bought on its own, and the
-first one is designed to be a low-commitment way to start.
+One fixed fee covers all three phases, run as a sequence rather than a menu.
 
 | | Phase | What happens |
 |---|---|---|
