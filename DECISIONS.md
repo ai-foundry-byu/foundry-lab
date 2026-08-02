@@ -14,7 +14,7 @@ corrected several things the first draft had wrong.
 | What we deliver | Production software, integrated and running in the client's environment |
 | Three offerings | Full-stack applications; AI integration and orchestration; AI enablement and training |
 | Three phases | 01 Audit and discovery, 02 Build, 03 Transfer. Each buyable on its own |
-| Engagement model | Fixed fee, scoped per phase |
+| Engagement model | Fixed fee, scoped per phase (numbers set separately, see below) |
 | Team | 15 MBAs and roughly 15 undergraduate builders, in mixed teams |
 | Scott's title | Faculty Advisor, not Program Director |
 | Status | An official program of the BYU Marriott School of Business |
@@ -47,16 +47,48 @@ RFPs. It was wrong in four material ways, all now fixed:
 
 | # | Item | Status | Why it matters |
 |---|------|--------|----------------|
-| 1 | **Actual fee figures** | Not stated anywhere on the site | The one-pager says "fixed fee, scoped per phase" without numbers, which is fine for a one-pager. Jordan needs something for a sourcing page, and Breckenridge needs an invoice. At minimum: a discovery audit price and a rough build range |
-| 2 | **How Breckenridge is priced** | Unknown | It came through the engineering pipeline where the number was $22,000 for a year. Under the phased model it should be scoped as discovery first. Somebody has to reconcile those two stories with Brian Guy |
+| 1 | ~~Actual fee figures~~ | **Set 2026-08-01. See Pricing below** | Resolved |
+| 2 | ~~How Breckenridge is priced~~ | **Resolved.** $22,000 for 8 months is exactly what they already expect from the engineering RFP. No exception, no reconciliation needed | Resolved |
 | 3 | **Where the money goes** | Unresolved | Brian asked Allyson about payment timing and BYU vendor setup in July and it died when engineering declined. Still the most urgent item |
-| 4 | **Capacity** | Site says "deliberately limited," no number | With rolling intake and a CapSource campaign, you need an internal number even if it is not published |
+| 4 | **Capacity** | Site says "deliberately limited," no number. At 2 builders per engagement, your ~15 undergraduate builders imply roughly 7 concurrent engagements | With rolling intake and a CapSource campaign, you need an internal number even if it is not published |
 | 5 | **Discovery-only vs full engagement grading** | Syllabus says discovery-only teams do D plus a scaled transfer | Reasonable but untested. If a client stops after discovery, that team ships no software and the milestone rubric leans on shipping |
-| 6 | **Student hours** | 8–12/week each | Affects credit-hour justification. Confirm against BYU policy for 3.0 credits |
+| 6 | **Student hours** | Set at 10/week each, contractual not a range | Now load-bearing: it is the basis of the fee. Confirm 10 hrs supports 3.0 credits under BYU policy |
 | 7 | **Office hours slot** | Fri 11:00 AM–12:00 PM | Placeholder inside the class block |
 | 8 | **LMS** | Canvas | Product Management uses Canvas, APM Lab uses LearningSuite. Just confirm |
 | 9 | **Site URL** | `ai-foundry-byu.github.io/foundry-lab` | Repo not created yet. Banner links to aifoundry.byu.edu |
 | 10 | **Intake path** | RFP links to `mailto:aifoundry@byu.edu` | If CapSource builds a program page, that becomes the real submission path |
+
+## Pricing, set 2026-08-01
+
+**Published:** $22,000 fixed fee for an 8-month engagement, covering all three phases. A
+dedicated two-person build team at 10 hours each per week, plus a QC lead and faculty
+oversight. 640 hours of delivery capacity.
+
+**Internal derivation:** $35 per student-hour. 2 builders x 10 hrs/week x 32 weeks = 640 hours
+= $22,400, rounded to $22,000. Do not publish the hourly figure; it invites "why does a student
+cost that."
+
+**Where $35 sits in the market:**
+
+| Comparison | Rate per student-hour |
+|---|---|
+| Most CapSource business programs (Schulich, NYU Wagner, Stevens, Montclair) | $0 |
+| BYU Engineering capstone | $8 to $17 |
+| **AI Foundry** | **$35** |
+| Notre Dame ESTEEM | $33 to $133 |
+| Junior contract developer | $50 to $100 |
+| Boutique consultancy, junior staff | $150 to $250 |
+
+**Still unresolved and it matters:** whether builders are paid. If they work for credit only, as
+APM Lab students do, $22,000 minus tooling and BYU overhead is program surplus and $35 is
+comfortable. If you want to pay builders, even $20/hour consumes $12,800 of the $22,000 and the
+rate stops working. Decide this before the second engagement.
+
+**Also unknown:** what BYU takes off the top. If there is an indirect cost recovery on sponsored
+activity, the effective rate is lower than $35 and possibly much lower.
+
+**Revisit after Breckenridge ships.** $35 is deliberately low for a first cycle. Reference
+clients and case studies are the scarce thing right now, not margin.
 
 ## Tension worth deciding deliberately
 

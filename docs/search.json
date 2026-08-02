@@ -34,7 +34,7 @@
     "href": "index.html#how-engagements-run",
     "title": "AI Foundry Lab",
     "section": "How Engagements Run",
-    "text": "How Engagements Run\nFind the problem, build the thing, hand it over. Fixed fee, run as a sequence rather than a menu.\n\n\n\n\n\n\n\n\n\nPhase\nWhat we deliver\n\n\n\n\n01\nAudit and discovery\nAn AI-specific audit that points at specific things to build, with an estimate and a sequence\n\n\n02\nBuild\nProduction code, integrated with the client’s systems, running in their environment\n\n\n03\nTransfer\nCo-working throughout the build, then handoff. The capability stays in-house",
+    "text": "How Engagements Run\nFind the problem, build the thing, hand it over. One fixed fee of $22,000 covers all three phases across an 8-month engagement.\n\n\n\n\n\n\n\n\n\nPhase\nWhat we deliver\n\n\n\n\n01\nAudit and discovery\nAn AI-specific audit that points at specific things to build, with an estimate and a sequence\n\n\n02\nBuild\nProduction code, integrated with the client’s systems, running in their environment\n\n\n03\nTransfer\nCo-working throughout the build, then handoff. The capability stays in-house",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
     ]
@@ -44,7 +44,7 @@
     "href": "index.html#program-at-a-glance",
     "title": "AI Foundry Lab",
     "section": "Program At a Glance",
-    "text": "Program At a Glance\n\n\n\n\n\n\n\nWhat\nAn official program of the BYU Marriott School of Business\n\n\nFaculty advisor\nScott Murff, former McKinsey & Company\n\n\nTeam\n15 MBAs and roughly 15 undergraduate builders, in mixed teams\n\n\nEngagement model\nFixed fee, scoped per phase\n\n\nIntake\nRolling, limited by bench capacity\n\n\nStudent hours\n8–12 hours per week, per student\n\n\nClient commitment\n~1 hour per week\n\n\nIP\nClient retains all deliverables and IP",
+    "text": "Program At a Glance\n\n\n\n\n\n\n\nWhat\nAn official program of the BYU Marriott School of Business\n\n\nFaculty advisor\nScott Murff, former McKinsey & Company\n\n\nTeam\n15 MBAs and roughly 15 undergraduate builders, in mixed teams\n\n\nEngagement model\n$22,000 fixed fee, 8-month engagement\n\n\nIntake\nRolling, limited by bench capacity\n\n\nDelivery team\n2 builders at 10 hours each per week, plus QC lead and faculty oversight\n\n\nClient commitment\n~1 hour per week\n\n\nIP\nClient retains all deliverables and IP",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
     ]
@@ -64,7 +64,7 @@
     "href": "index.html#im-a-client-partner",
     "title": "AI Foundry Lab",
     "section": "I’m a Client Partner",
-    "text": "I’m a Client Partner\nInterested in an engagement? Start with a discovery audit →\n\nProgram Overview: Offerings, phases, team, terms\nWorking with the Team: Cadence, scoping, scope changes\nEvaluation: Mid-year and end-of-year feedback process\nFAQ: IP, data, confidentiality, cost, hiring\nRequest for Proposals: What we are looking for this cycle",
+    "text": "I’m a Client Partner\nInterested in an engagement? Start a conversation →\n\nProgram Overview: Offerings, phases, team, terms\nWorking with the Team: Cadence, scoping, scope changes\nEvaluation: Mid-year and end-of-year feedback process\nFAQ: IP, data, confidentiality, cost, hiring\nRequest for Proposals: What we are looking for this cycle",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Overview</span>"
     ]
@@ -149,7 +149,7 @@
     "href": "students/01-syllabus.html#credit-hours",
     "title": "Syllabus",
     "section": "Credit Hours",
-    "text": "Credit Hours\n\n\n\nEnrollment\nHours/Week\nCredit Hours per Semester\n\n\n\n\nStandard\n8–12 hours\n3.0 credits\n\n\n\nStudents enroll each semester for a total of 6.0 credit hours across the year.",
+    "text": "Credit Hours\n\n\n\nEnrollment\nHours/Week\nCredit Hours per Semester\n\n\n\n\nStandard\n10 hours\n3.0 credits\n\n\n\nStudents enroll each semester for a total of 6.0 credit hours across the year.",
     "crumbs": [
       "For Students",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
@@ -479,7 +479,7 @@
     "href": "partners/01-program-overview.html",
     "title": "Program Overview",
     "section": "",
-    "text": "Three Offerings\nThe BYU AI Foundry is an AI-native product studio and consultancy, and an official program of the BYU Marriott School of Business. We build AI products. One team works out what is worth building and then ships it, because those are no longer two jobs.\nStart with a discovery audit →\nEngagements usually combine them. Most clients start with one and add the others as the work proves out.\nFull-stack applications. Net-new web and mobile applications, built end to end on a modern stack and shipped to production. Any language the job calls for. Customer-facing products, products you sell to other businesses, and internal line-of-business tools.\nAI integration and orchestration. AI wired into the systems you already run, rather than a standalone prototype that never reaches anyone’s daily work. Agents and copilots that work against your data, automations across Slack, Notion, and your existing stack, and document processing, extraction, routing, and summarization.\nAI enablement and training. We set your team up to build this way themselves, using the same tooling we use on the engagement. Claude Code, Codex, and frontier agent tooling, agentic workflow and automation setup, and co-working alongside your staff before handoff.",
+    "text": "Three Offerings\nThe BYU AI Foundry is an AI-native product studio and consultancy, and an official program of the BYU Marriott School of Business. We build AI products. One team works out what is worth building and then ships it, because those are no longer two jobs.\nStart a conversation →\nEngagements usually combine them. Most clients start with one and add the others as the work proves out.\nFull-stack applications. Net-new web and mobile applications, built end to end on a modern stack and shipped to production. Any language the job calls for. Customer-facing products, products you sell to other businesses, and internal line-of-business tools.\nAI integration and orchestration. AI wired into the systems you already run, rather than a standalone prototype that never reaches anyone’s daily work. Agents and copilots that work against your data, automations across Slack, Notion, and your existing stack, and document processing, extraction, routing, and summarization.\nAI enablement and training. We set your team up to build this way themselves, using the same tooling we use on the engagement. Claude Code, Codex, and frontier agent tooling, agentic workflow and automation setup, and co-working alongside your staff before handoff.",
     "crumbs": [
       "For Client Partners",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
@@ -490,7 +490,7 @@
     "href": "partners/01-program-overview.html#three-phases",
     "title": "Program Overview",
     "section": "Three Phases",
-    "text": "Three Phases\nFind the problem, build the thing, hand it over. Fixed fee, run as a sequence rather than a menu. Each phase can be bought on its own, and the first is designed to be a low-commitment way to start.\n\n\n\n\n\n\n\n\n\nPhase\nWhat happens\n\n\n\n\n01\nAudit and discovery\nAn AI-specific audit of your business. We find where AI actually helps you: which products are worth building, which workflows are worth automating. The output points at specific things to build, with an estimate and a sequence.\n\n\n02\nBuild\nWe build and ship working software. Not a report, not a prototype. Production code, integrated with your systems, running in your environment.\n\n\n03\nTransfer\nWe co-work with your people throughout the build and hand off ownership at the end. The capability stays in-house after we go.",
+    "text": "Three Phases\nFind the problem, build the thing, hand it over. One fixed fee of $22,000 covers all three phases across an 8-month engagement. Run as a sequence rather than a menu.\n\n\n\n\n\n\n\n\n\nPhase\nWhat happens\n\n\n\n\n01\nAudit and discovery\nAn AI-specific audit of your business. We find where AI actually helps you: which products are worth building, which workflows are worth automating. The output points at specific things to build, with an estimate and a sequence.\n\n\n02\nBuild\nWe build and ship working software. Not a report, not a prototype. Production code, integrated with your systems, running in your environment.\n\n\n03\nTransfer\nWe co-work with your people throughout the build and hand off ownership at the end. The capability stays in-house after we go.",
     "crumbs": [
       "For Client Partners",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
@@ -512,7 +512,7 @@
     "href": "partners/01-program-overview.html#who-we-are",
     "title": "Program Overview",
     "section": "Who We Are",
-    "text": "Who We Are\n\n\n\n\n\n\n\nWhat\nAn official program of the BYU Marriott School of Business\n\n\nFaculty advisor\nScott Murff, former McKinsey & Company\n\n\nTeam\n15 MBAs and roughly 15 undergraduate builders, in mixed teams\n\n\nEngagement model\nFixed fee, scoped per phase",
+    "text": "Who We Are\n\n\n\n\n\n\n\nWhat\nAn official program of the BYU Marriott School of Business\n\n\nFaculty advisor\nScott Murff, former McKinsey & Company\n\n\nTeam\n15 MBAs and roughly 15 undergraduate builders, in mixed teams\n\n\nEngagement model\n$22,000 fixed fee, 8-month engagement",
     "crumbs": [
       "For Client Partners",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
@@ -545,7 +545,7 @@
     "href": "partners/01-program-overview.html#commercial-terms",
     "title": "Program Overview",
     "section": "Commercial Terms",
-    "text": "Commercial Terms\nFixed fee, scoped per phase. Discovery is scoped small and deliberately low-commitment. Build and transfer are scoped to the work once discovery has defined it.\nIntellectual property. You retain full rights to all deliverables, code, models, and documentation.\nConfidentiality. Every student signs your NDA, or the Foundry’s standard mutual NDA, before receiving data.",
+    "text": "Commercial Terms\n$22,000 per engagement, fixed fee. A standard engagement runs 8 months and covers all three phases: audit and discovery, build, and transfer. The fee is fixed at the start. There are no hourly rates and no change orders for work inside the agreed scope.\n\n\n\n\n\n\n\nFee\n$22,000, fixed\n\n\nDuration\n8 months\n\n\nTeam\n2 dedicated builders, plus a QC lead and faculty oversight\n\n\nGuaranteed capacity\n20 team-hours per week, 640 hours over the engagement\n\n\n\nThe team is small on purpose. Two builders working 10 hours each per week, with QC and faculty oversight riding on top, is enough to ship a focused product and not enough to sprawl. Discovery exists to make sure what we build fits inside that capacity.\nA shorter discovery-only engagement is scoped separately and priced smaller.\nIntellectual property. You retain full rights to all deliverables, code, models, and documentation.\nConfidentiality. Every student signs your NDA, or the Foundry’s standard mutual NDA, before receiving data.",
     "crumbs": [
       "For Client Partners",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Overview</span>"
@@ -754,7 +754,7 @@
     "href": "partners/04-faq.html#cost-and-terms",
     "title": "Frequently Asked Questions",
     "section": "",
-    "text": "What does it cost?\nFixed fee, scoped per phase. Discovery is scoped small and deliberately low-commitment. Build and transfer are scoped to the work once discovery has defined it. Each phase can be bought on its own.\nWe quote a fixed number before a phase starts. There are no hourly rates and no open-ended engagements.\n\n\nWhy phase it rather than quote the whole thing?\nBecause before discovery, neither of us knows what should be built. Quoting a full build up front means one of us is guessing, and the client absorbs the error either way. Discovery ends with a concrete list of what to build and an estimate, and you decide from there whether to continue.\n\n\nWhat does the fee cover?\nFaculty oversight, the delivery team’s time, software and API costs, tooling and infrastructure for the engagement, and program administration.\n\n\nWhen is payment due?\nPayment terms and vendor setup are handled through BYU. Contact us and we will connect you with the right administrative contact early, so vendor onboarding does not delay the start.\n\n\nIs there a formal agreement?\nYes. Each phase is confirmed in writing before it starts, covering scope, fee, IP, and confidentiality.",
+    "text": "What does it cost?\n$22,000 for a standard 8-month engagement, fixed at the start. That covers all three phases: audit and discovery, build, and transfer.\nYou get a dedicated two-person build team at 10 hours each per week, which is 640 hours of delivery capacity across the engagement, plus a QC lead and faculty oversight on top. There are no hourly rates and no change orders for work inside the agreed scope.\nA shorter discovery-only engagement is scoped separately and priced smaller.\n\n\nWhy is discovery inside the fee rather than sold separately?\nBecause before discovery neither of us knows what should be built, and we would rather absorb that uncertainty than bill you for it. Discovery ends with a concrete list of what to build, sized to the 640 hours the engagement actually has. That scoping conversation is the single highest-leverage part of the engagement, so it is not an upsell.\nIf you want the audit on its own, without committing to a build, we scope that separately.\n\n\nWhat does the fee cover?\nThe delivery team’s time, QC, faculty oversight, software and API costs, tooling and infrastructure for the engagement, and program administration.\n\n\nIs the team really only two people?\nTwo dedicated builders, yes, plus a QC lead who reviews everything before it reaches you and a faculty advisor overseeing the engagement. Small teams ship. The constraint is deliberate, and discovery exists to make sure the scope fits the capacity rather than the other way around.\n\n\nWhen is payment due?\nPayment terms and vendor setup are handled through BYU. Contact us and we will connect you with the right administrative contact early, so vendor onboarding does not delay the start.\n\n\nIs there a formal agreement?\nYes. Each phase is confirmed in writing before it starts, covering scope, fee, IP, and confidentiality.",
     "crumbs": [
       "For Client Partners",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
@@ -809,7 +809,7 @@
     "href": "partners/05-rfp.html",
     "title": "Request for Proposals",
     "section": "",
-    "text": "Request for Proposals\nAn AI-native product studio and consultancy at the BYU Marriott School of Business.\nWe build AI products. One team works out what is worth building and then ships it, because those are no longer two jobs.\nThe AI Foundry is an official program of the BYU Marriott School of Business. We are seeking industry partners for 2026 to 2027 engagements.\nStart with a discovery audit →",
+    "text": "Request for Proposals\nAn AI-native product studio and consultancy at the BYU Marriott School of Business.\nWe build AI products. One team works out what is worth building and then ships it, because those are no longer two jobs.\nThe AI Foundry is an official program of the BYU Marriott School of Business. We are seeking industry partners for 2026 to 2027 engagements.\nStart a conversation →",
     "crumbs": [
       "Sourcing",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
@@ -831,7 +831,7 @@
     "href": "partners/05-rfp.html#how-engagements-run",
     "title": "Request for Proposals",
     "section": "How Engagements Run",
-    "text": "How Engagements Run\nFind the problem, build the thing, hand it over.\nFixed fee, run as a sequence rather than a menu. Each phase can be bought on its own, and the first one is designed to be a low-commitment way to start.\n\n\n\n\n\n\n\n\n\nPhase\nWhat happens\n\n\n\n\n01\nAudit and discovery\nAn AI-specific audit of your business. We find where AI actually helps you: which products are worth building, which workflows are worth automating. The output points at specific things to build, with an estimate and a sequence.\n\n\n02\nBuild\nWe build and ship working software. Not a report, not a prototype. Production code, integrated with your systems, running in your environment.\n\n\n03\nTransfer\nWe co-work with your people throughout the build and hand off ownership at the end. The capability stays in-house after we go.",
+    "text": "How Engagements Run\nFind the problem, build the thing, hand it over.\nFixed fee, run as a sequence rather than a menu. Each phase can be bought on its own, and the first one is designed to be a low-commitment way to start.\n\n\n\n\n\n\n\n\n\nPhase\nWhat happens\n\n\n\n\n01\nAudit and discovery\nAn AI-specific audit of your business. We find where AI actually helps you: which products are worth building, which workflows are worth automating. The output points at specific things to build, with an estimate and a sequence.\n\n\n02\nBuild\nWe build and ship working software. Not a report, not a prototype. Production code, integrated with your systems, running in your environment.\n\n\n03\nTransfer\nWe co-work with your people throughout the build and hand off ownership at the end. The capability stays in-house after we go.\n\n\n\n$22,000 for an 8-month engagement, fixed fee, covering all three phases.",
     "crumbs": [
       "Sourcing",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
@@ -853,7 +853,7 @@
     "href": "partners/05-rfp.html#who-we-are",
     "title": "Request for Proposals",
     "section": "Who We Are",
-    "text": "Who We Are\n\n\n\n\n\n\n\nWhat\nAn official program of the BYU Marriott School of Business\n\n\nFaculty advisor\nScott Murff, former McKinsey & Company\n\n\nTeam\n15 MBAs and roughly 15 undergraduate builders, in mixed teams\n\n\nEngagement model\nFixed fee, scoped per phase\n\n\n\nThe MBA bench covers product, deals, marketing, finance, design, AI tooling, product evaluation and QC, and education. Undergraduate builders come from the Marriott School’s strategy and applied AI coursework and are staffed onto delivery teams alongside the MBAs.\nStudents carry academic credit through the AI Foundry Lab, cross-listed as MBA 693R and STRAT 490R. Every engagement has faculty oversight, and product evaluation and QC is a named function inside the Foundry rather than an afterthought.",
+    "text": "Who We Are\n\n\n\n\n\n\n\nWhat\nAn official program of the BYU Marriott School of Business\n\n\nFaculty advisor\nScott Murff, former McKinsey & Company\n\n\nTeam\n15 MBAs and roughly 15 undergraduate builders, in mixed teams\n\n\nEngagement model\n$22,000 fixed fee, 8-month engagement\n\n\n\nThe MBA bench covers product, deals, marketing, finance, design, AI tooling, product evaluation and QC, and education. Undergraduate builders come from the Marriott School’s strategy and applied AI coursework and are staffed onto delivery teams alongside the MBAs.\nStudents carry academic credit through the AI Foundry Lab, cross-listed as MBA 693R and STRAT 490R. Every engagement has faculty oversight, and product evaluation and QC is a named function inside the Foundry rather than an afterthought.",
     "crumbs": [
       "Sourcing",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"
@@ -886,7 +886,7 @@
     "href": "partners/05-rfp.html#commercial-terms",
     "title": "Request for Proposals",
     "section": "Commercial Terms",
-    "text": "Commercial Terms\nFixed fee, scoped per phase. Discovery is scoped small and deliberately low-commitment. Build and transfer are scoped to the work once discovery has defined it. Each phase can be bought on its own.\nIntellectual property: partners retain full rights to all deliverables, code, models, and documentation produced during the engagement.\nConfidentiality: every student signs the partner’s NDA, or the Foundry’s standard mutual NDA, before receiving data. Client data is confined to the approved project repository and approved tools, and local copies are deleted at the end of the engagement.",
+    "text": "Commercial Terms\n$22,000 per engagement, fixed fee. A standard engagement runs 8 months and covers all three phases: audit and discovery, build, and transfer. The fee is fixed at the start. There are no hourly rates and no change orders for work inside the agreed scope.\n\n\n\n\n\n\n\nFee\n$22,000, fixed\n\n\nDuration\n8 months\n\n\nTeam\n2 dedicated builders, plus a QC lead and faculty oversight\n\n\nGuaranteed capacity\n20 team-hours per week, 640 hours over the engagement\n\n\n\nThe team is small on purpose. Two builders working 10 hours each per week, with QC and faculty oversight riding on top, is enough to ship a focused product and not enough to sprawl. Discovery exists to make sure what we build fits inside that capacity.\nA shorter discovery-only engagement is scoped separately and priced smaller, for clients who want to find out what is worth building before committing to build it.\nIntellectual property: partners retain full rights to all deliverables, code, models, and documentation produced during the engagement.\nConfidentiality: every student signs the partner’s NDA, or the Foundry’s standard mutual NDA, before receiving data. Client data is confined to the approved project repository and approved tools, and local copies are deleted at the end of the engagement.",
     "crumbs": [
       "Sourcing",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Request for Proposals</span>"

@@ -21,7 +21,7 @@ those are no longer two jobs.
 The AI Foundry is an official program of the BYU Marriott School of Business. We are seeking
 industry partners for 2026 to 2027 engagements.
 
-[**Start with a discovery audit →**](mailto:aifoundry@byu.edu)
+[**Start a conversation →**](mailto:aifoundry@byu.edu)
 
 ## What We Do
 
@@ -68,6 +68,8 @@ first one is designed to be a low-commitment way to start.
 | **02** | **Build** | We build and ship working software. Not a report, not a prototype. Production code, integrated with your systems, running in your environment. |
 | **03** | **Transfer** | We co-work with your people throughout the build and hand off ownership at the end. The capability stays in-house after we go. |
 
+**$22,000 for an 8-month engagement**, fixed fee, covering all three phases.
+
 ## What Makes This Different
 
 **We ship, not advise.** A strategy firm rarely leaves a working product behind. Every
@@ -92,7 +94,7 @@ set up your team, we are teaching the workflow we use every day, not one we read
 | **What** | An official program of the BYU Marriott School of Business |
 | **Faculty advisor** | Scott Murff, former McKinsey & Company |
 | **Team** | 15 MBAs and roughly 15 undergraduate builders, in mixed teams |
-| **Engagement model** | Fixed fee, scoped per phase |
+| **Engagement model** | $22,000 fixed fee, 8-month engagement |
 
 The MBA bench covers product, deals, marketing, finance, design, AI tooling, product evaluation
 and QC, and education. Undergraduate builders come from the Marriott School's strategy and
@@ -143,9 +145,23 @@ Expect roughly an hour a week from your point of contact.
 
 ## Commercial Terms
 
-**Fixed fee, scoped per phase.** Discovery is scoped small and deliberately low-commitment.
-Build and transfer are scoped to the work once discovery has defined it. Each phase can be
-bought on its own.
+**$22,000 per engagement, fixed fee.** A standard engagement runs 8 months and covers all three
+phases: audit and discovery, build, and transfer. The fee is fixed at the start. There are no
+hourly rates and no change orders for work inside the agreed scope.
+
+| | |
+|---|---|
+| **Fee** | $22,000, fixed |
+| **Duration** | 8 months |
+| **Team** | 2 dedicated builders, plus a QC lead and faculty oversight |
+| **Guaranteed capacity** | 20 team-hours per week, 640 hours over the engagement |
+
+The team is small on purpose. Two builders working 10 hours each per week, with QC and faculty
+oversight riding on top, is enough to ship a focused product and not enough to sprawl. Discovery
+exists to make sure what we build fits inside that capacity.
+
+A shorter discovery-only engagement is scoped separately and priced smaller, for clients who
+want to find out what is worth building before committing to build it.
 
 **Intellectual property:** partners retain full rights to all deliverables, code, models, and
 documentation produced during the engagement.

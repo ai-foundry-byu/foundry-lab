@@ -51,8 +51,8 @@ Three offerings. Engagements usually combine them.
 
 ## How Engagements Run
 
-**Find the problem, build the thing, hand it over.** Fixed fee, run as a sequence rather than a
-menu.
+**Find the problem, build the thing, hand it over.** One fixed fee of **$22,000** covers all
+three phases across an 8-month engagement.
 
 | | Phase | What we deliver |
 |---|---|---|
@@ -67,9 +67,9 @@ menu.
 | **What** | An official program of the BYU Marriott School of Business |
 | **Faculty advisor** | Scott Murff, former McKinsey & Company |
 | **Team** | 15 MBAs and roughly 15 undergraduate builders, in mixed teams |
-| **Engagement model** | Fixed fee, scoped per phase |
+| **Engagement model** | $22,000 fixed fee, 8-month engagement |
 | **Intake** | Rolling, limited by bench capacity |
-| **Student hours** | 8–12 hours per week, per student |
+| **Delivery team** | 2 builders at 10 hours each per week, plus QC lead and faculty oversight |
 | **Client commitment** | ~1 hour per week |
 | **IP** | Client retains all deliverables and IP |
 
@@ -82,7 +82,7 @@ menu.
 
 ## I'm a Client Partner
 
-Interested in an engagement? [**Start with a discovery audit →**](mailto:aifoundry@byu.edu)
+Interested in an engagement? [**Start a conversation →**](mailto:aifoundry@byu.edu)
 
 - [Program Overview](partners/01-program-overview.qmd): Offerings, phases, team, terms
 - [Working with the Team](partners/02-working-with-the-team.qmd): Cadence, scoping, scope changes

@@ -4,7 +4,7 @@ The **BYU AI Foundry** is an AI-native product studio and consultancy, and an of
 of the BYU Marriott School of Business. We build AI products. One team works out what is worth
 building and then ships it, because those are no longer two jobs.
 
-[**Start with a discovery audit →**](mailto:aifoundry@byu.edu)
+[**Start a conversation →**](mailto:aifoundry@byu.edu)
 
 ## Three Offerings
 
@@ -26,9 +26,8 @@ workflow and automation setup, and co-working alongside your staff before handof
 
 ## Three Phases
 
-**Find the problem, build the thing, hand it over.** Fixed fee, run as a sequence rather than a
-menu. Each phase can be bought on its own, and the first is designed to be a low-commitment way
-to start.
+**Find the problem, build the thing, hand it over.** One fixed fee of **$22,000** covers all
+three phases across an 8-month engagement. Run as a sequence rather than a menu.
 
 | | Phase | What happens |
 |---|---|---|
@@ -60,7 +59,7 @@ set up your team, we are teaching the workflow we use every day, not one we read
 | **What** | An official program of the BYU Marriott School of Business |
 | **Faculty advisor** | Scott Murff, former McKinsey & Company |
 | **Team** | 15 MBAs and roughly 15 undergraduate builders, in mixed teams |
-| **Engagement model** | Fixed fee, scoped per phase |
+| **Engagement model** | $22,000 fixed fee, 8-month engagement |
 
 ## Who Is on Your Team
 
@@ -84,8 +83,22 @@ it does not change what you receive or the terms you receive it under.
 
 ## Commercial Terms
 
-**Fixed fee, scoped per phase.** Discovery is scoped small and deliberately low-commitment.
-Build and transfer are scoped to the work once discovery has defined it.
+**$22,000 per engagement, fixed fee.** A standard engagement runs 8 months and covers all three
+phases: audit and discovery, build, and transfer. The fee is fixed at the start. There are no
+hourly rates and no change orders for work inside the agreed scope.
+
+| | |
+|---|---|
+| **Fee** | $22,000, fixed |
+| **Duration** | 8 months |
+| **Team** | 2 dedicated builders, plus a QC lead and faculty oversight |
+| **Guaranteed capacity** | 20 team-hours per week, 640 hours over the engagement |
+
+The team is small on purpose. Two builders working 10 hours each per week, with QC and faculty
+oversight riding on top, is enough to ship a focused product and not enough to sprawl. Discovery
+exists to make sure what we build fits inside that capacity.
+
+A shorter discovery-only engagement is scoped separately and priced smaller.
 
 **Intellectual property.** You retain full rights to all deliverables, code, models, and
 documentation.

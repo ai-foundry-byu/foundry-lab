@@ -4,24 +4,34 @@
 
 ### What does it cost?
 
-Fixed fee, scoped per phase. Discovery is scoped small and deliberately low-commitment. Build
-and transfer are scoped to the work once discovery has defined it. Each phase can be bought on
-its own.
+$22,000 for a standard 8-month engagement, fixed at the start. That covers all three phases:
+audit and discovery, build, and transfer.
 
-We quote a fixed number before a phase starts. There are no hourly rates and no open-ended
-engagements.
+You get a dedicated two-person build team at 10 hours each per week, which is 640 hours of
+delivery capacity across the engagement, plus a QC lead and faculty oversight on top. There are
+no hourly rates and no change orders for work inside the agreed scope.
 
-### Why phase it rather than quote the whole thing?
+A shorter discovery-only engagement is scoped separately and priced smaller.
 
-Because before discovery, neither of us knows what should be built. Quoting a full build up
-front means one of us is guessing, and the client absorbs the error either way. Discovery ends
-with a concrete list of what to build and an estimate, and you decide from there whether to
-continue.
+### Why is discovery inside the fee rather than sold separately?
+
+Because before discovery neither of us knows what should be built, and we would rather absorb
+that uncertainty than bill you for it. Discovery ends with a concrete list of what to build,
+sized to the 640 hours the engagement actually has. That scoping conversation is the single
+highest-leverage part of the engagement, so it is not an upsell.
+
+If you want the audit on its own, without committing to a build, we scope that separately.
 
 ### What does the fee cover?
 
-Faculty oversight, the delivery team's time, software and API costs, tooling and infrastructure
-for the engagement, and program administration.
+The delivery team's time, QC, faculty oversight, software and API costs, tooling and
+infrastructure for the engagement, and program administration.
+
+### Is the team really only two people?
+
+Two dedicated builders, yes, plus a QC lead who reviews everything before it reaches you and a
+faculty advisor overseeing the engagement. Small teams ship. The constraint is deliberate, and
+discovery exists to make sure the scope fits the capacity rather than the other way around.
 
 ### When is payment due?
 

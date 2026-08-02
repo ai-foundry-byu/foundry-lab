@@ -58,7 +58,11 @@ Styles for both classes live at the bottom of `styles.css`.
   do not deliver reports. Source of truth is the one-pager, `~/Desktop/AI-Foundry.pdf`
 - **Three offerings**: full-stack applications; AI integration and orchestration; AI enablement
   and training
-- **Three phases**: 01 Audit and discovery, 02 Build, 03 Transfer. Fixed fee, each buyable alone
+- **Three phases**: 01 Audit and discovery, 02 Build, 03 Transfer
+- **Pricing (set 2026-08-01)**: $22,000 fixed fee for an 8-month engagement. Derived from $35
+  per student-hour: 2 builders x 10 hrs/week x 32 weeks = 640 hours = $22,400, rounded to
+  $22,000. Publish the $22,000 and the team shape; the hourly is internal. Discovery-only is
+  scoped separately and priced smaller
 - **Team**: 15 MBAs and roughly 15 undergraduate builders in mixed teams. Per-engagement roles
   are client lead, builders, QC lead
 - **Intake**: rolling. No application deadline, no fixed milestone calendar. Phase dates are set

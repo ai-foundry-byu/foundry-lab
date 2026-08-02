@@ -233,7 +233,7 @@ Complete the BYU end-of-semester student ratings survey to earn 10 extra credit 
 
 | Enrollment | Hours/Week | Credit Hours per Semester |
 |------------|------------|---------------------------|
-| Standard | 8–12 hours | 3.0 credits |
+| Standard | 10 hours | 3.0 credits |
 
 Students enroll each semester for a total of 6.0 credit hours across the year.
 
