@@ -15,7 +15,7 @@ corrected several things the first draft had wrong.
 | Three offerings | Full-stack applications; AI integration and orchestration; AI enablement and training |
 | Three phases | 01 Audit and discovery, 02 Build, 03 Transfer. Each buyable on its own |
 | Engagement model | Fixed fee, scoped per phase (numbers set separately, see below) |
-| Team | 15 MBAs and roughly 15 undergraduate builders, in mixed teams |
+| Team | 30 builders, in mixed teams |
 | Scott's title | Faculty Advisor, not Program Director |
 | Status | An official program of the BYU Marriott School of Business |
 | Domain and email | aifoundry.byu.edu, aifoundry@byu.edu |

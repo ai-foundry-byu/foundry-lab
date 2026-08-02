@@ -63,7 +63,7 @@ Styles for both classes live at the bottom of `styles.css`.
   per student-hour: 2 builders x 10 hrs/week x 32 weeks = 640 hours = $22,400, rounded to
   $22,000. Publish the $22,000 and the team shape; the hourly is internal. Discovery-only is
   scoped separately and priced smaller
-- **Team**: 15 MBAs and roughly 15 undergraduate builders in mixed teams. Per-engagement roles
+- **Team**: 30 builders in mixed teams, MBAs plus undergraduate builders. Per-engagement roles
   are client lead, builders, QC lead
 - **Intake**: rolling. No application deadline, no fixed milestone calendar. Phase dates are set
   per engagement at kick-off. Do not reintroduce fixed dates into partner-facing pages

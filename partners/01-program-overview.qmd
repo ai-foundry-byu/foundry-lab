@@ -58,7 +58,7 @@ set up your team, we are teaching the workflow we use every day, not one we read
 |---|---|
 | **What** | An official program of the BYU Marriott School of Business |
 | **Faculty advisor** | Scott Murff, former McKinsey & Company |
-| **Team** | 15 MBAs and roughly 15 undergraduate builders, in mixed teams |
+| **Team** | 30 builders, in mixed teams |
 | **Engagement model** | $22,000 fixed fee, 8-month engagement |
 
 ## Who Is on Your Team
