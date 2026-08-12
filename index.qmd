@@ -22,10 +22,12 @@ official website, [aifoundry.byu.edu](https://aifoundry.byu.edu).
 The Foundry is not an internship placement and not a research project. Every engagement ends
 with software running in the client's hands, and a real company has paid for it.
 
-There is no prerequisite. Many students take
-[Build, IS 693R / MSB 341](https://byu-strategy.github.io/product-management/), first. Many take
-both classes in the same semester. What you have already shipped does not decide whether you are
-in the Foundry. It decides what you own on a team.
+[Build, IS 693R / MSB 341](https://byu-strategy.github.io/product-management/), is the
+prerequisite. It is offered every fall and every winter. Exceptions are granted for the
+2026-2027 school year, since the Foundry is running for the first time and nobody has had the
+chance to take it yet. See
+[The Builder and the Consultant](students/06-builder-and-consultant.qmd) for the three pathways
+through this year, the self-assessment, and what the commitment involves.
 
 ## Course Numbers
 

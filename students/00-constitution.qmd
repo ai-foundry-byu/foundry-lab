@@ -1,0 +1,120 @@
+---
+title: "Constitution and Operating Model"
+author: "Scott Murff"
+date: "9/2/2026"
+format:
+  html: default
+  pdf: default
+---
+
+This document belongs to the whole team. Anyone may propose a change by commenting or editing
+the living version directly. We review proposed changes together in team meetings and revisit
+the whole document at the start of each semester, so it stays alive rather than becoming wall
+art.
+
+# Part 1: The Constitution
+
+## Our aspiration and our sources
+
+We seek to establish a world-class culture. Following Brigham Young's admonition to gather up
+all the good and true principles wherever we find them, we draw inspiration from many places,
+with particular emphasis on four organizations:
+
+- **Amazon**, [Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+- **Bridgewater**, [Original Philosophy](https://www.bridgewater.com/culture/bridgewaters-original-philosophy)
+- **McKinsey**, [Purpose, Mission, and Values](https://www.mckinsey.com/about-us/overview/our-purpose-mission-and-values)
+- **The Church of Jesus Christ of Latter-day Saints**, [Christlike Attributes, Preach My Gospel, Chapter 6](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng)
+
+What follows is our synthesis: the principles we commit to live by.
+
+## Our principles
+
+1. **Excellence over everything.** If forced to choose between excellence and money, we choose
+   excellence. We hold standards outsiders might consider unreasonably high, on purpose. Every
+   deliverable carries our name and BYU's.
+2. **Radical truthfulness.** Accuracy in understanding reality is the foundation everything else
+   rests on. Say the uncomfortable thing in the room, not the hallway.
+3. **Ideas win on merit, not rank.** Anyone may respectfully challenge anyone, including the
+   faculty advisor. Once a decision is made, disagree and commit.
+4. **Candor with charity.** Truth without love is brutality. Assume good intent, listen before
+   answering, and care about the person while being honest about the work.
+5. **Act in faith.** Faith is a principle of action, not a feeling of certainty. Move forward on
+   incomplete information; bias for action.
+6. **Mistakes are raw material.** A mistake surfaced quickly and studied honestly makes the whole
+   team smarter; a mistake hidden makes the whole team weaker. Pain plus reflection equals
+   progress.
+7. **Client interests first.** Put the client ahead of ourselves, preserve confidences, never
+   oversell what we or our tools can do, and deliver improvement that lasts beyond the
+   engagement.
+8. **Own your outcomes.** Take responsibility without excuse. No one here says "that's not my
+   job."
+9. **Everyone teaches, everyone learns.** We are an apprenticeship. Everyone should leave the
+   Foundry more capable than they arrived.
+10. **The red face test.** When a situation is ambiguous, ask: could I explain this decision to a
+    respected leader, say Clark Gilbert, Shane Reese, or Brigitte Madrian, without being red in
+    the face? If not, do not do it.
+
+# Part 2: The Operating Model
+
+## Flat hierarchy
+
+Client teams operate without hierarchy. A team may be composed of 1 undergrad and 1 MBA, 2
+undergrads, or 2 MBAs; in some cases teams may be slightly larger. In all cases, teams are flat
+with no hierarchy. Every member of the team has equal accountability and equal authority. Degree
+program, seniority, or AI Foundry leadership role confer no rank inside a team.
+
+What this means in practice:
+
+- **Self-organization.** Teams align on work streams themselves. They divide work by strength
+  and interest, not by status.
+- **Equal accountability.** The team owns the outcome together. If a deliverable slips or misses
+  the bar, that belongs to everyone on the team.
+- **Peer feedback.** Team members give feedback directly to each other as the first and normal
+  channel.
+- **Escalation.** When an issue cannot be resolved within the team, escalations go through JD and
+  Scott.
+- **Resetting teams.** If a team does not work well together it can be recomposed. This is a
+  normal operating mechanism, not a punishment.
+
+## Two courses, two roles
+
+The AI Foundry is a cross-listed class with an undergraduate section (STRAT 490R) and a graduate
+section (MBA 693R). For cross-listed courses, earning graduate credit is required to carry
+requirements beyond the undergraduate expectations. In the AI Foundry, that requirement is met by
+adding an organization leadership role: students in the graduate section help run the AI Foundry
+itself.
+
+- **Students in the undergraduate section build.** Their job is excellent client work, similar to
+  Sandbox, except building for clients instead of for yourself.
+- **Students in the graduate section build plus administer the organization itself.** They do the
+  same client work, and in addition take on a leadership role in running the AI Foundry as an
+  organization: operations, client pipeline, quality, recruiting, and culture.
+
+::: {.callout-note}
+With permission from the faculty advisor, undergraduates are eligible to enroll in the graduate
+section and be considered for AI Foundry leadership roles.
+:::
+
+The two sections with associated roles for those enrolled in the graduate section does not
+violate the flat hierarchy principle. Inside a client team, an MBA, or an undergraduate enrolled
+in the graduate section, has no rank over a student enrolled in the undergraduate section. Every
+team member has equal accountability and authority for the client work they are staffed to. The
+leadership roles are a different responsibility expected only in the graduate course and do not
+invoke any kind of authority over a teammate.
+
+## The Ask First feedback culture
+
+Everyone is empowered to give feedback to anyone at any time, respectfully and directly. More
+important, our norm is to regularly **ask** for feedback. Asking removes the awkwardness of
+unsolicited criticism, signals humility, and puts each of us in control of our own growth.
+
+A practical habit: at the end of a project, a meeting, or a deliverable review, ask at least one
+person "what is one thing I could have done better?" Feedback flows in every direction, including
+to the faculty advisor. In general, teams should carve out 15 minutes for mutual feedback once
+every two weeks.
+
+## Amending this document
+
+This document belongs to the whole team. Anyone may propose a change by commenting or editing
+directly. We review proposed changes together in team meetings and revisit the whole document at
+the start of each semester so it stays alive rather than becoming wall art.

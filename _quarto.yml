@@ -11,6 +11,10 @@ book:
   favicon: images/favicon.svg
   chapters:
     - index.qmd
+    - part: The Foundry
+      chapters:
+        - students/00-constitution.qmd
+        - students/06-builder-and-consultant.qmd
     - part: The Course
       chapters:
         - students/01-syllabus.qmd

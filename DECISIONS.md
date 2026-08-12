@@ -196,3 +196,15 @@ The screening tool is Restricted tier because it scores candidates for admission
 that feeds job placement. The LMS as described is well over 640 hours and should be sold as
 discovery first, cut to one shippable surface. Kim Moore is an attorney, so the adverse-impact
 conversation will be easy to have and expensive to skip.
+
+## Added 2026-08-12: prerequisite, pathways, and the stipend
+
+| # | Item | Status | Why it matters |
+|---|------|--------|----------------|
+| 17 | **Prerequisite** | Steady state: Build, IS 693R / MSB 341, is required, offered fall and winter. Exceptions granted for 2026-2027 only | Site now states it as policy with a footnote. Confirm the catalog can carry it, or that instructor consent is the mechanism |
+| 18 | **Three pathways for 2026-2027** | Published from Scott's 2026-08-12 email to the cohort | Option 2 asks students to carry both classes at once. No one has done that yet |
+| 19 | **Student hours** | Published as 10 hours per week | Same as open item 6. Now student-facing, so it is harder to walk back |
+| 20 | **Stipend** | Published as: applied to the student account, follows a funded engagement, not employment, intended to also cover AI subscription costs. No amounts published | Mechanism, timing, and who administers it are unresolved. Ties to open item 3, where the money goes |
+| 21 | **AI subscriptions** | Students carry their own. The Foundry does not provide seats | Sets a real cost of participation. Confirm this is what you want before students enroll |
+| 22 | **Constitution on the site** | Full text published at `students/00-constitution.qmd` | Living version stays the team Google Doc. The site copy will drift unless someone re-syncs it |
+
