@@ -124,7 +124,7 @@ Introduced on the site in `index.qmd`, `students/01-syllabus.qmd`, and
 | # | Item | Status | Why it matters |
 |---|------|--------|----------------|
 | 11 | **Builder axes** | Six, settled: Discovery, Design, Application Architecture, AI Systems, Agentic Workflow, Launch and Learn | 50-item self-report instrument is live and has one cohort of responses |
-| 12 | **Consultant axes** | Four, settled: Ownership, Client Presence, Communication, Collaboration. Derived from the Four Imperatives in STRAT 325 | Behavioral anchors drafted for Ownership only. The other three are not written yet |
+| 12 | **Consultant axes** | Four, settled: Work Stream Ownership, Client Presence, Communication, Collaboration. Derived from the Four Imperatives in STRAT 325 | Behavioral anchors drafted for Work Stream Ownership only. The other three are not written yet |
 | 13 | **Consultant rating mechanics** | Proposed: faculty plus teammates, midterm and end of term, 1 to 5 with written anchors | Syllabus says it feeds Client Evaluation and Peer / Team Evaluation without adding points. Untested |
 | 14 | **Tiers: Shadow, Contribute, Own** | Proposed | Replaces the earlier idea of a hard prerequisite. Not yet reflected in the milestone rubric, which assumes everyone ships |
 | 15 | **Prerequisite removed** | Settled. `index.qmd` no longer says students typically complete MSB 341 first | Two classes run in parallel. Readiness affects staffing, not enrollment |
