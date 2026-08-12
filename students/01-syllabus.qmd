@@ -82,7 +82,7 @@ Workflow, and Launch and Learn. You self-report these at the start of fall semes
 December. They are **not graded**. They exist so you can see your own profile, so teams can be
 staffed for coverage, and so the program can tell whether the year moved you.
 
-**The Consultant**, four axes: Work Stream Ownership, Client Presence, Communication, and
+**The Consultant**, four axes: Workstream Ownership, Client Presence, Communication, and
 Collaboration.
 These are what changes when the work belongs to someone else, and they are **not self-reported**.
 The faculty advisor and your teammates rate them against observed behavior at midterm and at the

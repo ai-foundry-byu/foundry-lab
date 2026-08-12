@@ -48,9 +48,9 @@ have already built and shipped, not from what you rated yourself on the baseline
 
 | Tier | What it means |
 |------|---------------|
-| **Shadow** | You are on the project, in the meetings, reading the repo. You do not own a work stream yet |
+| **Shadow** | You are on the project, in the meetings, reading the repo. You do not own a workstream yet |
 | **Contribute** | You own a piece of the work, with an experienced teammate backstopping you |
-| **Own** | You own a work stream end to end, and the client sees your name on it |
+| **Own** | You own a workstream end to end, and the client sees your name on it |
 
 Client lead is an Own-tier role. Students at Shadow or Contribute do not run the client
 relationship in their first engagement.
