@@ -154,8 +154,8 @@ Each milestone is scored on four dimensions, 10 points each:
 ### Client Evaluation (100 points)
 
 Your client point of contact evaluates the team twice: at mid-term for development only, and
-at the end of the year as an input to your grade. Five dimensions on a 1 to 7 scale. See
-[Evaluation](../partners/03-evaluation.qmd) for the exact questions.
+at the end of the year as an input to your grade. Five dimensions on a 1 to 7 scale, listed
+below. Faculty sends the client the same questionnaire both times, and you see the results.
 
 | Category | Max Points |
 |----------|------------|

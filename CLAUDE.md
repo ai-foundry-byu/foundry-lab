@@ -9,8 +9,10 @@ Marriott School of Business. Cross-listed as **MBA 693R** (section 011, Special 
 Management) and **STRAT 490R** (section 001, Topics in Strategic Management), Fridays
 8:00 to 11:50 AM in 2140 TNRB, 3.0 credits per semester.
 
-The site serves three audiences: students on Foundry teams, sponsoring client partners, and
-prospective sponsors reading the RFP.
+**This site is student-facing only** as of 2026-08-12. It is the program guide for people
+enrolled in the Lab. Client-facing content moved to the official website, `aifoundry.byu.edu`
+(repo `ai-foundry-byu/website`), which is the default portal and will link here for program
+details. Do not add partner or sales content to this site.
 
 Mirrors the structure of `byu-strategy/apm-lab`, with cross-listing presentation borrowed from
 `byu-strategy/product-management`.
@@ -26,20 +28,26 @@ Mirrors the structure of `byu-strategy/apm-lab`, with cross-listing presentation
 ## Content Structure
 
 ```
-index.qmd                       # Program overview, cross-listing, key dates
+index.qmd                       # Program guide front page, cross-listing, commercial shape
 
-students/
+students/                       # everything rendered
   01-syllabus.qmd               # Grading, policies, confidentiality, AI use, BYU boilerplate
   02-getting-started.qmd        # Onboarding, team roles, first two weeks
+  05-how-teams-are-staffed.qmd  # Pods, archetypes, matching rule, the points auction
   03-weekly-updates.qmd         # Weekly client email format and examples
   04-build-standards.qmd        # Quality bar, repo standards, decision log, QC gate
 
-partners/
+client-facing/                  # NOT rendered. Porting source for aifoundry.byu.edu
   01-program-overview.qmd       # Structure, milestones, what we do and do not do
   02-working-with-the-team.qmd  # Cadence, scoping, scope changes
   03-evaluation.qmd             # Mid-year and end-of-year feedback
   04-faq.qmd                    # Cost, IP, confidentiality, fit, hiring
-  05-rfp.qmd                    # Partner-sourcing page, mirrors the engineering capstone RFPs
+  05-rfp.qmd                    # Partner-sourcing page
+  06-project-intake.qmd         # Client intake questionnaire, never published
+
+ops/                            # NOT rendered. Internal, never published
+  staffing-model.md             # Pods, capacity, risk tiers, the points market rules
+  client-intake-form.md         # Intake questions, screening rubric, worked example
 ```
 
 ## Cross-Listing Pattern

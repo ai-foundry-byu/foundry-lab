@@ -1,17 +1,23 @@
 # foundry-lab
 
-Course and partner site for the **BYU AI Foundry Lab**.
+Student program guide for the **BYU AI Foundry Lab**.
 
 Cross-listed as **MBA 693R** (011) and **STRAT 490R** (001). Fridays 8:00 to 11:50 AM,
 2140 TNRB. 3.0 credits per semester, 6.0 across the year.
 
 Quarto book. Auto-renders to `docs/` and deploys to GitHub Pages on push to main.
 
-## Audiences
+## Audience
 
-- **Students** on Foundry delivery teams: syllabus, onboarding, weekly updates, build standards
-- **Client partners** sponsoring an engagement: structure, cadence, evaluation, FAQ
-- **Prospective sponsors**: the RFP at `partners/05-rfp.qmd`
+**Students only**, as of 2026-08-12. This site is the program guide for people enrolled in the
+Lab: syllabus, onboarding, how client teams are staffed, weekly updates, and build standards.
+
+Everything client-facing now lives on the official website, `aifoundry.byu.edu`
+(repo `ai-foundry-byu/website`), which is the default portal for everyone. The program guide
+will be linked from it. The former partner pages are parked in `client-facing/` as porting
+source and should be deleted once ported, not maintained in parallel.
+
+Internal operating documents that are not published anywhere are in `ops/`.
 
 ## Local development
 

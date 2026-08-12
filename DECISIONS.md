@@ -50,13 +50,16 @@ RFPs. It was wrong in four material ways, all now fixed:
 | 1 | ~~Actual fee figures~~ | **Set 2026-08-01. See Pricing below** | Resolved |
 | 2 | ~~How Breckenridge is priced~~ | **Resolved.** $22,000 for 8 months is exactly what they already expect from the engineering RFP. No exception, no reconciliation needed | Resolved |
 | 3 | **Where the money goes** | Unresolved | Brian asked Allyson about payment timing and BYU vendor setup in July and it died when engineering declined. Still the most urgent item |
-| 4 | **Capacity** | Site says "deliberately limited," no number. At 2 builders per engagement, your ~15 undergraduate builders imply roughly 7 concurrent engagements | With rolling intake and a CapSource campaign, you need an internal number even if it is not published |
+| 4 | ~~Capacity~~ | **Set 2026-08-12. Six concurrent engagements, seventh pod held as float.** See `ops/staffing-model.md` | Resolved |
 | 5 | **Discovery-only vs full engagement grading** | Syllabus says discovery-only teams do D plus a scaled transfer | Reasonable but untested. If a client stops after discovery, that team ships no software and the milestone rubric leans on shipping |
 | 6 | **Student hours** | Set at 10/week each, contractual not a range | Now load-bearing: it is the basis of the fee. Confirm 10 hrs supports 3.0 credits under BYU policy |
 | 7 | **Office hours slot** | Fri 11:00 AM–12:00 PM | Placeholder inside the class block |
 | 8 | **LMS** | Canvas | Product Management uses Canvas, APM Lab uses LearningSuite. Just confirm |
-| 9 | **Site URL** | `ai-foundry-byu.github.io/foundry-lab` | Repo not created yet. Banner links to aifoundry.byu.edu |
-| 10 | **Intake path** | RFP links to `mailto:aifoundry@byu.edu` | If CapSource builds a program page, that becomes the real submission path |
+| 9 | ~~Site URL~~ | **Live at `ai-foundry-byu.github.io/foundry-lab`** | Resolved |
+| 10 | **Intake path** | Questions written (`client-facing/06-project-intake.qmd`), form not built | Needs to become a real Google Form on `aifoundry.byu@gmail.com`, linked from aifoundry.byu.edu |
+| 11 | **Partner FAQ** | Deferred by Scott, 2026-08-12 | To be written for the official website, not here |
+| 12 | **Program guide link from the website** | Not yet added | aifoundry.byu.edu becomes the default portal for everyone and routes students here for program details |
+| 13 | **Are builders paid?** | Unresolved, see Pricing below | Decides whether $35/student-hour works at all |
 
 ## Pricing, set 2026-08-01
 
@@ -127,3 +130,69 @@ Introduced on the site in `index.qmd`, `students/01-syllabus.qmd`, and
 | 15 | **Prerequisite removed** | Settled. `index.qmd` no longer says students typically complete MSB 341 first | Two classes run in parallel. Readiness affects staffing, not enrollment |
 | 16 | **Baseline survey cadence** | Proposed: September and December | December re-run has not happened. Comparison claim is untested |
 
+
+## Added 2026-08-12: staffing model, intake, and the site split
+
+Three things settled in one sitting, prompted by the Indigo Institute inbound.
+
+### The site is student-facing only
+
+The Lab site was serving students, sponsoring partners, and prospective sponsors at once. It now
+serves students only. `partners/` moved to `client-facing/` and is out of the render. The
+official website, `aifoundry.byu.edu`, is the default portal for everyone and will link here for
+program details.
+
+`client-facing/` is porting source, not a maintained second copy. Delete it once the content is
+on the website. Two copies of the commercial terms is exactly how they drift.
+
+### Staffing model
+
+Full rules in `ops/staffing-model.md`, student-facing version at
+`students/05-how-teams-are-staffed.qmd`.
+
+- **The pod** is the unit: engagement lead (MBA, up to 2 engagements), two builders (10 hrs/week,
+  one engagement each, never shared), QC lead (up to 4 pods), design lead on demand, faculty
+  oversight. Matches what the published terms already promise.
+- **Six archetypes** classify projects and rate builders 0 to 3. A pod needs a 3 in the primary
+  archetype plus a second 3 on the bench as backup. Failing that, no build phase.
+- **Capacity is 6 concurrent engagements**, seventh pod held as float. Closes open item 4.
+- **One pod ships one product surface.** More than one product is more than one engagement, at
+  its own fee. Now stated on the site and in the intake questions.
+- **Three risk tiers.** Anything where an AI output influences a decision about a person is
+  Restricted, staffed by appointment, and carries a written carve-out: the client owns the
+  decision and its validation.
+
+### The points market
+
+100 points per month per builder, capped at 300, reset to zero on winning a seat. Fit gates
+eligibility first, Builder A is appointed against the matching rule, Builder B is auctioned to
+eligible bidders by sealed **second-price** bid.
+
+Second-price is deliberate: it makes bidding your true interest the dominant strategy, which is
+the only reason the mechanism is worth its complexity. Pay-your-bid in a market this thin would
+just reward whoever guesses the field best.
+
+**Open:** the auction has never run. Watch for two failure modes in the first cycle. One,
+everyone bids 300 on the same glamorous project and the clearing price says nothing. Two, an
+unglamorous but well-fitting project attracts one bid and clears at 1, which is fine but looks
+like nobody wanted it. Neither is fatal. Both are worth seeing before the rules harden.
+
+**Also open:** whether the 300 cap is right. It was picked, not derived.
+
+### Intake
+
+Questions at `client-facing/06-project-intake.qmd`, internal screening rubric and worked example
+at `ops/client-intake-form.md`. Every question maps to a staffing, scoping, or pricing decision.
+The rubric scores fit 0 to 12 with two automatic declines: no bench coverage, and no committed
+sponsor.
+
+Not yet built as a form. That is open item 10.
+
+### Indigo Institute, the case that prompted this
+
+Two projects in one email: an AI video interviewing and candidate screening tool, and a
+next-generation LMS. Run through the rubric this is **two engagements at $22,000 each**, not one.
+The screening tool is Restricted tier because it scores candidates for admission to a program
+that feeds job placement. The LMS as described is well over 640 hours and should be sold as
+discovery first, cut to one shippable surface. Kim Moore is an attorney, so the adverse-impact
+conversation will be easy to have and expensive to skip.

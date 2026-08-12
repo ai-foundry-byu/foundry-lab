@@ -1,0 +1,137 @@
+# Project Intake
+
+Everything below is what we ask before a scoping call. Every question exists because its answer
+changes how we staff the team, how we scope the work, or what it costs. If a question does not
+move one of those three, it is not on the form.
+
+You can answer it in an email, a document, or on a call. There is no portal and no application
+deadline.
+
+::: {.callout-note}
+**Short on time?** Answer sections 2, 3, and 8. Those are the ones that decide whether we can
+help you and when we could start. We will fill in the rest on the call.
+:::
+
+## Before You Start: Two Rules Worth Knowing
+
+**One engagement ships one product.** A dedicated two-person team at 640 hours can build and
+ship one focused product. It cannot build two. If you have more than one project in mind, that
+is welcome and common, but each is scoped, staffed, and priced as its own engagement. They can
+run in parallel if the bench has room, or in sequence. Telling us about both up front is better
+than compressing them into one brief.
+
+**When AI influences a decision about a person, you own the decision.** We build hiring,
+admissions, screening, and scoring tools, and we build them carefully. What we do not do is
+certify that a scoring instrument is fair, valid, or legally defensible for employment or
+admissions use. A human on your side reviews every output, your counsel owns validation, and we
+put all of that in writing before the build phase starts.
+
+## Section 1. Who You Are
+
+1. Company name and website
+2. Your name, title, email, and phone
+3. Are you the person who can approve scope and budget? If not, who is?
+4. How did you hear about us?
+
+## Section 2. The Problem
+
+5. In two or three sentences, what problem do you want solved?
+6. What happens today, without this? Who does the work, and how?
+7. How will you know it worked? Name the number that moves.
+8. Have you tried to solve this before? What happened?
+
+Question 8 matters more than it looks. A previous attempt that stalled is the best available
+map of where the hard part actually is.
+
+## Section 3. What You Want Built
+
+9. Which best describes it? Select all that apply.
+    - Net-new web or mobile application
+    - AI agent or copilot over your own data
+    - Automation of an existing workflow
+    - Analytics, forecasting, or a decision model
+    - Replacing a tool you currently pay for
+    - Not sure yet, we want the audit
+10. Who uses it, and roughly how many of them? Internal staff, your customers, the public?
+11. Is there an existing product or vendor this replaces or sits next to? Name it.
+12. If we shipped one thing in eight months, what is the single most important piece?
+13. What is explicitly out of scope, as far as you are concerned?
+
+Question 12 becomes the scope anchor. We quote your answer back to you in the written scope, so
+answer it as though it were binding, because it largely is.
+
+## Section 4. Technical Environment
+
+14. Do you have engineers on staff? How many, and will any of them work with us?
+15. What is your current stack and hosting, if any?
+16. Who owns the code repository during the build, you or us?
+17. List every system this must connect to, one per line.
+18. Can you provision accounts and API access for the team within two weeks of kickoff?
+
+Question 18 is the single most common cause of a stalled engagement. An honest "probably not"
+is far more useful to us than an optimistic yes.
+
+## Section 5. Data
+
+19. What data will the team need to see?
+20. Does any of it include personal information about identifiable individuals, health
+    information, education records, records about minors, or payment and financial account
+    data?
+21. Is the data available today, or does it need to be collected or cleaned first?
+22. Do you require your own NDA, or is our standard mutual NDA acceptable?
+
+## Section 6. If AI Makes or Influences a Decision
+
+Skip this section if it does not apply.
+
+23. Will the system's output influence a decision about a person? Hiring, admission, credit,
+    credentialing, care, or discipline?
+24. If yes, who on your side reviews the output before the decision is made?
+25. What does a wrong answer cost you?
+26. Do you have labeled examples of good and bad outcomes we can learn from?
+
+Question 26 decides whether a scoring model can be evaluated at all inside eight months. Without
+labeled outcomes there is no way to tell a good score from a confident one.
+
+## Section 7. Design
+
+27. Do you have brand assets, a design system, or existing interfaces we should match?
+28. Is design quality a priority here, or is this an internal tool where function is enough?
+
+## Section 8. Timing, Budget, and Commitment
+
+29. When would you want to start?
+30. Is there a hard external deadline? What drives it?
+31. Our standard engagement is $22,000 fixed for eight months, covering discovery, build, and
+    transfer. Is that workable?
+32. Who is your single weekly point of contact, and can they hold a standing 30 to 45 minute
+    call?
+33. Can you turn around decisions the team raises within one week?
+34. May we name you publicly as a partner and use the work as a case study?
+
+## Section 9. Anything Else
+
+35. What have we not asked that we should have?
+36. Attach anything useful: specs, screenshots, an RFP you already wrote.
+
+## What Happens Next
+
+| Step | When |
+|---|---|
+| We review for fit and reply | 2 business days |
+| 45-minute scoping call | Week 1 |
+| We name the proposed team and confirm the bench can staff it | Same week |
+| Discovery scoped and confirmed in writing, with fee, IP, and confidentiality terms | Week 2 |
+| Kickoff and architecture review | Week 3 |
+
+We do not tell a student they are on your project before the scope is signed, and we do not
+sign a build phase we cannot staff properly. If the answer is that we are not the right fit, you
+will get that answer in the first week rather than the fourth.
+
+## Contact
+
+**AI Foundry**, BYU Marriott School of Business
+
+[aifoundry.byu.edu](https://aifoundry.byu.edu) · aifoundry@byu.edu
+
+**Scott Murff**, Faculty Advisor · scott.murff@byu.edu
