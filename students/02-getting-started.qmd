@@ -9,6 +9,7 @@ guide gets you productive in the first two weeks.
 - [ ] Accept your GitHub invitation to the `ai-foundry-byu` organization
 - [ ] Confirm your team, your role, and your QC lead
 - [ ] Set up access to the project repository and approved tools
+- [ ] Complete the AI Foundry baseline survey, the six Builder axes
 - [ ] Read the client's proposal and any background material provided
 - [ ] Review the [Build Standards](04-build-standards.qmd) and the [Program Overview](../index.qmd)
 
@@ -39,6 +40,27 @@ Every team has the same three roles. They rotate by milestone unless the team ag
 
 The QC lead role is not decorative. Client-facing work that contains an unreconciled number or
 an unexplainable model output is a QC failure, and it is graded as one.
+
+## Where You Start on a Team
+
+Roles say what you do. Tier says how much of it you own. Your starting tier comes from what you
+have already built and shipped, not from what you rated yourself on the baseline survey.
+
+| Tier | What it means |
+|------|---------------|
+| **Shadow** | You are on the project, in the meetings, reading the repo. You do not own a workstream yet |
+| **Contribute** | You own a piece of the work, with an experienced teammate backstopping you |
+| **Own** | You own a workstream end to end, and the client sees your name on it |
+
+Client lead is an Own-tier role. Students at Shadow or Contribute do not run the client
+relationship in their first engagement.
+
+Tiers move during the semester, and they are meant to. Ask your QC lead what would have to be
+true for you to move up, then go do that. Nobody stays at Shadow because of a survey answer.
+
+Teams are staffed for coverage rather than for balance: every Builder axis has someone on the
+team who can carry it, even though no individual carries all six. If you are the only person on
+your team strong on an axis, that is not an accident.
 
 ## Key Dates
 

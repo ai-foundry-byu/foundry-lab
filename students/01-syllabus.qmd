@@ -72,6 +72,31 @@ single course calendar. Your team's review dates are set at kick-off and posted 
 All other Fridays are optional but strongly encouraged. Teams that skip studio time
 consistently underperform.
 
+## How You Are Assessed
+
+Two instruments run alongside the point total, and they measure different things in different
+ways.
+
+**The Builder**, six axes: Discovery, Design, Application Architecture, AI Systems, Agentic
+Workflow, and Launch and Learn. You self-report these at the start of fall semester and again in
+December. They are **not graded**. They exist so you can see your own profile, so teams can be
+staffed for coverage, and so the program can tell whether the year moved you.
+
+**The Consultant**, four axes: Ownership, Client Presence, Communication, and Collaboration.
+These are what changes when the work belongs to someone else, and they are **not self-reported**.
+The faculty advisor and your teammates rate them against observed behavior at midterm and at the
+end of each semester, using the same 1 to 5 scale with written behavioral anchors.
+
+The Consultant ratings inform the Client Evaluation and Peer / Team Evaluation components below.
+They do not add points of their own.
+
+| | Builder | Consultant |
+|---|---|---|
+| **What it measures** | What you can make | What changes when the work is for someone else |
+| **Who rates it** | You | Faculty and teammates |
+| **When** | September and December | Midterm and end of term |
+| **Graded** | No | Feeds two existing components |
+
 ## Grading
 
 Grades are based on weekly update emails, four milestone deliverables, client evaluation,

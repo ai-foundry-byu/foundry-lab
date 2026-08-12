@@ -112,3 +112,18 @@ to him explicitly rather than letting him discover it.
   and student portfolios collide constantly.
 - **"What We Do Not Do" is on the partner overview.** Filters bad-fit inbound before it costs a
   call, which matters more once CapSource is generating volume.
+
+## Added 2026-08-12: the two-shape framework
+
+Introduced on the site in `index.qmd`, `students/01-syllabus.qmd`, and
+`students/02-getting-started.qmd`. Grew out of the August baseline survey of 12 students.
+
+| # | Item | Status | Why it matters |
+|---|------|--------|----------------|
+| 11 | **Builder axes** | Six, settled: Discovery, Design, Application Architecture, AI Systems, Agentic Workflow, Launch and Learn | 50-item self-report instrument is live and has one cohort of responses |
+| 12 | **Consultant axes** | Four, settled: Ownership, Client Presence, Communication, Collaboration. Derived from the Four Imperatives in STRAT 325 | Behavioral anchors drafted for Ownership only. The other three are not written yet |
+| 13 | **Consultant rating mechanics** | Proposed: faculty plus teammates, midterm and end of term, 1 to 5 with written anchors | Syllabus says it feeds Client Evaluation and Peer / Team Evaluation without adding points. Untested |
+| 14 | **Tiers: Shadow, Contribute, Own** | Proposed | Replaces the earlier idea of a hard prerequisite. Not yet reflected in the milestone rubric, which assumes everyone ships |
+| 15 | **Prerequisite removed** | Settled. `index.qmd` no longer says students typically complete MSB 341 first | Two classes run in parallel. Readiness affects staffing, not enrollment |
+| 16 | **Baseline survey cadence** | Proposed: September and December | December re-run has not happened. Comparison claim is untested |
+

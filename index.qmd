@@ -21,9 +21,10 @@ academic credit through the AI Foundry Lab while working on real client engageme
 The Foundry is not an internship placement and not a research project. Every engagement ends
 with software running in the client's hands.
 
-Students typically complete
-[MSB 341 - Product Management](https://byu-strategy.github.io/product-management/)
-before joining a delivery team, so they arrive with product and applied AI skills already built.
+There is no prerequisite. Many students take
+[Build, IS 693R / MSB 341](https://byu-strategy.github.io/product-management/), first. Many take
+both classes in the same semester. What you have already shipped does not decide whether you are
+in the Foundry. It decides what you own on a team.
 
 ## Course Numbers
 
@@ -48,6 +49,31 @@ Three offerings. Engagements usually combine them.
 | **Full-stack applications** | Net-new web and mobile applications, built end to end and shipped to production. B2C, B2B, and internal tools |
 | **AI integration and orchestration** | AI wired into systems the client already runs. Agents and copilots over their data, automations across Slack and Notion, document processing and routing |
 | **AI enablement and training** | Setting the client's team up to build this way themselves, on the same tooling we use. Co-working, then handoff |
+
+## How We Develop Builders
+
+The Foundry trains full-stack product builders: people who can carry an idea from a user problem
+to a working product someone actually uses, with AI as both the material and the tool.
+
+Two shapes describe that person.
+
+![](images/hexagon-and-diamond.png)
+
+**The Builder** is what you can make. Six axes: Discovery, Design, Application Architecture, AI
+Systems, Agentic Workflow, and Launch and Learn. Students self-report on all six at the start of
+fall semester and again in December, and see their own profile both times.
+
+**The Consultant** is what changes when the work belongs to someone else. Four axes: Ownership,
+Client Presence, Communication, and Collaboration. These are not self-reported. Faculty and
+teammates rate them against observed behavior at midterm and at the end of the term.
+
+Nobody arrives strong on all ten. Teams are staffed so the team covers every Builder axis even
+when no single member does.
+
+| Class | What it does |
+|---|---|
+| **Build**, IS 693R / MSB 341 | Raises your floor. The goal is not a 5 anywhere, it is nothing below a 3 |
+| **The Foundry Lab**, this course | Tests your ceiling, and is the only place the Consultant axes develop at all |
 
 ## How Engagements Run
 
