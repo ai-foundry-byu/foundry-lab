@@ -10,6 +10,8 @@ format:
 Curated reading, courses, and accounts for becoming an AI product builder, organized by the six
 Builder axes.
 
+![](../images/builder-model.png)
+
 **How to use this.** Do not work through it top to bottom. Find your lowest axis on your baseline
 profile, start with the one item marked **Start here**, and come back for the rest when you need
 it. One good resource finished beats six skimmed.
