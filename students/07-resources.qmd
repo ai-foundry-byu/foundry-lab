@@ -137,7 +137,7 @@ above are the only path. It is also the axis this cohort is weakest on.
 | [@simonw](https://x.com/simonw) Simon Willison | Creator of Datasette, co-creator of Django. Near-daily practical posts. His [blog](https://simonwillison.net/) is the better resource, organized by tag |
 | [@steipete](https://x.com/steipete) Peter Steinberger | Built and sold PSPDFKit, now works on agents full time. The frontier of multi-agent setups. Not a first read |
 | [@emollick](https://x.com/emollick) Ethan Mollick | Wharton. Structured experiments on what AI is actually good and bad at. [One Useful Thing](https://www.oneusefulthing.org/) is the better subscription |
-| [@danshipper](https://x.com/danshipper) Dan Shipper | CEO of [Every](https://every.to/). Writes about AI and knowledge work while shipping AI products, so the takes come with receipts |
+| [@danshipper](https://x.com/danshipper) Dan Shipper and [@every](https://x.com/every) | CEO of [Every](https://every.to/) and the publication itself. Writes about AI and knowledge work while shipping AI products, so the takes come with receipts. The apps they build in public are worth studying as much as the writing |
 | [@HamelHusain](https://x.com/HamelHusain) Hamel Husain and [@sh_reya](https://x.com/sh_reya) Shreya Shankar | The two people who turned evals into a teachable subject. Their free course is the AI Systems start-here item |
 | [@chipro](https://x.com/chipro) Chip Huyen | Wrote AI Engineering. Production systems, cost and latency tradeoffs |
 | [@swyx](https://x.com/swyx) | The connective tissue of the AI engineering scene, via Latent Space |
