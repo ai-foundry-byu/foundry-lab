@@ -369,6 +369,19 @@ above are the only path. It is also the axis this cohort is weakest on.
 
 Useful for perspective, not for shipping this week.
 
-Sam Altman [@sama](https://x.com/sama) · Dario Amodei [@darioamodei](https://x.com/darioamodei) · Demis Hassabis [@demishassabis](https://x.com/demishassabis) · Greg Brockman [@gdb](https://x.com/gdb) · Jensen Huang [@JensenHuang](https://x.com/JensenHuang) · Marc Andreessen [@pmarca](https://x.com/pmarca)
-
-Andrej Karpathy [@karpathy](https://x.com/karpathy) · Andrew Ng [@AndrewYNg](https://x.com/AndrewYNg) · Yann LeCun [@ylecun](https://x.com/ylecun) · Fei-Fei Li [@drfeifei](https://x.com/drfeifei) · Sebastian Raschka [@rasbt](https://x.com/rasbt) · Lex Fridman [@lexfridman](https://x.com/lexfridman) · Logan Kilpatrick [@OfficialLoganK](https://x.com/OfficialLoganK) · Kai-Fu Lee [@kaifulee](https://x.com/kaifulee)
+| Name | Handle | Who they are |
+|---|---|---|
+| Sam Altman | [@sama](https://x.com/sama) | CEO, OpenAI |
+| Dario Amodei | [@darioamodei](https://x.com/darioamodei) | CEO, Anthropic |
+| Demis Hassabis | [@demishassabis](https://x.com/demishassabis) | CEO, Google DeepMind |
+| Greg Brockman | [@gdb](https://x.com/gdb) | Co-founder, OpenAI |
+| Jensen Huang | [@JensenHuang](https://x.com/JensenHuang) | CEO, NVIDIA. The compute side of the boom |
+| Marc Andreessen | [@pmarca](https://x.com/pmarca) | Co-founder, a16z. Investment and long-horizon takes |
+| Andrej Karpathy | [@karpathy](https://x.com/karpathy) | Researcher and educator. The clearest explainer of how LLMs work |
+| Andrew Ng | [@AndrewYNg](https://x.com/AndrewYNg) | Founder of DeepLearning.AI. Applied ML and career advice |
+| Yann LeCun | [@ylecun](https://x.com/ylecun) | Deep learning pioneer, NYU. Strong and useful dissenting opinions |
+| Fei-Fei Li | [@drfeifei](https://x.com/drfeifei) | Stanford HAI. Created ImageNet. Human-centered AI |
+| Sebastian Raschka | [@rasbt](https://x.com/rasbt) | Author and educator on LLM implementation |
+| Lex Fridman | [@lexfridman](https://x.com/lexfridman) | Long-form interviews with AI researchers and founders |
+| Logan Kilpatrick | [@OfficialLoganK](https://x.com/OfficialLoganK) | AI developer ecosystem and platform |
+| Kai-Fu Lee | [@kaifulee](https://x.com/kaifulee) | Investor and author. Global and China AI perspective |
