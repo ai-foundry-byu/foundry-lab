@@ -372,9 +372,3 @@ Useful for perspective, not for shipping this week.
 Sam Altman [@sama](https://x.com/sama) · Dario Amodei [@darioamodei](https://x.com/darioamodei) · Demis Hassabis [@demishassabis](https://x.com/demishassabis) · Greg Brockman [@gdb](https://x.com/gdb) · Jensen Huang [@JensenHuang](https://x.com/JensenHuang) · Marc Andreessen [@pmarca](https://x.com/pmarca)
 
 Andrej Karpathy [@karpathy](https://x.com/karpathy) · Andrew Ng [@AndrewYNg](https://x.com/AndrewYNg) · Yann LeCun [@ylecun](https://x.com/ylecun) · Fei-Fei Li [@drfeifei](https://x.com/drfeifei) · Sebastian Raschka [@rasbt](https://x.com/rasbt) · Lex Fridman [@lexfridman](https://x.com/lexfridman) · Logan Kilpatrick [@OfficialLoganK](https://x.com/OfficialLoganK) · Kai-Fu Lee [@kaifulee](https://x.com/kaifulee)
-
-## If you only do three things
-
-1. Take the [baseline self-assessment](https://docs.google.com/forms/d/e/1FAIpQLSeQoRRuXASRW2GOi5EOUdnP5-YDpFpkUu48AmqyiRoGbUn8Vw/viewform) and find your lowest axis.
-2. Read the one **Start here** item for that axis.
-3. Subscribe to two things, not twenty. One product, one building.
