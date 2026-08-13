@@ -14,7 +14,7 @@ Builder axes.
 
 **How to use this.** Do not work through it top to bottom. Find your lowest axis on your baseline
 profile, start with the one item marked **Start here**, and come back for the rest when you need
-it. One good resource finished beats six skimmed.
+it.
 
 Verified August 2026. Anthropic moved several documentation URLs during 2025 and 2026, so older
 links you find elsewhere may redirect or break.
