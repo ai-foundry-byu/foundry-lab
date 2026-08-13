@@ -1,6 +1,6 @@
 <header class="book-header-banner">
   <a href="https://aifoundry.byu.edu" target="_blank">
-    <img src="images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry" />
+    <img src="/foundry-lab/images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry" />
   </a>
 </header>
 
@@ -25,6 +25,15 @@
       nums.className = 'sidebar-course-numbers';
       nums.textContent = 'MBA 693R · STRAT 490R';
       title.insertAdjacentElement('afterend', nums);
+    }
+  });
+</script>
+
+<!-- Draft watermark on every page except the resources page -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (!/07-resources/.test(window.location.pathname)) {
+      document.body.classList.add('draft-page');
     }
   });
 </script>
