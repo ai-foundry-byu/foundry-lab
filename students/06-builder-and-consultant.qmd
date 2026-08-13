@@ -41,6 +41,9 @@ far the cohort moves by December.
 
 A 2 is more useful to us than an inflated 4.
 
+Once you have your profile, [Resources](07-resources.qmd) has curated reading and courses
+for each axis, plus who to follow.
+
 ## The two classes
 
 | | **Build** | **The Foundry Lab** |
