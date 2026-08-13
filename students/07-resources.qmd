@@ -123,6 +123,11 @@ Getting it in front of people and finding out whether it worked.
 
 Follow fewer accounts than you think. These are grouped by what they are useful for.
 
+One thing worth knowing before you build a feed: **Application Architecture has almost no
+social media presence.** Nobody posts in depth about schema design, deploys, or CI. Two separate
+searches turned up the same answer. For that axis, feeds will not help you and the docs and books
+above are the only path. It is also the axis this cohort is weakest on.
+
 ### For building, the highest signal for Foundry work
 
 | Account | Why |
@@ -132,6 +137,11 @@ Follow fewer accounts than you think. These are grouped by what they are useful 
 | [@simonw](https://x.com/simonw) Simon Willison | Creator of Datasette, co-creator of Django. Near-daily practical posts. His [blog](https://simonwillison.net/) is the better resource, organized by tag |
 | [@steipete](https://x.com/steipete) Peter Steinberger | Built and sold PSPDFKit, now works on agents full time. The frontier of multi-agent setups. Not a first read |
 | [@emollick](https://x.com/emollick) Ethan Mollick | Wharton. Structured experiments on what AI is actually good and bad at. [One Useful Thing](https://www.oneusefulthing.org/) is the better subscription |
+| [@HamelHusain](https://x.com/HamelHusain) Hamel Husain and [@sh_reya](https://x.com/sh_reya) Shreya Shankar | The two people who turned evals into a teachable subject. Their free course is the AI Systems start-here item |
+| [@chipro](https://x.com/chipro) Chip Huyen | Wrote AI Engineering. Production systems, cost and latency tradeoffs |
+| [@swyx](https://x.com/swyx) | The connective tissue of the AI engineering scene, via Latent Space |
+| [@amanrsanger](https://x.com/amanrsanger) Aman Sanger | Cursor founder. The one framework account that is load-bearing for this stack |
+| [@alexalbert__](https://x.com/alexalbert__) Alex Albert | Anthropic, on prompting and agent behavior. The practice counterpart to @ClaudeDevs announcements |
 
 ### For product
 
