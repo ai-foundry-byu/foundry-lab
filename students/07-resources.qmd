@@ -43,6 +43,7 @@ The surface and the flow.
 | [Handmade Designs: The New Trust Signal](https://www.nngroup.com/articles/handmade-designs/), NN/g | Article, 2026 | Directly on the UI critique row: as AI polish becomes free, imperfection starts reading as trust |
 | [shadcn/ui](https://ui.shadcn.com/docs) | Docs | The component system agents actually write against, built to be legible to an LLM |
 | [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) | Docs | Canonical reference for platform-native patterns and component behavior |
+| [The design process is dead. Here's what's replacing it.](https://www.lennysnewsletter.com/p/the-design-process-is-dead), Jenny Wen | Article, 2026 | Head of design at Claude on why discovery, mock, iterate is obsolete, and what taste means when prototyping is free |
 | [The Looking Glass](https://lg.substack.com/), Julie Zhuo | Newsletter | Ex-Facebook VP of Design on judgment and critique culture |
 
 ## Application Architecture
