@@ -155,7 +155,7 @@ body.draft-page::after {
 }
 
 /* Push the banner clear of the fixed draft bar */
-body.draft-page header.book-header-banner { margin-top: 2rem; }
+body.draft-page header.book-header-banner { padding-top: 2.4rem; }
 
 @media print {
   body.draft-page::after { display: none; }
